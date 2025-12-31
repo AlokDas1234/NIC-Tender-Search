@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Clients Table</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f5f5f5;
+            padding: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            overflow: hidden;
+            box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
+            background: white;
+            border-radius: 8px;
+        }
+
+        th {
+            background: #059862;
+            color: white;
+            padding: 12px;
+            text-align: left;
+            font-size: 16px;
+        }
+
+        tr:nth-child(even) {
+            background: #e8f9ff; /* Light blue rows */
+        }
+
+        tr:nth-child(odd) {
+            background: #ffffff; /* White rows */
+        }
+
+        td {
+            padding: 10px;
+            font-size: 15px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        tr:hover {
+            background: #c0efff; /* Hover highlight */
+            transition: 0.2s;
+        }
+
+        .serial {
+            background: #00d5ff;
+            font-weight: bold;
+            text-align: center;
+            width: 70px;
+            border-right: 2px solid #fff;
+        }
+    </style>
+</head>
+
+<body>
+
+{% if clients %}
+<table>
+    <tr>
+        <th>Serial No</th>
+        <th>State Name</th>
+        <th>Site URL</th>
+        <th>Search Key</th>
+        <th>Exclude Key</th>
+    </tr>
+
+    {% for client in clients %}
+    <tr>
+        <td class="serial">{{ forloop.counter }}</td>
+        <td>{{ client.state_name }}</td>
+        <td>{{ client.site_url }}</td>
+        <td>{{ client.search_key }}</td>
+        <td>{{ client.exclude_key }}</td>
+
+    </tr>
+    {% endfor %}
+</table>
+{% endif %}
+
+</body>
+</html>

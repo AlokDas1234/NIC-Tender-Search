@@ -1,0 +1,4 @@
+creds.json
+*.json
+.env
+config.json

@@ -267,7 +267,7 @@ def get_tenders(request):#Previously  Client.objects.filter
     client_reqs = Search.objects.filter(user=request.user).values(
         "state_name", "search_key", "exclude_key"
     )
-
+    final_exclude= Q()
     tender_filter = Q()
     for client_req in client_reqs:
         state = client_req["state_name"]
@@ -275,13 +275,23 @@ def get_tenders(request):#Previously  Client.objects.filter
             k.strip() for k in client_req["search_key"].split(",") if k.strip()
         ]
 
+        exclude_keys = [
+            e.strip() for e in client_req["exclude_key"].split("|") if e.strip()
+        ]
+
         search_q = Q()
         for key in search_keys:
             search_q |= Q(search_key__iexact=key)
-
         tender_filter |= (Q(state_name__iexact=state) & search_q)
+
+        exclude_q = Q()
+        for x_key in exclude_keys:
+            exclude_q |= Q(work_description__icontains=x_key)
+        final_exclude |= Q(state_name__iexact=state) & exclude_q
+
     if client_reqs:
-        tenders = TenderResults.objects.filter(tender_filter).distinct().order_by("-search_time")
+        tenders = (TenderResults.objects.filter(tender_filter).
+                   exclude(final_exclude).distinct().order_by("-search_time"))
         paginator = TenderPagination()
         page = paginator.paginate_queryset(tenders, request)
 
@@ -326,27 +336,110 @@ def del_search(request):
     return Response({"message": " All Search Req  deleted"})
 
 
+
+#
+# @api_view(["GET"])
+# @permission_classes([IsAuthenticated])
+# def download_all_tenders(request):
+#     client_reqs = Client.objects.filter(user=request.user).values(
+#         "state_name", "search_key"
+#     )
+#
+#     tender_filter = Q()
+#     for client_req in client_reqs:
+#         state = client_req["state_name"]
+#         search_keys = [
+#             k.strip() for k in client_req["search_key"].split(",") if k.strip()
+#         ]
+#
+#         search_q = Q()
+#         for key in search_keys:
+#             search_q |= Q(search_key__iexact=key)
+#
+#         tender_filter |= (Q(state_name__iexact=state) & search_q)
+#
+#     tenders = TenderResults.objects.filter(tender_filter).distinct()
+#
+#     wb = Workbook()
+#     ws = wb.active
+#     ws.title = "Tenders"
+#
+#     headers = [
+#         "search_time", "tender_id", "state_name", "search_key",
+#         "site_link", "work_description", "organization_chain",
+#         "bid_submission_end_date", "bid_submission_end_time",
+#         "tender_value", "emd_amt", "tender_fee"
+#     ]
+#     ws.append(headers)
+#
+#     for t in tenders:
+#         ws.append([
+#             t.search_time,
+#             t.tender_id,
+#             t.state_name,
+#             t.search_key,
+#             t.site_link,
+#             t.work_description,
+#             t.organization_chain,
+#             t.bid_submission_end_date,
+#             t.bid_submission_end_time,
+#             t.tender_value,
+#             t.emd_amt,
+#             t.tender_fee,
+#         ])
+#
+#     response = HttpResponse(
+#         content_type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+#     )
+#     response["Content-Disposition"] = 'attachment; filename="all_tenders.xlsx"'
+#
+#     wb.save(response)
+#     return response
+
+from django.db.models import Q
+from rest_framework.decorators import api_view, permission_classes
+from rest_framework.permissions import IsAuthenticated
+
 @api_view(["GET"])
 @permission_classes([IsAuthenticated])
 def download_all_tenders(request):
     client_reqs = Client.objects.filter(user=request.user).values(
-        "state_name", "search_key"
+        "state_name", "search_key", "exclude_key"
     )
 
-    tender_filter = Q()
+    final_filter = Q()
+    final_exclude = Q()
+
     for client_req in client_reqs:
         state = client_req["state_name"]
+
         search_keys = [
             k.strip() for k in client_req["search_key"].split(",") if k.strip()
         ]
 
+        exclude_keys = [
+            e.strip() for e in client_req["exclude_key"].split("|") if e.strip()
+        ]
+
+        # INCLUDE keys
         search_q = Q()
         for key in search_keys:
             search_q |= Q(search_key__iexact=key)
 
-        tender_filter |= (Q(state_name__iexact=state) & search_q)
+        final_filter |= Q(state_name__iexact=state) & search_q
 
-    tenders = TenderResults.objects.filter(tender_filter).distinct()
+        # EXCLUDE keys
+        exclude_q = Q()
+        for x_key in exclude_keys:
+            exclude_q |= Q(work_description__icontains=x_key)
+        final_exclude |= Q(state_name__iexact=state) & exclude_q
+
+    tenders = (
+        TenderResults.objects
+        .filter(final_filter)
+        .exclude(final_exclude)
+        .distinct()
+    )
 
     wb = Workbook()
     ws = wb.active
@@ -359,7 +452,6 @@ def download_all_tenders(request):
         "tender_value", "emd_amt", "tender_fee"
     ]
     ws.append(headers)
-
     for t in tenders:
         ws.append([
             t.search_time,
@@ -383,3 +475,4 @@ def download_all_tenders(request):
 
     wb.save(response)
     return response
+

@@ -19,6 +19,7 @@ from .views import (
     run_scraper_task,
     scraper_status,
     download_client_fields_excel,
+    download_client_fields,
     login,
     stop_scraper_task,
     get_client_search,
@@ -42,8 +43,8 @@ urlpatterns = [
     path("run-scraper/<int:search_id>/", run_scraper_task),
     path("scraper-status/", scraper_status),
     path("search/", get_client_search),
-
     path("client-fields-excel/", download_client_fields_excel),
+    path("client-fields/", download_client_fields),
     path("login-page/", login),
     path("stop-scraper/", stop_scraper_task),
 

@@ -65,23 +65,6 @@ const GetTenders = () => {
   };
 
 
-  // const delTenders = async () => {
-  //   const confirm = window.confirm(
-  //     "⚠️ This will delete ALL tender data. Are you sure?"
-  //   );
-  //   if (!confirm) return;
-
-  //   try {
-  //     const res = await API.post("del-tenders/");
-  //     alert("✅ All Uploaded Tenders deleted");
-  //      fetchTenders(1);
-  //     // console.log(res.data);
-  //   } catch (err) {
-  //     console.error(err);
-  //     alert("❌ Failed to delete tender");
-  //   }
-  // };
-
   return (
     <div>
       <h2>Available Tenders</h2>

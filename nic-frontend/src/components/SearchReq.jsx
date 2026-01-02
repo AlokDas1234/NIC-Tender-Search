@@ -3,6 +3,8 @@ import React, { useState,useEffect } from "react";
 import API from "./api";
 import Dashboard from "./Dashboard";
 import AddControl from "./AddControl";
+import GetFields from "./GetClientField";
+import GetAllField from "./GetClientAllField";
 
 const GetSearcReq = () => {
   const [req, setReq] = useState([]);
@@ -58,7 +60,6 @@ const runScraperForSearch = async (searchId) => {
   }
 };
 
-
 const delScraperForSearch = async (searchId,state_name) => {
   try {
     const res = await API.post(`del-scraper/${searchId}/`);
@@ -111,6 +112,10 @@ const startScraper = async () => {
       <h2>Search  Requirements</h2>      
       <button onClick={startScraper}>Run All Scrape</button>
 
+   
+      <GetFields/>
+      <GetAllField/>
+
       <h2>Add Requirements</h2>
       <button onClick={() => setShowAdd(true)}>Add Requirement</button>
 
@@ -126,7 +131,6 @@ const startScraper = async () => {
 <input type="file" onChange={handleUpload} />
 
     <h2>Delete Requirement</h2>
-
 <button onClick={delsearch}>Delete Req</button>
 
 
@@ -173,5 +177,4 @@ const startScraper = async () => {
     </div>
   );
 };
-
 export default GetSearcReq;

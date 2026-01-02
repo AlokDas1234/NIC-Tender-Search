@@ -19,6 +19,11 @@ from rest_framework.pagination import PageNumberPagination
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import status
+from openpyxl import Workbook
+from django.http import HttpResponse
+from rest_framework.decorators import api_view, permission_classes
+from rest_framework.permissions import IsAuthenticated
+
 
 @api_view(["POST"])
 @permission_classes([AllowAny])
@@ -119,16 +124,16 @@ def get_client_search(request):
     serializer = SearchTenderSerializer(search_clients, many=True)
     return Response(serializer.data)
 
+
 @api_view(["GET"])
 @permission_classes([IsAuthenticated])
 def download_client_fields_excel(request):
     # Get field names excluding 'id'
     fields = [
         field.name
-        for field in Client._meta.fields
+        for field in Search._meta.fields
         if field.name != "id"
     ]
-
     # Create Excel workbook
     wb = Workbook()
     ws = wb.active
@@ -140,9 +145,42 @@ def download_client_fields_excel(request):
         content_type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
     )
     response["Content-Disposition"] = 'attachment; filename="client_fields.xlsx"'
+    wb.save(response)
+    return response
+
+
+
+@api_view(["GET"])
+@permission_classes([IsAuthenticated])
+def download_client_fields(request):
+    queryset = Search.objects.values(
+        "state_name", "site_url", "search_key", "exclude_key"
+    )
+    wb = Workbook()
+    ws = wb.active
+    ws.title = "Search Data"
+
+    # ✅ Header row
+    headers = ["state_name", "site_url", "search_key", "exclude_key"]
+    ws.append(headers)
+
+    # ✅ Data rows
+    for row in queryset:
+        ws.append([
+            row["state_name"],
+            row["site_url"],
+            row["search_key"],
+            row["exclude_key"],
+        ])
+
+    response = HttpResponse(
+        content_type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    )
+    response["Content-Disposition"] = 'attachment; filename="search_data.xlsx"'
 
     wb.save(response)
     return response
+
 
 
 @api_view(["POST"])
@@ -274,11 +312,9 @@ def get_tenders(request):#Previously  Client.objects.filter
         search_keys = [
             k.strip() for k in client_req["search_key"].split(",") if k.strip()
         ]
-
         exclude_keys = [
             e.strip() for e in client_req["exclude_key"].split("|") if e.strip()
         ]
-
         search_q = Q()
         for key in search_keys:
             search_q |= Q(search_key__iexact=key)
@@ -290,8 +326,7 @@ def get_tenders(request):#Previously  Client.objects.filter
         final_exclude |= Q(state_name__iexact=state) & exclude_q
 
     if client_reqs:
-        tenders = (TenderResults.objects.filter(tender_filter).
-                   exclude(final_exclude).distinct().order_by("-search_time"))
+        tenders = TenderResults.objects.filter(tender_filter).exclude(final_exclude).distinct().order_by("-search_time")
         paginator = TenderPagination()
         page = paginator.paginate_queryset(tenders, request)
 
@@ -472,7 +507,6 @@ def download_all_tenders(request):
         content_type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
     )
     response["Content-Disposition"] = 'attachment; filename="all_tenders.xlsx"'
-
     wb.save(response)
     return response
 

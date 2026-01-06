@@ -20,7 +20,7 @@ from selenium.common.exceptions import StaleElementReferenceException
 from .models import TenderResults
 from django.contrib.auth.models import User
 import logging
-logger = logging.getLogger(__name__)
+logger = logging.getLogger("home.tasks")
 
 
 
@@ -59,6 +59,8 @@ def run_scraper(self,user_id,search_id):
         try:
             logger.info("Creating Chrome driver")
             driver = create_driver()
+            driver.set_page_load_timeout(120)
+            driver.set_script_timeout(120)
             logger.info("Chrome driver created successfully")
         except Exception:
             logger.exception("❌ Chrome driver failed")

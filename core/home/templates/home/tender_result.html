@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Clients Table</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f5f5f5;
+            padding: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            overflow: hidden;
+            box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
+            background: white;
+            border-radius: 8px;
+        }
+
+        th {
+            background: #059862;
+            color: white;
+            padding: 12px;
+            text-align: left;
+            font-size: 16px;
+        }
+
+        tr:nth-child(even) {
+            background: #e8f9ff; /* Light blue rows */
+        }
+
+        tr:nth-child(odd) {
+            background: #ffffff; /* White rows */
+        }
+
+        td {
+            padding: 10px;
+            font-size: 15px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        tr:hover {
+            background: #c0efff; /* Hover highlight */
+            transition: 0.2s;
+        }
+
+        .serial {
+            background: #00d5ff;
+            font-weight: bold;
+            text-align: center;
+            width: 70px;
+            border-right: 2px solid #fff;
+        }
+    </style>
+</head>
+
+<body>
+
+{% if results %}
+<table>
+    <tr>
+        <th>Serial No</th>
+        <th>Tender ID</th>
+        <th>State Name</th>
+        <th>Search Key</th>
+        <th>Site URL</th>
+        <th>Work Description</th>
+        <th>Organization Chain</th>
+        <th>Bid submission End Date</th>
+        <th>Bid submission End Time</th>
+        <th>Tender Value</th>
+        <th>EMD Amt</th>
+        <th>Tender Fee</th>
+    </tr>
+
+    {% for result in results %}
+    <tr>
+        <td class="serial">{{ forloop.counter }}</td>
+
+        <td>{{ result.tender_id }}</td>
+        <td>{{ result.state_name }}</td>
+        <td>{{ result.search_key }}</td>
+        <td>{{ result.site_link }}</td>
+        <td>{{ result.work_description }}</td>
+        <td>{{ result.organization_chain }}</td>
+        <td>{{ result.bid_submission_end_date}}</td>
+        <td>{{ result.bid_submission_end_time}}</td>
+        <td>{{ result.tender_value}}</td>
+        <td>{{ result.emd_amt}}</td>
+        <td>{{ result.tender_fee}}</td>
+
+    </tr>
+    {% endfor %}
+</table>
+{% endif %}
+
+</body>
+</html>

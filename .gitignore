@@ -2,3 +2,4 @@ creds.json
 .env
 config.json
 .venv
+core/db.sqlite3

@@ -19,8 +19,8 @@ from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import StaleElementReferenceException
 from .models import TenderResults
 from django.contrib.auth.models import User
-import logging
-logger = logging.getLogger("home.tasks")
+# import logging
+# logger = logging.getLogger("home.tasks")
 
 
 
@@ -43,27 +43,27 @@ def create_driver():
 
 @shared_task(bind=True, max_retries=0)
 def run_scraper(self,user_id,search_id):
-    logger.warning("🔥 TASK STARTED user_id=%s search_id=%s", user_id, search_id)
+    # logger.warning("🔥 TASK STARTED user_id=%s search_id=%s", user_id, search_id)
     user = User.objects.get(id=user_id)
-    logger.info("User loaded: %s", user)
+    # logger.info("User loaded: %s", user)
     if search_id:
         all_client = Search.objects.filter(user=user,id=search_id)
     else:
         all_client = Search.objects.filter(user=user)
     control, _ = ScraperControl.objects.get_or_create(user=user)
-    logger.info("Total searches found: %d", len(all_client))
+    # logger.info("Total searches found: %d", len(all_client))
     print("All Clients:",all_client)
     for idx,client in enumerate(all_client):
-        logger.info("🔁 Loop %d | Client=%s", idx, client)
+        # logger.info("🔁 Loop %d | Client=%s", idx, client)
         print("Client:",client.user)
         try:
-            logger.info("Creating Chrome driver")
+            # logger.info("Creating Chrome driver")
             driver = create_driver()
             driver.set_page_load_timeout(120)
             driver.set_script_timeout(120)
-            logger.info("Chrome driver created successfully")
+            # logger.info("Chrome driver created successfully")
         except Exception:
-            logger.exception("❌ Chrome driver failed")
+            # logger.exception("❌ Chrome driver failed")
             raise
         # control.refresh_from_db()
         # if not control.is_running:

@@ -4,7 +4,7 @@ import re
 import time
 import json
 from datetime import datetime, timedelta
-import multiprocessing as mp
+# import multiprocessing as mp
 import pandas as pd
 from bs4 import BeautifulSoup
 from selenium import webdriver

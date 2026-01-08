@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-ofz5)9bx7*-o68tyflkd@zbp%q3v7#hocbj9q(r%)*5l6u4yn!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','localhost','139.59.75.243']
+ALLOWED_HOSTS = ['127.0.0.1','localhost','143.110.188.108']
 
 
 # Application definition
@@ -99,12 +99,12 @@ DATABASES = {
 CORS_ALLOW_ALL_ORIGINS = False
 
 CORS_ALLOWED_ORIGINS = [
-    "http://139.59.75.243",
+    "http://143.110.188.108",
     "http://localhost:3000",
 ]
 
 CSRF_TRUSTED_ORIGINS = [
-    "http://139.59.75.243",
+    "http://143.110.188.108",
 ]
 
 # Password validation
@@ -152,35 +152,3 @@ CELERY_RESULT_SERIALIZER = 'json'
 import os
 
 BASE_DIR = Path(__file__).resolve().parent.parent
-#
-# LOGGING = {
-#     "version": 1,
-#     "disable_existing_loggers": False,
-#     "formatters": {
-#         "verbose": {
-#             "format": "[{asctime}] {levelname} {name}: {message}",
-#             "style": "{",
-#         },
-#     },
-#     "handlers": {
-#         "file": {
-#             "level": "INFO",
-#             "class": "logging.handlers.RotatingFileHandler",
-#             "filename": os.path.join(BASE_DIR, "logs/scraper.log"),
-#             "maxBytes": 10 * 1024 * 1024,
-#             "backupCount": 5,
-#             "formatter": "verbose",
-#         },
-#         "console": {
-#             "class": "logging.StreamHandler",
-#             "formatter": "verbose",
-#         },
-#     },
-#     "loggers": {
-#         "home.tasks": {
-#             "handlers": ["file", "console"],
-#             "level": "INFO",
-#             "propagate": False,
-#         },
-#     },
-# }

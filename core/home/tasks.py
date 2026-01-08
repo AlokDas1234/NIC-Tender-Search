@@ -41,7 +41,7 @@ def create_driver():
 
 
 
-@shared_task(bind=True, max_retries=0)
+@shared_task(bind=True, max_retries=3)
 def run_scraper(self,user_id,search_id):
     # logger.warning("🔥 TASK STARTED user_id=%s search_id=%s", user_id, search_id)
     user = User.objects.get(id=user_id)
@@ -52,17 +52,20 @@ def run_scraper(self,user_id,search_id):
         all_client = Search.objects.filter(user=user)
     control, _ = ScraperControl.objects.get_or_create(user=user)
     # logger.info("Total searches found: %d", len(all_client))
-    print("All Clients:",all_client)
+    # print("All Clients:",all_client)
     for idx,client in enumerate(all_client):
         # logger.info("🔁 Loop %d | Client=%s", idx, client)
-        print("Client:",client.user)
+        # print("Client:",client.user)
         try:
             # logger.info("Creating Chrome driver")
             driver = create_driver()
             driver.set_page_load_timeout(120)
             driver.set_script_timeout(120)
-            # logger.info("Chrome driver created successfully")
+
         except Exception:
+            if driver:
+                driver.quit()
+
             # logger.exception("❌ Chrome driver failed")
             raise
         # control.refresh_from_db()
@@ -98,24 +101,26 @@ def run_scraper(self,user_id,search_id):
                     EC.presence_of_element_located((By.ID, "SearchDescription"))
                 )
                 assert search_bar is not None, "Error: Search bar not found!"
-                print("................................................................")
+                # print("................................................................")
                 search_bar.clear()
                 search_bar.send_keys(searchkey)
                 search_bar.send_keys(Keys.RETURN)
-                print("Searching for: ", searchkey)
+                # print("Searching for: ", searchkey)
                 time.sleep(2)
 
                 lnk = findeachlink(driver,excluded_values, url, searchkey,user)
 
                 # assert len(lnk) > 0, f"Error: No links found for {searchkey}!"
-                print("State Name: ", state_name_value)
-                print("Total links: ", len(lnk))
+                # print("State Name: ", state_name_value)
+                # print("Total links: ", len(lnk))
                 # ScraperControl.objects.create(user=user,is_running=True,searching_state_name=name,searching_key=searchkey)
                 data=opensuburl(driver,lnk, name, searchkey, excluded_values,user)
 
             except Exception as e:
                 print(f"Error for {client.state_name} | {searchkey}: {e}")
                 # driver.quit()
+                if driver:
+                    driver.quit()
                 raise self.retry(exc=e, countdown=10)
         driver.quit()
             # finally:
@@ -179,25 +184,25 @@ def opensuburl(driver,lnk, name, searchkey, excluded_values,user):
                     entry_dict["Bid Submission End Time"] = bid_submission_end_time
                     entry_dict["Name of Site"] = name
                     entry_dict["Search Key"] = searchkey
-                    print("............................................................")
-                    print("Bid Submission End Date t: ", bid_submission_end_date)
-                    print("Bid Submission End Time t: ", bid_submission_end_time)
+                    # print("............................................................")
+                    # print("Bid Submission End Date t: ", bid_submission_end_date)
+                    # print("Bid Submission End Time t: ", bid_submission_end_time)
                     # print("Name of Site: ",name)
                     # print("Search Key: ",searchkey)
                 else:
 
                     assert isinstance(tender_value, str), f"Error: Invalid value found for {entry}"
                     assert len(tender_value.strip()) > 0, f"Error: Empty value extracted for {entry}"
-                    print("Entry t:",entry)
-                    print("Tender value else t:",tender_value)
+                    # print("Entry t:",entry)
+                    # print("Tender value else t:",tender_value)
                     entry_dict[entry] = tender_value
                     entry_dict["Name of Site"] = name
                     entry_dict["Search Key"] = searchkey
                     entry_dict["Link"] = link
-                    print("Name of Site t: ", name)
-                    print("Search Key t: ", searchkey)
+                    # print("Name of Site t: ", name)
+                    # print("Search Key t: ", searchkey)
                     # time.sleep(1)
-                    print(entry, ": ", tender_value)
+                    # print(entry, ": ", tender_value)
                     if "," in tender_value:
                         tender_value = tender_value.replace(",", "")
             except:
@@ -227,9 +232,9 @@ def opensuburl(driver,lnk, name, searchkey, excluded_values,user):
                         entry_dict["Bid Submission End Time"] = bid_submission_end_time
                         entry_dict["Name of Site"] = name
                         entry_dict["Search Key"] = searchkey
-                        print("............................................................")
-                        print("Bid Submission End Date e: ", bid_submission_end_date)
-                        print("Bid Submission End Time e: ", bid_submission_end_time)
+                        # print("............................................................")
+                        # print("Bid Submission End Date e: ", bid_submission_end_date)
+                        # print("Bid Submission End Time e: ", bid_submission_end_time)
 
                     else:
                         if "," in tender_value:
@@ -240,8 +245,8 @@ def opensuburl(driver,lnk, name, searchkey, excluded_values,user):
                         entry_dict["Search Key"] = searchkey
                         entry_dict["Link"] = link
 
-                        print("Name of Site e: ", name)
-                        print("Search Key e: ", searchkey)
+                        # print("Name of Site e: ", name)
+                        # print("Search Key e: ", searchkey)
                         # time.sleep(1)
         if len(entry_dict) > 5:
             # print("entry_dict:",entry_dict)
@@ -273,7 +278,7 @@ def opensuburl(driver,lnk, name, searchkey, excluded_values,user):
     )
 
     df = pd.DataFrame(data_list)
-    print("Data List:",data_list)
+    # print("Data List:",data_list)
     # print("DF:",df)
 
     # df.to_csv(f"Tender-{name}-{searchkey}.csv", index=False)
@@ -296,7 +301,7 @@ def findeachlink(driver, exclude_value, url,search_key,user):
         # print("HTML Content:",soup.prettify())
         tbody = soup.find('tbody')
         if not tbody:
-            print("No tbody")
+            # print("No tbody")
             driver.delete_all_cookies()
             time.sleep(1)
             driver.get(url)
@@ -310,10 +315,10 @@ def findeachlink(driver, exclude_value, url,search_key,user):
                 EC.presence_of_element_located((By.ID, "SearchDescription"))
             )
 
-            print("................................................................")
+            # print("................................................................")
             search_bar.send_keys(search_key)
             search_bar.send_keys(Keys.RETURN)
-            print("Searching again for: ", search_key)
+            # print("Searching again for: ", search_key)
 
             updated_content = driver.page_source
             soup = BeautifulSoup(updated_content, 'html.parser')
@@ -327,11 +332,11 @@ def findeachlink(driver, exclude_value, url,search_key,user):
                 tds = row.find_all('td')
                 try:
                     td_text = tds[4].get_text(" ", strip=True)
-                    print(td_text)
+                    # print(td_text)
                     tender_id = extract_tender_id_from_td(td_text)
-                    print(tender_id)
+                    # print(tender_id)
                     if TenderResults.objects.filter(tender_id=tender_id).exists():
-                        print("⏭️ Skipping existing tender:", tender_id)
+                        # print("⏭️ Skipping existing tender:", tender_id)
                         continue
 
                 except Exception as e:
@@ -374,7 +379,7 @@ def findeachlink(driver, exclude_value, url,search_key,user):
             cleaned_url = re.sub(r'\.gov\.in.*$', '.gov.in', url)
             # print("Current URL: ",url)
             # print("Cleaned URL: ",cleaned_url)
-            print("Next Page Link: ",cleaned_url +next_page_link)
+            # print("Next Page Link: ",cleaned_url +next_page_link)
 
             driver.get(cleaned_url + next_page_link)
             WebDriverWait(driver, 15).until(
@@ -411,7 +416,7 @@ def get_next_page_link(driver):
         next_page_link = soup.find('a', id='linkFwd')
         if next_page_link:
             next_page_url = next_page_link.get('href')
-            print("Next Page Link:", next_page_url)
+            # print("Next Page Link:", next_page_url)
             return next_page_url
         else:
             print("No Next Page Link Found")

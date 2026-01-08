@@ -24,10 +24,10 @@ from django.contrib.auth.models import User
 
 
 
-start_time_ = time.strftime("%H-%M-%S")
-current_date = datetime.now().strftime("%Y%m%d-%H:%M")
-previous_date = datetime.now() - timedelta(days=1)
-previous_date = previous_date.strftime("%Y%m%d")
+# start_time_ = time.strftime("%H-%M-%S")
+# current_date = datetime.now().strftime("%Y%m%d-%H:%M")
+# previous_date = datetime.now() - timedelta(days=1)
+# previous_date = previous_date.strftime("%Y%m%d")
 
 
 def create_driver():
@@ -41,9 +41,10 @@ def create_driver():
 
 
 
-@shared_task(bind=True, max_retries=3)
+@shared_task(bind=True, max_retries=0)
 def run_scraper(self,user_id,search_id):
     # logger.warning("🔥 TASK STARTED user_id=%s search_id=%s", user_id, search_id)
+    current_date = datetime.now().strftime("%Y%m%d-%H:%M")
     user = User.objects.get(id=user_id)
     # logger.info("User loaded: %s", user)
     if search_id:
@@ -54,75 +55,66 @@ def run_scraper(self,user_id,search_id):
     # logger.info("Total searches found: %d", len(all_client))
     # print("All Clients:",all_client)
     for idx,client in enumerate(all_client):
-        # logger.info("🔁 Loop %d | Client=%s", idx, client)
-        # print("Client:",client.user)
+        driver=None
         try:
+            # logger.info("🔁 Loop %d | Client=%s", idx, client)
+            # print("Client:",client.user)
             # logger.info("Creating Chrome driver")
             driver = create_driver()
             driver.set_page_load_timeout(120)
             driver.set_script_timeout(120)
+            search_key_values_list = client.search_key.split(',')
+            state_name_value = client.state_name
+            excluded_values = client.exclude_key.split('|')
 
-        except Exception:
+            site_url = client.site_url # "https://wbtenders.gov.in"
+            searchkeys = search_key_values_list  # ["wire", "conductor"]
+            for searchkey in searchkeys:
+
+
+                control.user=user
+                control.is_running = True
+                control.searching_state_name =state_name_value
+                control.searching_key = searchkey
+                control.save()
+
+
+                url = site_url
+                # driver.delete_all_cookies()
+                try:
+                    driver.get(url)
+                    time.sleep(1)
+                    name = state_name_value  # site_url.removeprefix("https://").removesuffix(".gov.in")
+                    WebDriverWait(driver, 35).until(
+                        EC.presence_of_element_located((By.TAG_NAME, 'body'))
+                    )
+                    search_bar = WebDriverWait(driver, 25).until(
+                        EC.presence_of_element_located((By.ID, "SearchDescription"))
+                    )
+                    assert search_bar is not None, "Error: Search bar not found!"
+                    # print("................................................................")
+                    search_bar.clear()
+                    search_bar.send_keys(searchkey)
+                    search_bar.send_keys(Keys.RETURN)
+                    # print("Searching for: ", searchkey)
+                    time.sleep(2)
+
+                    lnk = findeachlink(driver,excluded_values, url, searchkey,user)
+
+                    # assert len(lnk) > 0, f"Error: No links found for {searchkey}!"
+                    # print("State Name: ", state_name_value)
+                    # print("Total links: ", len(lnk))
+                    # ScraperControl.objects.create(user=user,is_running=True,searching_state_name=name,searching_key=searchkey)
+                    data=opensuburl(driver,lnk, name, searchkey, excluded_values,user,current_date)
+
+                except Exception as e:
+                    print(f"Error for {client.state_name} | {searchkey}: {e}")
+                    # driver.quit()
+
+                    # raise self.retry(exc=e, countdown=10)
+        finally:
             if driver:
                 driver.quit()
-
-            # logger.exception("❌ Chrome driver failed")
-            raise
-        # control.refresh_from_db()
-        # if not control.is_running:
-        #     print("🛑 Scraper stopped by user")
-        #     return "Stopped"
-
-        search_key_values_list = client.search_key.split(',')
-        state_name_value = client.state_name
-        excluded_values = client.exclude_key.split('|')
-
-        site_url = client.site_url # "https://wbtenders.gov.in"
-        searchkeys = search_key_values_list  # ["wire", "conductor"]
-        for searchkey in searchkeys:
-
-            control.user=user
-            control.is_running = True
-            control.searching_state_name =state_name_value
-            control.searching_key = searchkey
-            control.save()
-
-
-            url = site_url
-            # driver.delete_all_cookies()
-            try:
-                driver.get(url)
-                time.sleep(1)
-                name = state_name_value  # site_url.removeprefix("https://").removesuffix(".gov.in")
-                WebDriverWait(driver, 35).until(
-                    EC.presence_of_element_located((By.TAG_NAME, 'body'))
-                )
-                search_bar = WebDriverWait(driver, 25).until(
-                    EC.presence_of_element_located((By.ID, "SearchDescription"))
-                )
-                assert search_bar is not None, "Error: Search bar not found!"
-                # print("................................................................")
-                search_bar.clear()
-                search_bar.send_keys(searchkey)
-                search_bar.send_keys(Keys.RETURN)
-                # print("Searching for: ", searchkey)
-                time.sleep(2)
-
-                lnk = findeachlink(driver,excluded_values, url, searchkey,user)
-
-                # assert len(lnk) > 0, f"Error: No links found for {searchkey}!"
-                # print("State Name: ", state_name_value)
-                # print("Total links: ", len(lnk))
-                # ScraperControl.objects.create(user=user,is_running=True,searching_state_name=name,searching_key=searchkey)
-                data=opensuburl(driver,lnk, name, searchkey, excluded_values,user)
-
-            except Exception as e:
-                print(f"Error for {client.state_name} | {searchkey}: {e}")
-                # driver.quit()
-                if driver:
-                    driver.quit()
-                raise self.retry(exc=e, countdown=10)
-        driver.quit()
             # finally:
             #     driver.quit()  # 🔥 VERY IMPORTANT
             #     # control.is_running = False
@@ -137,7 +129,7 @@ def run_scraper(self,user_id,search_id):
 
 
 
-def opensuburl(driver,lnk, name, searchkey, excluded_values,user):
+def opensuburl(driver,lnk, name, searchkey, excluded_values,user,current_date):
     '''' This function is used to perform main operation like extract description, Tender submision end data, emd amount etc'''
     # entries_without_spaces = [entry.strip() for entry in search_field_values_list]
 

@@ -22,14 +22,6 @@ from django.contrib.auth.models import User
 # import logging
 # logger = logging.getLogger("home.tasks")
 
-
-
-# start_time_ = time.strftime("%H-%M-%S")
-# current_date = datetime.now().strftime("%Y%m%d-%H:%M")
-# previous_date = datetime.now() - timedelta(days=1)
-# previous_date = previous_date.strftime("%Y%m%d")
-
-
 def create_driver():
     options = Options()
     options.add_argument("--headless=new")
@@ -61,8 +53,8 @@ def run_scraper(self,user_id,search_id):
             # print("Client:",client.user)
             # logger.info("Creating Chrome driver")
             driver = create_driver()
-            driver.set_page_load_timeout(120)
-            driver.set_script_timeout(120)
+            # driver.set_page_load_timeout(120)
+            # driver.set_script_timeout(120)
             search_key_values_list = client.search_key.split(',')
             state_name_value = client.state_name
             excluded_values = client.exclude_key.split('|')

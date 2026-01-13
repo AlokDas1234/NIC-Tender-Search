@@ -62,8 +62,6 @@ def run_scraper(self,user_id,search_id):
             site_url = client.site_url # "https://wbtenders.gov.in"
             searchkeys = search_key_values_list  # ["wire", "conductor"]
             for searchkey in searchkeys:
-
-
                 control.user=user
                 control.is_running = True
                 control.searching_state_name =state_name_value

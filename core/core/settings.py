@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-ofz5)9bx7*-o68tyflkd@zbp%q3v7#hocbj9q(r%)*5l6u4yn!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','localhost','143.110.188.108']
+ALLOWED_HOSTS = ['127.0.0.1','localhost','139.59.59.100']
 
 
 # Application definition
@@ -89,22 +89,36 @@ WSGI_APPLICATION = 'core.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/6.0/ref/settings/#databases
 
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.sqlite3',
+#         'NAME': BASE_DIR / 'db.sqlite3',
+#     }
+# }
+
+
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'nic_db',
+        'USER': 'nic_user',
+        'PASSWORD': 'nic_password',
+        'HOST': '127.0.0.1',
+        'PORT': '5432',
     }
 }
+
 
 CORS_ALLOW_ALL_ORIGINS = False
 
 CORS_ALLOWED_ORIGINS = [
-    "http://143.110.188.108",
+    "http://139.59.59.100",
     "http://localhost:3000",
 ]
 
 CSRF_TRUSTED_ORIGINS = [
-    "http://143.110.188.108",
+    "http://localhost:3000",
+    "http://139.59.59.100",
 ]
 
 # Password validation
@@ -130,11 +144,8 @@ AUTH_PASSWORD_VALIDATORS = [
 # https://docs.djangoproject.com/en/6.0/topics/i18n/
 
 LANGUAGE_CODE = 'en-us'
-
 TIME_ZONE = 'UTC'
-
 USE_I18N = True
-
 USE_TZ = True
 
 

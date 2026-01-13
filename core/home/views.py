@@ -67,37 +67,89 @@ def upload_clients(request):
     return Response({"message": "Clients uploaded successfully"})
 
 
+from django.db import transaction
+
 @api_view(["POST"])
 @permission_classes([IsAuthenticated])
 def upload_search_tender_req(request):
     uploaded_file = request.FILES.get("file")
-
     if not uploaded_file:
         return Response({"error": "No file uploaded"}, status=400)
 
-    filename = uploaded_file.name.lower()
-
-    if filename.endswith((".xlsx", ".xls")):
+    if uploaded_file.name.lower().endswith((".xlsx", ".xls")):
         df = pd.read_excel(uploaded_file)
     else:
-        df = pd.read_csv(uploaded_file, encoding="latin1")
+        df = pd.read_csv(uploaded_file, encoding="utf-8", errors="ignore")
 
-    objs = [
-        Search(
-            state_name=row["state_name"],
-            site_url=row["site_url"],
-            search_key=row["search_key"],
-            exclude_key=row["exclude_key"],
-            user=request.user,  # For authentication
-        )
-        for _, row in df.iterrows()
-    ]
+    df = df.fillna("")
+    print("Columns:", df.columns.tolist())
 
-    if connection.connection is None:
-        connection.connect()
+    objs = []
+    for _, row in df.iterrows():
+        objs.append(Search(
+            state_name=str(row["state_name"])[:255],
+            site_url=str(row["site_url"])[:500],
+            search_key=str(row["search_key"]),
+            exclude_key=str(row["exclude_key"]),
+            user=request.user,
+        ))
 
-    Search.objects.bulk_create(objs, ignore_conflicts=True)
-    return Response({"message": "Tender search req uploaded successfully"})
+    with transaction.atomic():
+        created = Search.objects.bulk_create(objs)
+
+    return Response({
+        "message": "Tender search req uploaded successfully",
+        "rows_saved": len(created)
+    })
+
+
+#
+# @api_view(["POST"])
+# @permission_classes([IsAuthenticated])
+# def upload_search_tender_req(request):
+#     uploaded_file = request.FILES.get("file")
+#
+#     if not uploaded_file:
+#         return Response({"error": "No file uploaded"}, status=400)
+#
+#     filename = uploaded_file.name.lower()
+#
+#     if filename.endswith((".xlsx", ".xls")):
+#         df = pd.read_excel(uploaded_file)
+#     else:
+#         df = pd.read_csv(uploaded_file, encoding="latin1")
+#
+#     # objs = [
+#     #     Search(
+#     #         state_name=row["state_name"],
+#     #         site_url=row["site_url"],
+#     #         search_key=row["search_key"],
+#     #         exclude_key=row["exclude_key"],
+#     #         user=request.user,  # For authentication
+#     #     )
+#     #     for _, row in df.iterrows()
+#     # ]
+#     objs = []
+#     for _, row in df.iterrows():
+#         try:
+#             objs.append(Search(
+#                 state_name=row["state_name"],
+#                 site_url=row["site_url"],
+#                 search_key=row["search_key"],
+#                 exclude_key=row["exclude_key"],
+#                 user=request.user,
+#             ))
+#         except KeyError as e:
+#             return Response(
+#                 {"error": f"Missing column: {str(e)}"},
+#                 status=400
+#             )
+#
+#     if connection.connection is None:
+#         connection.connect()
+#
+#     Search.objects.bulk_create(objs, ignore_conflicts=True)
+#     return Response({"message": "Tender search req uploaded successfully"})
 
 
 @api_view(["GET"])
@@ -210,14 +262,12 @@ def add_search_req(request):
     serializer = SearchSerializer(
         data=request.data
     )
-
     if serializer.is_valid():
         serializer.save(user=request.user)  # attach logged-in user
         return Response(
             {"message": "Data Added Successfully"},
             status=status.HTTP_201_CREATED
         )
-
     return Response(
         serializer.errors,
         status=status.HTTP_400_BAD_REQUEST

@@ -47,5 +47,4 @@ urlpatterns = [
     path("client-fields/", download_client_fields),
     path("login-page/", login),
     path("stop-scraper/", stop_scraper_task),
-
 ]

@@ -227,18 +227,20 @@ def download_client_fields(request):
 
 @api_view(["POST"])
 @permission_classes([IsAuthenticated])
-def run_scraper_task(request, search_id=None):
+def run_scraper_task(request, search_id):
     print("Search_id:", search_id)
+    user_id=request.user.id
+    run_scraper(user_id, search_id)
 
     # if control.is_running:
     #     return Response({"message": "Scraper already running"}, status=400)
 
-    task = run_scraper.apply_async(args=[request.user.id, search_id])
+    # task = run_scraper.apply_async(args=[request.user.id, search_id])
 
-    return Response({
-        "message": "Scraper started",
-        "task_id": task.id
-    })
+    # return Response({
+    #     "message": "Scraper started",
+    #     "task_id": task.id
+    # })
 
 
 @api_view(["POST"])

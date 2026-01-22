@@ -2,7 +2,7 @@ version: "3.9"
 
 services:
   web:
-    build: .
+    build: ./core
     container_name: django_web
     command: gunicorn core.wsgi:application --bind 0.0.0.0:8000
     volumes:
@@ -11,23 +11,20 @@ services:
       - "8000:8000"
     depends_on:
       - redis
+    environment:
+      - DEBUG=0
 
-  worker:
-    build: .
+  celery:
+    build: ./core
     container_name: celery_worker
-    command: celery -A core worker --loglevel=info --pool=solo
+    command: celery -A core worker -l info
     volumes:
       - ./core:/app
     depends_on:
       - redis
 
   redis:
-    image: redis:7
+    image: redis:7-alpine
+    container_name: redis
     ports:
       - "6379:6379"
-
-  frontend:
-    build: ./nic-frontend
-    container_name: react_frontend
-    ports:
-      - "3000:3000"

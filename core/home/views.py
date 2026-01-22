@@ -103,54 +103,6 @@ def upload_search_tender_req(request):
     })
 
 
-#
-# @api_view(["POST"])
-# @permission_classes([IsAuthenticated])
-# def upload_search_tender_req(request):
-#     uploaded_file = request.FILES.get("file")
-#
-#     if not uploaded_file:
-#         return Response({"error": "No file uploaded"}, status=400)
-#
-#     filename = uploaded_file.name.lower()
-#
-#     if filename.endswith((".xlsx", ".xls")):
-#         df = pd.read_excel(uploaded_file)
-#     else:
-#         df = pd.read_csv(uploaded_file, encoding="latin1")
-#
-#     # objs = [
-#     #     Search(
-#     #         state_name=row["state_name"],
-#     #         site_url=row["site_url"],
-#     #         search_key=row["search_key"],
-#     #         exclude_key=row["exclude_key"],
-#     #         user=request.user,  # For authentication
-#     #     )
-#     #     for _, row in df.iterrows()
-#     # ]
-#     objs = []
-#     for _, row in df.iterrows():
-#         try:
-#             objs.append(Search(
-#                 state_name=row["state_name"],
-#                 site_url=row["site_url"],
-#                 search_key=row["search_key"],
-#                 exclude_key=row["exclude_key"],
-#                 user=request.user,
-#             ))
-#         except KeyError as e:
-#             return Response(
-#                 {"error": f"Missing column: {str(e)}"},
-#                 status=400
-#             )
-#
-#     if connection.connection is None:
-#         connection.connect()
-#
-#     Search.objects.bulk_create(objs, ignore_conflicts=True)
-#     return Response({"message": "Tender search req uploaded successfully"})
-
 
 @api_view(["GET"])
 @permission_classes([IsAuthenticated])
@@ -224,23 +176,44 @@ def download_client_fields(request):
     wb.save(response)
     return response
 
+# from threading import Thread
+#
+# @api_view(["POST"])
+# @permission_classes([IsAuthenticated])
+# def run_scraper_task(request, search_id):
+#     user_id = request.user.id
+#     print("Search_id:", search_id)
+#
+#     # Start scraper in background thread
+#     t = Thread(
+#         target=run_scraper,
+#         args=(user_id, search_id),
+#         daemon=True  # stops thread if server stops
+#     )
+#     t.start()
+#
+#     return Response({
+#         "status": "started",
+#         "message": "Scraper started in background"
+#     })
+
 
 @api_view(["POST"])
 @permission_classes([IsAuthenticated])
 def run_scraper_task(request, search_id):
     print("Search_id:", search_id)
     user_id=request.user.id
-    run_scraper(user_id, search_id)
+    # run_scraper(user_id, search_id)
 
     # if control.is_running:
     #     return Response({"message": "Scraper already running"}, status=400)
 
-    # task = run_scraper.apply_async(args=[request.user.id, search_id])
-
-    # return Response({
-    #     "message": "Scraper started",
-    #     "task_id": task.id
-    # })
+    task = run_scraper.apply_async(args=[request.user.id, search_id])
+    #
+    return Response({
+        "message": "Scraper started",
+        "task_id": task.id
+    })
 
 
 @api_view(["POST"])

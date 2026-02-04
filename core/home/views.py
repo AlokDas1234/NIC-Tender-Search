@@ -16,13 +16,13 @@ from rest_framework.decorators import api_view, permission_classes
 from rest_framework.permissions import IsAuthenticated,AllowAny
 
 
+
 @api_view(["POST"])
 @permission_classes([AllowAny])
 def login(request):
     username = request.data.get("username")
     password = request.data.get("password")
     print("Username:", username, "Password:", password)
-
     user = authenticate(username=username, password=password)
     if not user:
         return Response({"error": "Invalid credentials"}, status=401)
@@ -43,7 +43,6 @@ def upload_clients(request):
         return Response({"error": "No file uploaded"}, status=400)
 
     filename = uploaded_file.name.lower()
-
     if filename.endswith((".xlsx", ".xls")):
         df = pd.read_excel(uploaded_file)
     else:
@@ -59,7 +58,6 @@ def upload_clients(request):
         )
         for _, row in df.iterrows()
     ]
-
     if connection.connection is None:
         connection.connect()
 
@@ -67,8 +65,8 @@ def upload_clients(request):
     return Response({"message": "Clients uploaded successfully"})
 
 
-from django.db import transaction
 
+from django.db import transaction
 @api_view(["POST"])
 @permission_classes([IsAuthenticated])
 def upload_search_tender_req(request):
@@ -103,13 +101,13 @@ def upload_search_tender_req(request):
     })
 
 
-
 @api_view(["GET"])
 @permission_classes([IsAuthenticated])
 def get_clients(request):
     clients = Client.objects.filter(user=request.user)
     serializer = ClientSerializer(clients, many=True)
     return Response(serializer.data)
+
 
 
 @api_view(["GET"])
@@ -225,8 +223,6 @@ def del_scraper_task(request, search_id=None):
         return Response({"message": "Deleted Scraper Task", "task_id": search_id})
     except:
         return Response({"error": "Delete failed"})
-
-
 
 
 @api_view(["POST"])
@@ -361,6 +357,7 @@ def del_req(request):
 def del_search(request):
     Search.objects.filter(user=request.user).delete()
     return Response({"message": " All Search Req  deleted"})
+
 
 
 from django.db.models import Q

@@ -1,34 +1,71 @@
+import axios from "axios";
+
+const API = axios.create({
+  baseURL: "/api/",
+});
+
+API.interceptors.request.use(
+  (config) => {
+    const token = localStorage.getItem("token");
+
+    // ⛔ Skip token for login
+    if (token && !config.url.includes("login-page")) {
+      config.headers.Authorization = `Token ${token}`;
+    }
+
+    return config;
+  },
+  (error) => Promise.reject(error)
+);
+
+API.interceptors.response.use(
+  (response) => response,
+  (error) => {
+    if (error.response?.status === 401) {
+      localStorage.removeItem("token");
+      window.location.href = "/login";
+    }
+    return Promise.reject(error);
+  }
+);
+
+export default API;
+
+
+
+
 // import axios from "axios";
 
- const API = axios.create({
-   baseURL: "/api/",
- });
+//  const API = axios.create({
+//    baseURL: "/api/",
+//  });
 
- // Attach token automatically
- API.interceptors.request.use(
-   (config) => {
-     const token = localStorage.getItem("token");
-     if (token) {
-       config.headers.Authorization = `Token ${token}`;
-     }
-     return config;
-   },
-   (error) => Promise.reject(error)
- );
+//  // Attach token automatically
+//  API.interceptors.request.use(
+//    (config) => {
+//      const token = localStorage.getItem("token");
+//      if (token) {
+//        config.headers.Authorization = `Token ${token}`;
+//      }
+//     // localStorage.setItem("token", token);
+//      return config;
+//    },
+//    (error) => Promise.reject(error)
+//  );
 
- // Auto logout on 401
- API.interceptors.response.use(
-   (response) => response,
-   (error) => {
-     if (error.response?.status === 401) {
-       localStorage.removeItem("token");
-       window.location.href = "/login";
-     }
-     return Promise.reject(error);
-   }
- );
+//  // Auto logout on 401
+//  API.interceptors.response.use(
+//    (response) => response,
+//    (error) => {
+//      if (error.response?.status === 401) {
+//        localStorage.removeItem("token");
+//        window.location.href = "/login";
+//      }
+//      return Promise.reject(error);
+//    }
+//  );
 
- export default API;
+//  export default API;
 
 
 //

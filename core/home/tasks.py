@@ -22,32 +22,19 @@ from django.contrib.auth.models import User
 # import logging
 # logger = logging.getLogger("home.tasks")
 
-# def create_driver():
-#     options = Options()
-#     options.add_argument("--headless=new")
-#     options.add_argument("--no-sandbox")
-#     options.add_argument("--disable-dev-shm-usage")
-#     options.add_argument("--disable-gpu")
-#     options.add_argument("--window-size=1920,1080")
-#     return webdriver.Chrome(options=options)
-
 def create_driver():
     options = Options()
-    options.binary_location = os.environ.get("CHROME_BIN")
     options.add_argument("--headless=new")
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
     options.add_argument("--disable-gpu")
     options.add_argument("--window-size=1920,1080")
-
-    return webdriver.Chrome(
-        executable_path=os.environ.get("CHROMEDRIVER_PATH"),
-        options=options
-    )
+    return webdriver.Chrome(options=options)
 
 
 
-# @shared_task(bind=True, max_retries=0)
+
+@shared_task(bind=True, max_retries=0)
 def run_scraper(self,user_id,search_id):
     # logger.warning("🔥 TASK STARTED user_id=%s search_id=%s", user_id, search_id)
     current_date = datetime.now().strftime("%Y%m%d-%H:%M")

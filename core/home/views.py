@@ -14,7 +14,7 @@ from openpyxl import Workbook
 from django.http import HttpResponse
 from rest_framework.decorators import api_view, permission_classes
 from rest_framework.permissions import IsAuthenticated,AllowAny
-
+from django.contrib.auth.models import User
 
 
 @api_view(["POST"])
@@ -32,6 +32,38 @@ def login(request):
         "token": token.key,
         "username": user.username
     })
+
+@api_view(["POST"])
+@permission_classes([AllowAny])
+def register(request):
+    username = request.data.get("username")
+    password = request.data.get("password")
+
+    if not username or not password:
+        return Response(
+            {"error": "Username and password are required"},
+            status=status.HTTP_400_BAD_REQUEST
+        )
+
+    if User.objects.filter(username=username).exists():
+        return Response(
+            {"error": "Username already exists"},
+            status=status.HTTP_409_CONFLICT
+        )
+
+    user = User.objects.create_user(
+        username=username,
+        password=password
+    )
+
+    return Response(
+        {
+            "message": "User registered successfully",
+            "user_id": user.id,
+            "username": user.username
+        },
+        status=status.HTTP_201_CREATED
+    )
 
 
 @api_view(["POST"])

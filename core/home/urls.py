@@ -21,6 +21,7 @@ from .views import (
     download_client_fields_excel,
     download_client_fields,
     login,
+    register,
     stop_scraper_task,
     get_client_search,
     upload_search_tender_req,
@@ -46,5 +47,6 @@ urlpatterns = [
     path("client-fields-excel/", download_client_fields_excel),
     path("client-fields/", download_client_fields),
     path("login-page/", login),
+    path("register-page/", register),
     path("stop-scraper/", stop_scraper_task),
 ]

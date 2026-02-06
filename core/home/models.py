@@ -43,3 +43,4 @@ class TenderResults(models.Model):
 class SiteName(models.Model):
     state_name= models.CharField(max_length=250,null=True,blank=True)
     site_url = models.CharField(max_length=350,null=True,blank=True)
+

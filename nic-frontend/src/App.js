@@ -140,7 +140,8 @@ function App() {
                 </Routes>
               </main>
             </div>
-          ) : (
+          ) : 
+          (
             <Navigate to="/login" />
           )
         }

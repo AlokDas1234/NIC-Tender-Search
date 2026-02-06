@@ -62,7 +62,7 @@ import React, { useState } from "react";
 
 import { NavLink } from "react-router-dom";
 import API from "./api";
-
+import "./auth.css";
 function Login() {
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
@@ -80,17 +80,24 @@ function Login() {
   };
 
   return (
-    <form onSubmit={login}>
+    <form  className="auth-form" onSubmit={login}>
       <h2>Login</h2>
+        <div className="form-group">
+      <label htmlFor="username">User Name</label>
+      <input id="username" name="username" value={username} onChange={e => setUsername(e.target.value)} />
+      </div>
 
-      <input value={username} onChange={e => setUsername(e.target.value)} />
-      <input type="password" value={password} onChange={e => setPassword(e.target.value)} />
+        <div className="form-group">
+       <label  htmlFor="password">Password</label>
+      <input  id="password" type="password" value={password} onChange={e => setPassword(e.target.value)} />
+      </div>
 
       <button type="submit">Login</button>
 
       <p>
         New user? <NavLink to="/register">Register</NavLink>
       </p>
+
     </form>
   );
 }

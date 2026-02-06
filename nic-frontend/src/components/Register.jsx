@@ -66,7 +66,7 @@
 
 // export default Register;
 
-
+import "./auth.css";
 import React, { useState } from "react";
 import { NavLink } from "react-router-dom";
 import API from "./api";
@@ -82,18 +82,60 @@ function Register() {
   };
 
   return (
-    <form onSubmit={register}>
-      <h2>Register</h2>
+    // <form onSubmit={register}>
+    //   <h2>Register</h2>
+      
+    //   <label for="username">User Name:</label>
+    //   <input name="username" placeholder="Username" value={username} onChange={e => setUsername(e.target.value)} />
+    //   <br></br>
+    //    <label for="password">Password:</label>
+    //   <input name="password" placeholder="Password" type="password" value={password} onChange={e => setPassword(e.target.value)} />
+    //    <br></br>
+    //   <button type="submit">Register</button>
 
-      <input value={username} onChange={e => setUsername(e.target.value)} />
-      <input type="password" value={password} onChange={e => setPassword(e.target.value)} />
+    //   <p>
+    //     Already have an account? <NavLink to="/login">Login</NavLink>
+    //   </p>
+    // </form>
 
-      <button type="submit">Register</button>
+    <form className="auth-form" onSubmit={register}>
+  <h2>Create Account</h2>
 
-      <p>
-        Already have an account? <NavLink to="/login">Login</NavLink>
-      </p>
-    </form>
+  <div className="form-group">
+    <label htmlFor="username">Username</label>
+    <input
+      id="username"
+      name="username"
+      placeholder="Enter username"
+      value={username}
+      onChange={(e) => setUsername(e.target.value)}
+      required
+    />
+  </div>
+
+  <div className="form-group">
+    <label htmlFor="password">Password</label>
+    <input
+      id="password"
+      name="password"
+      type="password"
+      placeholder="Enter password"
+      value={password}
+      onChange={(e) => setPassword(e.target.value)}
+      required
+    />
+  </div>
+
+  <button type="submit" className="primary-btn">
+    Register
+  </button>
+
+  <p className="auth-switch">
+    Already have an account ? <NavLink to="/login">Login</NavLink>
+  </p>
+
+</form>
+
   );
 }
 

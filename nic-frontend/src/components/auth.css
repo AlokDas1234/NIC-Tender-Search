@@ -1,0 +1,48 @@
+.auth-form {
+  width: 600px;
+  margin: 80px auto;
+  padding: 24px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  background: #fff;
+}
+
+.form-group {
+  margin-bottom: 16px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 6px;
+  font-weight: 500;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 8px 10px;
+  font-size: 14px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+/* ✅ scoped button */
+.auth-form button {
+  width: 100%;
+  padding: 10px;
+  font-size: 15px;
+  border: none;
+  border-radius: 4px;
+  background-color: #1976d2;
+  color: white;
+  cursor: pointer;
+}
+
+.auth-form button:hover {
+  background-color: #155fa0;
+}
+
+/* ✅ scoped paragraph */
+.auth-form p {
+  margin-top: 14px;
+  text-align: center;
+}

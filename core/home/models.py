@@ -25,8 +25,9 @@ class Search(models.Model):
 
 
 class TenderResults(models.Model):
-    search_time=models.CharField(max_length=150,null=True,blank=True)
-    tender_id=models.CharField(max_length=150,null=True,blank=True)
+    # search_time=models.CharField(max_length=150,null=True,blank=True)
+    search_time=models.DateTimeField(auto_now_add=True,null=True,blank=True)
+    tender_id = models.CharField(max_length=250,null=True,blank=True)
     state_name=models.CharField(max_length=250,null=True,blank=True)
     search_key=models.CharField(max_length=350,null=True,blank=True)
     site_link=models.CharField(max_length=250,null=True,blank=True)

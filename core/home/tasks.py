@@ -236,7 +236,7 @@ def opensuburl(driver,lnk, name, searchkey, excluded_values,user,current_date):
 
     bulk_objects = [
         TenderResults(
-            search_time=row.get("Current_Date", ""),
+            # search_time=row.get("Current_Date", ""),
             tender_id=row.get("Tender ID", ""),
             state_name=row.get("Name of Site", ""),
             search_key=row.get("Search Key", ""),

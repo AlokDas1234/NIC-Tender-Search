@@ -46,7 +46,7 @@ urlpatterns = [
     path("search/", get_client_search),
     path("client-fields-excel/", download_client_fields_excel),
     path("client-fields/", download_client_fields),
-    path("login-page/", login),
+    path("login-page/", login,name="login-page"),
     path("register-page/", register),
     path("stop-scraper/", stop_scraper_task),
 ]

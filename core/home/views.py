@@ -22,7 +22,7 @@ from django.contrib.auth.models import User
 def login(request):
     username = request.data.get("username")
     password = request.data.get("password")
-    print("Username:", username, "Password:", password)
+    # print("Username:", username, "Password:", password)
     user = authenticate(username=username, password=password)
     if not user:
         return Response({"error": "Invalid credentials"}, status=401)

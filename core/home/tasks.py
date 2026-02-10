@@ -319,7 +319,7 @@ def findeachlink(driver, exclude_value, url,search_key,user):
                     bid_submission_end_date = tds[2].get_text(" ", strip=True).split(" ")[0]
                     # print(tender_id)
                     if TenderResults.objects.filter(tender_id=tender_id,bid_submission_end_date=bid_submission_end_date).exists():
-                        # print("⏭️ Skipping existing tender:", tender_id)
+                        print("⏭️ Skipping existing tender:", tender_id)
                         continue
 
                 except Exception as e:

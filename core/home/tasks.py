@@ -76,7 +76,7 @@ def run_scraper(self,user_id,search_id):
                     driver.get(url)
                     time.sleep(1)
                     name = state_name_value  # site_url.removeprefix("https://").removesuffix(".gov.in")
-                    WebDriverWait(driver, 35).until(
+                    WebDriverWait(driver, 120).until(
                         EC.presence_of_element_located((By.TAG_NAME, 'body'))
                     )
                     search_bar = WebDriverWait(driver, 25).until(
@@ -290,7 +290,7 @@ def findeachlink(driver, exclude_value, url,search_key,user):
             time.sleep(2)
             # driver.implicitly_wait(5)
             # time.sleep(2)
-            WebDriverWait(driver, 35).until(
+            WebDriverWait(driver, 120).until(
                 EC.presence_of_element_located((By.TAG_NAME, 'body'))
             )
             search_bar = WebDriverWait(driver, 25).until(

@@ -33,6 +33,8 @@ def login(request):
         "username": user.username
     })
 
+
+
 @api_view(["POST"])
 @permission_classes([AllowAny])
 def register(request):

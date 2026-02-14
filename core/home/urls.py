@@ -40,7 +40,7 @@ urlpatterns = [
     path("del-req/", del_req),
     path("del-search/", del_search),
     path("del-scraper/<int:search_id>/", del_scraper_task),
-    path("run-scraper/", run_scraper_task),
+    # path("run-scraper/", run_scraper_task),
     path("run-scraper/<int:search_id>/", run_scraper_task),
     path("scraper-status/", scraper_status),
     path("search/", get_client_search),

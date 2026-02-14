@@ -34,7 +34,6 @@ def login(request):
     })
 
 
-
 @api_view(["POST"])
 @permission_classes([AllowAny])
 def register(request):
@@ -234,7 +233,7 @@ def download_client_fields(request):
 @permission_classes([IsAuthenticated])
 def run_scraper_task(request, search_id):
     print("Search_id:", search_id)
-    user_id=request.user.id
+    # user_id=request.user.id
     # run_scraper(user_id, search_id)
 
     # if control.is_running:

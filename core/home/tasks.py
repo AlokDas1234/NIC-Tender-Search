@@ -40,7 +40,7 @@ def run_scraper(self,user_id,search_id):
     current_date = datetime.now().strftime("%Y%m%d-%H:%M")
     user = User.objects.get(id=user_id)
     # logger.info("User loaded: %s", user)
-    if search_id:
+    if search_id !=0:
         all_client = Search.objects.filter(user=user,id=search_id)
     else:
         all_client = Search.objects.filter(user=user)
@@ -143,7 +143,6 @@ def opensuburl(driver,lnk, name, searchkey, excluded_values,user,current_date):
 
         for _, entry in enumerate(entries):
             try:
-
                 # Find the first "td_caption" element containing the specified entry text
                 tender_element = soup.find('td', {'class': 'td_caption'}, string=str(entry))
                 td_field_element = tender_element.find_next('td', {'class': 'td_field'})

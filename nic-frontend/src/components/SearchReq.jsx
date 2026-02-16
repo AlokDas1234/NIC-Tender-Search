@@ -78,15 +78,7 @@ const delScraperForSearch = async (searchId,state_name) => {
 const [showAdd, setShowAdd] = useState(false);
 
 
-const startScraper = async () => {
-    try {
-      const res = await API.post("run-scraper/"); // Calls your Django start endpoint
-      alert("✅ Scraper started");
-      console.log(res.data);
-    } catch (err) {
-      console.error(err);
-      alert("❌ Failed to start scraper");
-    }};
+
 
  const handleUpload = async (e) => {
     const file = e.target.files[0];
@@ -110,7 +102,11 @@ const startScraper = async () => {
     <div>
       <Dashboard/>
       <h2>Search  Requirements</h2>      
-      <button onClick={startScraper}>Run All Scrape</button>
+      {/* <button onClick={runScraperForSearch}>Run All Scrape</button> */}
+      <button onClick={() => runScraperForSearch(0)}>
+  Run All Scrape
+</button>
+
 
    
       <GetFields/>

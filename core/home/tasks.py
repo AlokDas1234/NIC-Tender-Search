@@ -341,6 +341,8 @@ def findeachlink(driver, exclude_value, url,search_key,user):
 
                                     # print("Link Not Excluded", link_text)
                                     lnk.append(cleaned_url + href)
+                                else:
+                                    continue
                             else:
                                 if href:
                                     cleaned_url = re.sub(r'\.gov\.in.*$', '.gov.in', url)

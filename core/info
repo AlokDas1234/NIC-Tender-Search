@@ -1,0 +1,2559 @@
+[2026-02-16 10:35:26,331: WARNING/MainProcess] Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+[2026-02-16 10:35:36,783: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:35:40,567: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:35:40,567: WARNING/MainProcess]  
+[2026-02-16 10:35:40,567: WARNING/MainProcess] 2026_ED_27413_8
+[2026-02-16 10:35:40,579: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:35:45,001: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:35:45,002: WARNING/MainProcess]  
+[2026-02-16 10:35:45,002: WARNING/MainProcess] 2026_ED_27765_1
+[2026-02-16 10:35:45,002: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:35:45,002: WARNING/MainProcess]  
+[2026-02-16 10:35:45,002: WARNING/MainProcess] 2026_PWD_27605_1
+[2026-02-16 10:35:45,003: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:35:45,003: WARNING/MainProcess]  
+[2026-02-16 10:35:45,003: WARNING/MainProcess] 2026_ED_27492_1
+[2026-02-16 10:35:45,013: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:35:50,677: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:35:55,286: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:35:58,988: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:35:58,989: WARNING/MainProcess]  
+[2026-02-16 10:35:58,989: WARNING/MainProcess] 2026_DDW_27544_1
+[2026-02-16 10:35:59,001: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:36:02,811: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:36:06,495: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:36:10,879: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:10,879: WARNING/MainProcess]  
+[2026-02-16 10:36:10,879: WARNING/MainProcess] 2026_DDW_27699_1
+[2026-02-16 10:36:10,880: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:10,880: WARNING/MainProcess]  
+[2026-02-16 10:36:10,880: WARNING/MainProcess] 2026_ED_27710_1
+[2026-02-16 10:36:10,881: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:10,881: WARNING/MainProcess]  
+[2026-02-16 10:36:10,881: WARNING/MainProcess] 2026_ED_27413_8
+[2026-02-16 10:36:10,881: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:10,881: WARNING/MainProcess]  
+[2026-02-16 10:36:10,881: WARNING/MainProcess] 2026_DDW_27353_1
+[2026-02-16 10:36:10,893: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:36:22,752: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:22,752: WARNING/MainProcess]  
+[2026-02-16 10:36:22,753: WARNING/MainProcess] 2026_UITUD_538337_1
+[2026-02-16 10:36:22,753: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:22,753: WARNING/MainProcess]  
+[2026-02-16 10:36:22,753: WARNING/MainProcess] 2026_UITUD_538342_1
+[2026-02-16 10:36:22,754: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:22,754: WARNING/MainProcess]  
+[2026-02-16 10:36:22,754: WARNING/MainProcess] 2026_UITUD_537100_1
+[2026-02-16 10:36:22,754: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:22,754: WARNING/MainProcess]  
+[2026-02-16 10:36:22,755: WARNING/MainProcess] 2026_UITUD_537111_1
+[2026-02-16 10:36:22,755: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:22,755: WARNING/MainProcess]  
+[2026-02-16 10:36:22,755: WARNING/MainProcess] 2026_UITUD_537116_1
+[2026-02-16 10:36:22,756: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:22,756: WARNING/MainProcess]  
+[2026-02-16 10:36:22,756: WARNING/MainProcess] 2026_JdVVN_535983_1
+[2026-02-16 10:36:22,756: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:22,756: WARNING/MainProcess]  
+[2026-02-16 10:36:22,756: WARNING/MainProcess] 2026_JVVNL_531008_1
+[2026-02-16 10:36:22,757: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:22,757: WARNING/MainProcess]  
+[2026-02-16 10:36:22,757: WARNING/MainProcess] 2026_UITBR_528294_1
+[2026-02-16 10:36:22,769: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:36:26,660: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:26,660: WARNING/MainProcess]  
+[2026-02-16 10:36:26,660: WARNING/MainProcess] 2026_JVVNL_538296_1
+[2026-02-16 10:36:26,660: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:26,660: WARNING/MainProcess]  
+[2026-02-16 10:36:26,660: WARNING/MainProcess] 2026_JdVVN_535983_1
+[2026-02-16 10:36:26,661: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:26,661: WARNING/MainProcess]  
+[2026-02-16 10:36:26,661: WARNING/MainProcess] 2026_JdVVN_536220_1
+[2026-02-16 10:36:26,661: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:26,662: WARNING/MainProcess]  
+[2026-02-16 10:36:26,662: WARNING/MainProcess] 2026_AVVNL_536124_1
+[2026-02-16 10:36:26,662: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:26,662: WARNING/MainProcess]  
+[2026-02-16 10:36:26,662: WARNING/MainProcess] 2026_JVVNL_531155_1
+[2026-02-16 10:36:26,673: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:36:31,218: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:31,218: WARNING/MainProcess]  
+[2026-02-16 10:36:31,218: WARNING/MainProcess] 2026_DLB_538462_1
+[2026-02-16 10:36:31,219: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:31,219: WARNING/MainProcess]  
+[2026-02-16 10:36:31,219: WARNING/MainProcess] 2026_PHCJA_538407_1
+[2026-02-16 10:36:31,219: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:31,220: WARNING/MainProcess]  
+[2026-02-16 10:36:31,220: WARNING/MainProcess] 2026_PHCJA_537604_1
+[2026-02-16 10:36:31,220: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:31,220: WARNING/MainProcess]  
+[2026-02-16 10:36:31,220: WARNING/MainProcess] 2026_PHCJA_537963_1
+[2026-02-16 10:36:31,221: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:31,221: WARNING/MainProcess]  
+[2026-02-16 10:36:31,221: WARNING/MainProcess] 2026_PHCJA_537965_1
+[2026-02-16 10:36:31,221: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:31,221: WARNING/MainProcess]  
+[2026-02-16 10:36:31,221: WARNING/MainProcess] 2026_JVVNL_537986_2
+[2026-02-16 10:36:31,222: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:31,222: WARNING/MainProcess]  
+[2026-02-16 10:36:31,222: WARNING/MainProcess] 2026_DLB_537398_2
+[2026-02-16 10:36:31,222: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:31,222: WARNING/MainProcess]  
+[2026-02-16 10:36:31,223: WARNING/MainProcess] 2026_PHCJA_537478_1
+[2026-02-16 10:36:31,223: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:31,223: WARNING/MainProcess]  
+[2026-02-16 10:36:31,223: WARNING/MainProcess] 2026_AVVNL_537258_1
+[2026-02-16 10:36:31,223: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:31,224: WARNING/MainProcess]  
+[2026-02-16 10:36:31,224: WARNING/MainProcess] 2026_JVVNL_537080_5
+[2026-02-16 10:36:31,224: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:31,224: WARNING/MainProcess]  
+[2026-02-16 10:36:31,224: WARNING/MainProcess] 2026_PHCJA_536909_1
+[2026-02-16 10:36:31,225: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:31,225: WARNING/MainProcess]  
+[2026-02-16 10:36:31,225: WARNING/MainProcess] 2026_AVVNL_536124_1
+[2026-02-16 10:36:31,225: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:31,225: WARNING/MainProcess]  
+[2026-02-16 10:36:31,225: WARNING/MainProcess] 2026_RCDF_535492_3
+[2026-02-16 10:36:31,226: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:31,226: WARNING/MainProcess]  
+[2026-02-16 10:36:31,226: WARNING/MainProcess] 2026_PHCJA_535518_1
+[2026-02-16 10:36:31,226: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:31,226: WARNING/MainProcess]  
+[2026-02-16 10:36:31,227: WARNING/MainProcess] 2026_JdVVN_535328_1
+[2026-02-16 10:36:31,227: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:31,227: WARNING/MainProcess]  
+[2026-02-16 10:36:31,227: WARNING/MainProcess] 2026_PHCJA_534724_1
+[2026-02-16 10:36:31,228: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:31,228: WARNING/MainProcess]  
+[2026-02-16 10:36:31,228: WARNING/MainProcess] 2026_PHCJA_534747_1
+[2026-02-16 10:36:31,229: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:31,229: WARNING/MainProcess]  
+[2026-02-16 10:36:31,229: WARNING/MainProcess] 2026_PHCJA_534350_1
+[2026-02-16 10:36:31,229: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:31,229: WARNING/MainProcess]  
+[2026-02-16 10:36:31,229: WARNING/MainProcess] 2026_PHCJA_534346_1
+[2026-02-16 10:36:32,931: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:32,931: WARNING/MainProcess]  
+[2026-02-16 10:36:32,931: WARNING/MainProcess] 2026_PHCJA_534329_1
+[2026-02-16 10:36:32,932: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:32,932: WARNING/MainProcess]  
+[2026-02-16 10:36:32,932: WARNING/MainProcess] 2026_PHCJA_534348_1
+[2026-02-16 10:36:32,933: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:32,933: WARNING/MainProcess]  
+[2026-02-16 10:36:32,933: WARNING/MainProcess] 2026_PHCJA_534369_1
+[2026-02-16 10:36:32,934: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:32,934: WARNING/MainProcess]  
+[2026-02-16 10:36:32,934: WARNING/MainProcess] 2026_RRVUN_533559_1
+[2026-02-16 10:36:32,934: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:32,934: WARNING/MainProcess]  
+[2026-02-16 10:36:32,934: WARNING/MainProcess] 2026_AVVNL_533762_1
+[2026-02-16 10:36:32,935: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:32,935: WARNING/MainProcess]  
+[2026-02-16 10:36:32,935: WARNING/MainProcess] 2026_PHCJO_533632_1
+[2026-02-16 10:36:32,935: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:32,935: WARNING/MainProcess]  
+[2026-02-16 10:36:32,936: WARNING/MainProcess] 2026_PHCJA_533265_2
+[2026-02-16 10:36:32,936: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:32,936: WARNING/MainProcess]  
+[2026-02-16 10:36:32,936: WARNING/MainProcess] 2026_PHCJA_533265_1
+[2026-02-16 10:36:32,937: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:32,937: WARNING/MainProcess]  
+[2026-02-16 10:36:32,937: WARNING/MainProcess] 2026_JVVNL_531176_1
+[2026-02-16 10:36:32,937: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:32,937: WARNING/MainProcess]  
+[2026-02-16 10:36:32,937: WARNING/MainProcess] 2026_RRVPN_526820_1
+[2026-02-16 10:36:32,938: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:32,938: WARNING/MainProcess]  
+[2026-02-16 10:36:32,938: WARNING/MainProcess] 2026_RRVPN_526434_1
+[2026-02-16 10:36:32,938: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:32,938: WARNING/MainProcess]  
+[2026-02-16 10:36:32,938: WARNING/MainProcess] 2026_RRVUN_526647_1
+[2026-02-16 10:36:32,939: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:32,939: WARNING/MainProcess]  
+[2026-02-16 10:36:32,939: WARNING/MainProcess] 2025_RRVPN_516470_1
+[2026-02-16 10:36:32,958: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:36:45,359: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:45,359: WARNING/MainProcess]  
+[2026-02-16 10:36:45,359: WARNING/MainProcess] 2026_PHCJA_537478_1
+[2026-02-16 10:36:45,360: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:45,360: WARNING/MainProcess]  
+[2026-02-16 10:36:45,360: WARNING/MainProcess] 2026_PHCJA_535518_1
+[2026-02-16 10:36:45,361: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:45,361: WARNING/MainProcess]  
+[2026-02-16 10:36:45,361: WARNING/MainProcess] 2026_PHCJA_534724_1
+[2026-02-16 10:36:45,361: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:45,361: WARNING/MainProcess]  
+[2026-02-16 10:36:45,362: WARNING/MainProcess] 2026_PHCJA_534747_1
+[2026-02-16 10:36:45,362: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:45,362: WARNING/MainProcess]  
+[2026-02-16 10:36:45,362: WARNING/MainProcess] 2026_AVVNL_533762_1
+[2026-02-16 10:36:45,363: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:45,363: WARNING/MainProcess]  
+[2026-02-16 10:36:45,363: WARNING/MainProcess] 2026_RRVUN_526647_1
+[2026-02-16 10:36:45,378: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:36:52,179: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:52,179: WARNING/MainProcess]  
+[2026-02-16 10:36:52,180: WARNING/MainProcess] 2026_JVVNL_536140_1
+[2026-02-16 10:36:52,189: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:36:55,962: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:55,962: WARNING/MainProcess]  
+[2026-02-16 10:36:55,962: WARNING/MainProcess] 2026_UITUD_538354_1
+[2026-02-16 10:36:55,963: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:55,963: WARNING/MainProcess]  
+[2026-02-16 10:36:55,963: WARNING/MainProcess] 2026_DLB_537838_1
+[2026-02-16 10:36:55,963: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:55,964: WARNING/MainProcess]  
+[2026-02-16 10:36:55,964: WARNING/MainProcess] 2026_JVVNL_537649_1
+[2026-02-16 10:36:55,964: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:55,964: WARNING/MainProcess]  
+[2026-02-16 10:36:55,964: WARNING/MainProcess] 2026_DLB_537217_10
+[2026-02-16 10:36:55,965: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:55,965: WARNING/MainProcess]  
+[2026-02-16 10:36:55,965: WARNING/MainProcess] 2026_AVVNL_537082_1
+[2026-02-16 10:36:55,966: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:55,966: WARNING/MainProcess]  
+[2026-02-16 10:36:55,966: WARNING/MainProcess] 2026_JVVNL_537080_9
+[2026-02-16 10:36:55,966: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:55,967: WARNING/MainProcess]  
+[2026-02-16 10:36:55,967: WARNING/MainProcess] 2026_JVVNL_536140_1
+[2026-02-16 10:36:55,967: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:36:55,967: WARNING/MainProcess]  
+[2026-02-16 10:36:55,967: WARNING/MainProcess] 2026_AVVNL_533762_1
+[2026-02-16 10:36:55,982: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:36:59,791: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:37:03,821: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:37:08,375: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:08,375: WARNING/MainProcess]  
+[2026-02-16 10:37:08,375: WARNING/MainProcess] 2026_JdVVN_538200_1
+[2026-02-16 10:37:08,376: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:08,376: WARNING/MainProcess]  
+[2026-02-16 10:37:08,376: WARNING/MainProcess] 2026_JdVVN_538206_1
+[2026-02-16 10:37:08,377: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:08,377: WARNING/MainProcess]  
+[2026-02-16 10:37:08,377: WARNING/MainProcess] 2026_AVVNL_527549_2
+[2026-02-16 10:37:08,379: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:08,379: WARNING/MainProcess]  
+[2026-02-16 10:37:08,379: WARNING/MainProcess] 2025_JdVVN_523704_1
+[2026-02-16 10:37:08,380: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:08,380: WARNING/MainProcess]  
+[2026-02-16 10:37:08,380: WARNING/MainProcess] 2025_JdVVN_523704_3
+[2026-02-16 10:37:08,380: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:08,381: WARNING/MainProcess]  
+[2026-02-16 10:37:08,381: WARNING/MainProcess] 2025_JdVVN_513300_9
+[2026-02-16 10:37:08,381: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:08,381: WARNING/MainProcess]  
+[2026-02-16 10:37:08,381: WARNING/MainProcess] 2025_JdVVN_513300_12
+[2026-02-16 10:37:08,382: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:08,382: WARNING/MainProcess]  
+[2026-02-16 10:37:08,382: WARNING/MainProcess] 2025_JdVVN_513300_8
+[2026-02-16 10:37:08,382: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:08,382: WARNING/MainProcess]  
+[2026-02-16 10:37:08,382: WARNING/MainProcess] 2025_JdVVN_513300_10
+[2026-02-16 10:37:08,383: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:08,383: WARNING/MainProcess]  
+[2026-02-16 10:37:08,383: WARNING/MainProcess] 2025_JdVVN_513300_7
+[2026-02-16 10:37:08,383: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:08,383: WARNING/MainProcess]  
+[2026-02-16 10:37:08,384: WARNING/MainProcess] 2025_JdVVN_513300_11
+[2026-02-16 10:37:08,384: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:08,384: WARNING/MainProcess]  
+[2026-02-16 10:37:08,384: WARNING/MainProcess] 2025_JdVVN_513300_6
+[2026-02-16 10:37:08,384: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:08,385: WARNING/MainProcess]  
+[2026-02-16 10:37:08,385: WARNING/MainProcess] 2025_JdVVN_513300_5
+[2026-02-16 10:37:08,385: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:08,385: WARNING/MainProcess]  
+[2026-02-16 10:37:08,385: WARNING/MainProcess] 2025_JdVVN_513300_4
+[2026-02-16 10:37:08,386: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:08,386: WARNING/MainProcess]  
+[2026-02-16 10:37:08,386: WARNING/MainProcess] 2025_JdVVN_513300_3
+[2026-02-16 10:37:08,386: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:08,386: WARNING/MainProcess]  
+[2026-02-16 10:37:08,386: WARNING/MainProcess] 2025_JdVVN_513300_1
+[2026-02-16 10:37:08,401: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:37:20,811: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:20,811: WARNING/MainProcess]  
+[2026-02-16 10:37:20,811: WARNING/MainProcess] 2026_EB_656803_1
+[2026-02-16 10:37:20,812: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:20,812: WARNING/MainProcess]  
+[2026-02-16 10:37:20,812: WARNING/MainProcess] 2026_EB_655737_1
+[2026-02-16 10:37:20,812: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:20,813: WARNING/MainProcess]  
+[2026-02-16 10:37:20,813: WARNING/MainProcess] 2026_EB_653657_1
+[2026-02-16 10:37:20,813: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:20,813: WARNING/MainProcess]  
+[2026-02-16 10:37:20,813: WARNING/MainProcess] 2026_EB_653596_1
+[2026-02-16 10:37:20,814: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:20,814: WARNING/MainProcess]  
+[2026-02-16 10:37:20,814: WARNING/MainProcess] 2026_EB_653327_1
+[2026-02-16 10:37:20,814: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:20,814: WARNING/MainProcess]  
+[2026-02-16 10:37:20,814: WARNING/MainProcess] 2026_EB_653296_1
+[2026-02-16 10:37:20,815: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:20,815: WARNING/MainProcess]  
+[2026-02-16 10:37:20,815: WARNING/MainProcess] 2026_EB_653355_1
+[2026-02-16 10:37:20,815: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:20,815: WARNING/MainProcess]  
+[2026-02-16 10:37:20,816: WARNING/MainProcess] 2026_EB_651702_1
+[2026-02-16 10:37:20,816: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:20,816: WARNING/MainProcess]  
+[2026-02-16 10:37:20,816: WARNING/MainProcess] 2026_EB_651300_1
+[2026-02-16 10:37:20,816: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:20,817: WARNING/MainProcess]  
+[2026-02-16 10:37:20,817: WARNING/MainProcess] 2026_EB_651201_1
+[2026-02-16 10:37:20,817: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:20,817: WARNING/MainProcess]  
+[2026-02-16 10:37:20,817: WARNING/MainProcess] 2026_EB_650262_1
+[2026-02-16 10:37:20,818: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:20,818: WARNING/MainProcess]  
+[2026-02-16 10:37:20,818: WARNING/MainProcess] 2026_EB_650249_1
+[2026-02-16 10:37:20,818: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:20,818: WARNING/MainProcess]  
+[2026-02-16 10:37:20,818: WARNING/MainProcess] 2026_EB_650126_2
+[2026-02-16 10:37:20,819: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:20,819: WARNING/MainProcess]  
+[2026-02-16 10:37:20,819: WARNING/MainProcess] 2026_EB_649131_1
+[2026-02-16 10:37:20,833: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:37:24,645: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:24,645: WARNING/MainProcess]  
+[2026-02-16 10:37:24,646: WARNING/MainProcess] 2026_EB_655672_1
+[2026-02-16 10:37:24,646: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:24,646: WARNING/MainProcess]  
+[2026-02-16 10:37:24,646: WARNING/MainProcess] 2026_EB_652698_1
+[2026-02-16 10:37:24,647: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:24,647: WARNING/MainProcess]  
+[2026-02-16 10:37:24,647: WARNING/MainProcess] 2026_EB_649408_1
+[2026-02-16 10:37:24,647: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:24,648: WARNING/MainProcess]  
+[2026-02-16 10:37:24,648: WARNING/MainProcess] 2026_TNSTC_647155_1
+[2026-02-16 10:37:24,648: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:24,649: WARNING/MainProcess]  
+[2026-02-16 10:37:24,649: WARNING/MainProcess] 2026_TNSTC_647460_1
+[2026-02-16 10:37:24,649: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:24,650: WARNING/MainProcess]  
+[2026-02-16 10:37:24,650: WARNING/MainProcess] 2026_TNSTC_647420_1
+[2026-02-16 10:37:24,650: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:24,651: WARNING/MainProcess]  
+[2026-02-16 10:37:24,651: WARNING/MainProcess] 2026_MTC_643365_1
+[2026-02-16 10:37:24,651: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:24,651: WARNING/MainProcess]  
+[2026-02-16 10:37:24,652: WARNING/MainProcess] 2026_MTC_643225_1
+[2026-02-16 10:37:24,669: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:37:31,231: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:31,231: WARNING/MainProcess]  
+[2026-02-16 10:37:31,232: WARNING/MainProcess] 2026_CoC_657336_1
+[2026-02-16 10:37:31,232: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:31,233: WARNING/MainProcess]  
+[2026-02-16 10:37:31,233: WARNING/MainProcess] 2026_MAWS_657259_1
+[2026-02-16 10:37:31,233: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:31,233: WARNING/MainProcess]  
+[2026-02-16 10:37:31,233: WARNING/MainProcess] 2026_CoC_657245_1
+[2026-02-16 10:37:31,234: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:31,234: WARNING/MainProcess]  
+[2026-02-16 10:37:31,234: WARNING/MainProcess] 2026_CoC_657292_1
+[2026-02-16 10:37:31,234: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:31,234: WARNING/MainProcess]  
+[2026-02-16 10:37:31,235: WARNING/MainProcess] 2026_CoC_657318_1
+[2026-02-16 10:37:31,235: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:31,235: WARNING/MainProcess]  
+[2026-02-16 10:37:31,235: WARNING/MainProcess] 2026_RDTN_657254_1
+[2026-02-16 10:37:31,235: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:31,236: WARNING/MainProcess]  
+[2026-02-16 10:37:31,236: WARNING/MainProcess] 2026_CoC_657210_1
+[2026-02-16 10:37:31,236: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:31,236: WARNING/MainProcess]  
+[2026-02-16 10:37:31,236: WARNING/MainProcess] 2026_CoC_657127_1
+[2026-02-16 10:37:31,237: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:31,237: WARNING/MainProcess]  
+[2026-02-16 10:37:31,237: WARNING/MainProcess] 2026_EB_657037_1
+[2026-02-16 10:37:31,237: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:31,237: WARNING/MainProcess]  
+[2026-02-16 10:37:31,237: WARNING/MainProcess] 2026_CoC_656610_1
+[2026-02-16 10:37:31,238: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:31,238: WARNING/MainProcess]  
+[2026-02-16 10:37:31,238: WARNING/MainProcess] 2026_CoC_656690_1
+[2026-02-16 10:37:31,238: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:31,239: WARNING/MainProcess]  
+[2026-02-16 10:37:31,239: WARNING/MainProcess] 2026_CoC_656738_1
+[2026-02-16 10:37:31,239: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:31,239: WARNING/MainProcess]  
+[2026-02-16 10:37:31,239: WARNING/MainProcess] 2026_CoC_656366_1
+[2026-02-16 10:37:31,240: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:31,240: WARNING/MainProcess]  
+[2026-02-16 10:37:31,240: WARNING/MainProcess] 2026_CoC_656309_1
+[2026-02-16 10:37:32,930: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:32,930: WARNING/MainProcess]  
+[2026-02-16 10:37:32,930: WARNING/MainProcess] 2026_CoC_656366_1
+[2026-02-16 10:37:32,931: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:32,931: WARNING/MainProcess]  
+[2026-02-16 10:37:32,931: WARNING/MainProcess] 2026_CoC_656260_1
+[2026-02-16 10:37:32,932: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:32,932: WARNING/MainProcess]  
+[2026-02-16 10:37:32,932: WARNING/MainProcess] 2026_CoC_655660_1
+[2026-02-16 10:37:32,933: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:32,933: WARNING/MainProcess]  
+[2026-02-16 10:37:32,933: WARNING/MainProcess] 2026_CoC_656049_1
+[2026-02-16 10:37:32,934: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:32,934: WARNING/MainProcess]  
+[2026-02-16 10:37:32,934: WARNING/MainProcess] 2026_CoC_655641_1
+[2026-02-16 10:37:32,934: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:32,934: WARNING/MainProcess]  
+[2026-02-16 10:37:32,935: WARNING/MainProcess] 2026_CoC_655676_1
+[2026-02-16 10:37:32,935: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:32,936: WARNING/MainProcess]  
+[2026-02-16 10:37:32,936: WARNING/MainProcess] 2026_EB_655845_1
+[2026-02-16 10:37:32,936: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:32,936: WARNING/MainProcess]  
+[2026-02-16 10:37:32,936: WARNING/MainProcess] 2026_EB_655825_1
+[2026-02-16 10:37:32,937: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:32,937: WARNING/MainProcess]  
+[2026-02-16 10:37:32,937: WARNING/MainProcess] 2026_RDTN_655542_1
+[2026-02-16 10:37:32,937: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:32,938: WARNING/MainProcess]  
+[2026-02-16 10:37:32,938: WARNING/MainProcess] 2026_TNHB_654505_1
+[2026-02-16 10:37:32,938: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:32,938: WARNING/MainProcess]  
+[2026-02-16 10:37:32,938: WARNING/MainProcess] 2026_DoTE_655096_1
+[2026-02-16 10:37:32,939: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:32,939: WARNING/MainProcess]  
+[2026-02-16 10:37:32,939: WARNING/MainProcess] 2026_EB_655273_1
+[2026-02-16 10:37:32,939: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:32,940: WARNING/MainProcess]  
+[2026-02-16 10:37:32,940: WARNING/MainProcess] 2026_RDTN_655200_1
+[2026-02-16 10:37:32,940: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:32,940: WARNING/MainProcess]  
+[2026-02-16 10:37:32,940: WARNING/MainProcess] 2026_RDTN_654746_1
+[2026-02-16 10:37:32,941: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:32,941: WARNING/MainProcess]  
+[2026-02-16 10:37:32,941: WARNING/MainProcess] 2026_EB_654176_1
+[2026-02-16 10:37:32,941: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:32,941: WARNING/MainProcess]  
+[2026-02-16 10:37:32,942: WARNING/MainProcess] 2026_EB_654154_1
+[2026-02-16 10:37:32,942: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:32,942: WARNING/MainProcess]  
+[2026-02-16 10:37:32,942: WARNING/MainProcess] 2026_EB_654236_1
+[2026-02-16 10:37:32,943: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:32,943: WARNING/MainProcess]  
+[2026-02-16 10:37:32,943: WARNING/MainProcess] 2026_EB_654226_1
+[2026-02-16 10:37:32,943: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:32,943: WARNING/MainProcess]  
+[2026-02-16 10:37:32,943: WARNING/MainProcess] 2026_EB_654195_1
+[2026-02-16 10:37:32,944: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:32,944: WARNING/MainProcess]  
+[2026-02-16 10:37:32,944: WARNING/MainProcess] 2026_EB_654210_1
+[2026-02-16 10:37:34,593: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:34,593: WARNING/MainProcess]  
+[2026-02-16 10:37:34,594: WARNING/MainProcess] 2026_PWD_652410_1
+[2026-02-16 10:37:34,594: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:34,594: WARNING/MainProcess]  
+[2026-02-16 10:37:34,594: WARNING/MainProcess] 2026_EB_653967_1
+[2026-02-16 10:37:34,595: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:34,595: WARNING/MainProcess]  
+[2026-02-16 10:37:34,595: WARNING/MainProcess] 2026_EB_653296_1
+[2026-02-16 10:37:34,595: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:34,595: WARNING/MainProcess]  
+[2026-02-16 10:37:34,596: WARNING/MainProcess] 2026_EB_653474_1
+[2026-02-16 10:37:34,596: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:34,596: WARNING/MainProcess]  
+[2026-02-16 10:37:34,596: WARNING/MainProcess] 2026_EB_652353_1
+[2026-02-16 10:37:34,597: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:34,597: WARNING/MainProcess]  
+[2026-02-16 10:37:34,597: WARNING/MainProcess] 2026_EB_651588_1
+[2026-02-16 10:37:34,597: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:34,597: WARNING/MainProcess]  
+[2026-02-16 10:37:34,597: WARNING/MainProcess] 2026_RDTN_651420_1
+[2026-02-16 10:37:34,598: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:34,599: WARNING/MainProcess]  
+[2026-02-16 10:37:34,599: WARNING/MainProcess] 2026_RDTN_651418_1
+[2026-02-16 10:37:34,599: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:34,600: WARNING/MainProcess]  
+[2026-02-16 10:37:34,600: WARNING/MainProcess] 2026_EB_650983_1
+[2026-02-16 10:37:34,600: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:34,601: WARNING/MainProcess]  
+[2026-02-16 10:37:34,601: WARNING/MainProcess] 2026_MAWS_650312_30
+[2026-02-16 10:37:34,601: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:34,601: WARNING/MainProcess]  
+[2026-02-16 10:37:34,601: WARNING/MainProcess] 2026_EB_650249_1
+[2026-02-16 10:37:34,602: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:34,602: WARNING/MainProcess]  
+[2026-02-16 10:37:34,602: WARNING/MainProcess] 2026_EB_649969_1
+[2026-02-16 10:37:34,602: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:34,602: WARNING/MainProcess]  
+[2026-02-16 10:37:34,602: WARNING/MainProcess] 2026_EB_650126_2
+[2026-02-16 10:37:34,603: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:34,603: WARNING/MainProcess]  
+[2026-02-16 10:37:34,603: WARNING/MainProcess] 2025_TNPL_624380_1
+[2026-02-16 10:37:34,604: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:34,604: WARNING/MainProcess]  
+[2026-02-16 10:37:34,604: WARNING/MainProcess] 2025_EB_541211_1
+[2026-02-16 10:37:34,618: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:37:56,823: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:56,823: WARNING/MainProcess]  
+[2026-02-16 10:37:56,824: WARNING/MainProcess] 2026_MAWS_658036_8
+[2026-02-16 10:37:56,824: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:56,825: WARNING/MainProcess]  
+[2026-02-16 10:37:56,825: WARNING/MainProcess] 2026_EB_657913_1
+[2026-02-16 10:37:56,826: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:56,826: WARNING/MainProcess]  
+[2026-02-16 10:37:56,826: WARNING/MainProcess] 2026_PWD_652410_1
+[2026-02-16 10:37:56,827: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:56,827: WARNING/MainProcess]  
+[2026-02-16 10:37:56,827: WARNING/MainProcess] 2026_EB_653967_1
+[2026-02-16 10:37:56,828: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:56,828: WARNING/MainProcess]  
+[2026-02-16 10:37:56,828: WARNING/MainProcess] 2026_EB_651588_1
+[2026-02-16 10:37:56,829: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:56,829: WARNING/MainProcess]  
+[2026-02-16 10:37:56,830: WARNING/MainProcess] 2026_EB_650983_1
+[2026-02-16 10:37:56,830: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:37:56,830: WARNING/MainProcess]  
+[2026-02-16 10:37:56,831: WARNING/MainProcess] 2025_EB_541211_1
+[2026-02-16 10:37:56,853: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:38:01,456: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:38:05,298: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:38:05,298: WARNING/MainProcess]  
+[2026-02-16 10:38:05,298: WARNING/MainProcess] 2026_EB_657205_1
+[2026-02-16 10:38:05,299: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:38:05,299: WARNING/MainProcess]  
+[2026-02-16 10:38:05,299: WARNING/MainProcess] 2026_CoC_657009_1
+[2026-02-16 10:38:05,300: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:38:05,300: WARNING/MainProcess]  
+[2026-02-16 10:38:05,300: WARNING/MainProcess] 2026_RDTN_655542_1
+[2026-02-16 10:38:05,301: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:38:05,301: WARNING/MainProcess]  
+[2026-02-16 10:38:05,301: WARNING/MainProcess] 2026_EB_643992_2
+[2026-02-16 10:38:05,302: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:38:05,302: WARNING/MainProcess]  
+[2026-02-16 10:38:05,302: WARNING/MainProcess] 2026_DoTE_655198_1
+[2026-02-16 10:38:05,303: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:38:05,303: WARNING/MainProcess]  
+[2026-02-16 10:38:05,304: WARNING/MainProcess] 2026_RDTN_655200_1
+[2026-02-16 10:38:05,306: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:38:05,306: WARNING/MainProcess]  
+[2026-02-16 10:38:05,306: WARNING/MainProcess] 2026_EB_654436_1
+[2026-02-16 10:38:05,307: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:38:05,307: WARNING/MainProcess]  
+[2026-02-16 10:38:05,307: WARNING/MainProcess] 2026_EB_654404_1
+[2026-02-16 10:38:05,308: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:38:05,308: WARNING/MainProcess]  
+[2026-02-16 10:38:05,308: WARNING/MainProcess] 2026_TNCSF_654111_1
+[2026-02-16 10:38:05,309: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:38:05,309: WARNING/MainProcess]  
+[2026-02-16 10:38:05,310: WARNING/MainProcess] 2026_EB_652915_1
+[2026-02-16 10:38:05,310: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:38:05,310: WARNING/MainProcess]  
+[2026-02-16 10:38:05,311: WARNING/MainProcess] 2026_EB_652258_1
+[2026-02-16 10:38:05,311: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:38:05,311: WARNING/MainProcess]  
+[2026-02-16 10:38:05,312: WARNING/MainProcess] 2026_EB_652298_1
+[2026-02-16 10:38:05,312: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:38:05,312: WARNING/MainProcess]  
+[2026-02-16 10:38:05,313: WARNING/MainProcess] 2026_EB_652278_1
+[2026-02-16 10:38:05,313: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:38:05,314: WARNING/MainProcess]  
+[2026-02-16 10:38:05,314: WARNING/MainProcess] 2026_EB_652313_1
+[2026-02-16 10:38:05,315: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:38:05,315: WARNING/MainProcess]  
+[2026-02-16 10:38:05,315: WARNING/MainProcess] 2026_EB_652289_1
+[2026-02-16 10:38:05,316: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:38:05,316: WARNING/MainProcess]  
+[2026-02-16 10:38:05,316: WARNING/MainProcess] 2026_EB_651502_1
+[2026-02-16 10:38:05,317: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:38:05,317: WARNING/MainProcess]  
+[2026-02-16 10:38:05,317: WARNING/MainProcess] 2026_EB_651247_1
+[2026-02-16 10:38:05,318: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:38:05,318: WARNING/MainProcess]  
+[2026-02-16 10:38:05,318: WARNING/MainProcess] 2026_TNCSF_651048_1
+[2026-02-16 10:38:05,319: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:38:05,319: WARNING/MainProcess]  
+[2026-02-16 10:38:05,319: WARNING/MainProcess] 2026_EB_650401_1
+[2026-02-16 10:38:06,991: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:38:06,991: WARNING/MainProcess]  
+[2026-02-16 10:38:06,991: WARNING/MainProcess] 2026_TNMSC_641299_1
+[2026-02-16 10:38:07,010: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:38:13,614: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:38:17,452: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:38:21,313: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:38:21,313: WARNING/MainProcess]  
+[2026-02-16 10:38:21,313: WARNING/MainProcess] 2026_EB_657913_1
+[2026-02-16 10:38:21,314: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:38:21,314: WARNING/MainProcess]  
+[2026-02-16 10:38:21,314: WARNING/MainProcess] 2026_EB_657050_1
+[2026-02-16 10:38:21,315: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:38:21,315: WARNING/MainProcess]  
+[2026-02-16 10:38:21,315: WARNING/MainProcess] 2026_EB_654195_1
+[2026-02-16 10:38:21,316: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:38:21,316: WARNING/MainProcess]  
+[2026-02-16 10:38:21,316: WARNING/MainProcess] 2026_EB_654210_1
+[2026-02-16 10:38:21,317: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:38:21,317: WARNING/MainProcess]  
+[2026-02-16 10:38:21,317: WARNING/MainProcess] 2026_EB_654154_1
+[2026-02-16 10:38:21,318: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:38:21,318: WARNING/MainProcess]  
+[2026-02-16 10:38:21,318: WARNING/MainProcess] 2026_EB_654236_1
+[2026-02-16 10:38:21,319: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:38:21,320: WARNING/MainProcess]  
+[2026-02-16 10:38:21,320: WARNING/MainProcess] 2026_EB_654226_1
+[2026-02-16 10:38:21,320: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:38:21,321: WARNING/MainProcess]  
+[2026-02-16 10:38:21,321: WARNING/MainProcess] 2026_EB_654176_1
+[2026-02-16 10:38:21,321: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:38:21,322: WARNING/MainProcess]  
+[2026-02-16 10:38:21,322: WARNING/MainProcess] 2026_EB_649169_1
+[2026-02-16 10:38:21,322: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:38:21,322: WARNING/MainProcess]  
+[2026-02-16 10:38:21,322: WARNING/MainProcess] 2025_EB_608271_1
+[2026-02-16 10:38:21,345: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:38:33,425: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:38:37,141: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:38:40,941: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:38:44,755: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:38:48,471: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:38:52,475: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:38:56,197: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:39:00,788: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:39:05,053: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:39:14,447: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:14,447: WARNING/MainProcess]  
+[2026-02-16 10:39:14,447: WARNING/MainProcess] 2026_WBSED_1006062_1
+[2026-02-16 10:39:14,448: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:14,448: WARNING/MainProcess]  
+[2026-02-16 10:39:14,448: WARNING/MainProcess] 2026_WBSED_1001850_2
+[2026-02-16 10:39:14,449: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:14,449: WARNING/MainProcess]  
+[2026-02-16 10:39:14,449: WARNING/MainProcess] 2026_WBSED_1002253_1
+[2026-02-16 10:39:14,450: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:14,450: WARNING/MainProcess]  
+[2026-02-16 10:39:14,450: WARNING/MainProcess] 2026_WBSED_1004505_1
+[2026-02-16 10:39:14,451: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:14,451: WARNING/MainProcess]  
+[2026-02-16 10:39:14,451: WARNING/MainProcess] 2026_WBSED_998003_1
+[2026-02-16 10:39:14,452: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:14,452: WARNING/MainProcess]  
+[2026-02-16 10:39:14,452: WARNING/MainProcess] 2026_WBSED_998003_2
+[2026-02-16 10:39:14,453: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:14,453: WARNING/MainProcess]  
+[2026-02-16 10:39:14,453: WARNING/MainProcess] 2026_WBSED_995095_1
+[2026-02-16 10:39:14,454: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:14,454: WARNING/MainProcess]  
+[2026-02-16 10:39:14,454: WARNING/MainProcess] 2026_WBSED_1000512_1
+[2026-02-16 10:39:14,455: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:14,455: WARNING/MainProcess]  
+[2026-02-16 10:39:14,455: WARNING/MainProcess] 2026_WBSED_999998_1
+[2026-02-16 10:39:14,456: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:14,456: WARNING/MainProcess]  
+[2026-02-16 10:39:14,456: WARNING/MainProcess] 2026_WBSED_996200_1
+[2026-02-16 10:39:14,457: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:14,458: WARNING/MainProcess]  
+[2026-02-16 10:39:14,458: WARNING/MainProcess] 2026_WBSED_992603_1
+[2026-02-16 10:39:14,458: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:14,459: WARNING/MainProcess]  
+[2026-02-16 10:39:14,459: WARNING/MainProcess] 2026_WBSED_992495_1
+[2026-02-16 10:39:14,459: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:14,460: WARNING/MainProcess]  
+[2026-02-16 10:39:14,460: WARNING/MainProcess] 2026_WBSED_987842_1
+[2026-02-16 10:39:14,484: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:39:25,469: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:25,470: WARNING/MainProcess]  
+[2026-02-16 10:39:25,470: WARNING/MainProcess] 2026_WBSED_994655_1
+[2026-02-16 10:39:25,471: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:25,471: WARNING/MainProcess]  
+[2026-02-16 10:39:25,471: WARNING/MainProcess] 2026_WBSED_995036_1
+[2026-02-16 10:39:25,472: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:25,472: WARNING/MainProcess]  
+[2026-02-16 10:39:25,472: WARNING/MainProcess] 2025_WBSED_978891_1
+[2026-02-16 10:39:25,492: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:39:30,526: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:30,526: WARNING/MainProcess]  
+[2026-02-16 10:39:30,527: WARNING/MainProcess] 2026_WBSED_1006062_1
+[2026-02-16 10:39:30,527: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:30,527: WARNING/MainProcess]  
+[2026-02-16 10:39:30,528: WARNING/MainProcess] 2026_PHED_1006314_1
+[2026-02-16 10:39:30,528: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:30,528: WARNING/MainProcess]  
+[2026-02-16 10:39:30,529: WARNING/MainProcess] 2026_WBSED_1005262_1
+[2026-02-16 10:39:30,529: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:30,529: WARNING/MainProcess]  
+[2026-02-16 10:39:30,530: WARNING/MainProcess] 2026_WBSED_997522_1
+[2026-02-16 10:39:30,530: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:30,530: WARNING/MainProcess]  
+[2026-02-16 10:39:30,531: WARNING/MainProcess] 2026_WBSED_1002072_1
+[2026-02-16 10:39:30,531: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:30,531: WARNING/MainProcess]  
+[2026-02-16 10:39:30,532: WARNING/MainProcess] 2026_DPL_1005770_1
+[2026-02-16 10:39:30,532: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:30,532: WARNING/MainProcess]  
+[2026-02-16 10:39:30,533: WARNING/MainProcess] 2026_WBPDC_1001839_1
+[2026-02-16 10:39:30,533: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:30,533: WARNING/MainProcess]  
+[2026-02-16 10:39:30,534: WARNING/MainProcess] 2026_WBSED_1000824_1
+[2026-02-16 10:39:30,534: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:30,534: WARNING/MainProcess]  
+[2026-02-16 10:39:30,535: WARNING/MainProcess] 2026_WBSED_1001837_1
+[2026-02-16 10:39:30,535: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:30,535: WARNING/MainProcess]  
+[2026-02-16 10:39:30,536: WARNING/MainProcess] 2026_WBSED_1001850_1
+[2026-02-16 10:39:30,536: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:30,536: WARNING/MainProcess]  
+[2026-02-16 10:39:30,536: WARNING/MainProcess] 2026_WBSED_1002253_1
+[2026-02-16 10:39:30,537: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:30,537: WARNING/MainProcess]  
+[2026-02-16 10:39:30,537: WARNING/MainProcess] 2026_WBSED_1002066_1
+[2026-02-16 10:39:30,538: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:30,538: WARNING/MainProcess]  
+[2026-02-16 10:39:30,538: WARNING/MainProcess] 2026_WRDD_1003868_7
+[2026-02-16 10:39:30,539: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:30,539: WARNING/MainProcess]  
+[2026-02-16 10:39:30,539: WARNING/MainProcess] 2026_WBSED_1004505_1
+[2026-02-16 10:39:30,540: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:30,540: WARNING/MainProcess]  
+[2026-02-16 10:39:30,540: WARNING/MainProcess] 2026_WBSED_1004211_1
+[2026-02-16 10:39:30,541: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:30,541: WARNING/MainProcess]  
+[2026-02-16 10:39:30,542: WARNING/MainProcess] 2026_WBSED_1003740_1
+[2026-02-16 10:39:30,542: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:30,542: WARNING/MainProcess]  
+[2026-02-16 10:39:30,543: WARNING/MainProcess] 2026_WBSED_1002258_1
+[2026-02-16 10:39:30,543: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:30,543: WARNING/MainProcess]  
+[2026-02-16 10:39:30,544: WARNING/MainProcess] 2026_WBSED_1002294_1
+[2026-02-16 10:39:30,544: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:30,544: WARNING/MainProcess]  
+[2026-02-16 10:39:30,545: WARNING/MainProcess] 2026_WBSED_1002214_1
+[2026-02-16 10:39:30,545: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:30,545: WARNING/MainProcess]  
+[2026-02-16 10:39:30,546: WARNING/MainProcess] 2026_WBSED_998993_1
+[2026-02-16 10:39:32,384: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:32,384: WARNING/MainProcess]  
+[2026-02-16 10:39:32,385: WARNING/MainProcess] 2026_WBSED_1002726_1
+[2026-02-16 10:39:32,385: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:32,386: WARNING/MainProcess]  
+[2026-02-16 10:39:32,386: WARNING/MainProcess] 2026_WBSED_996135_1
+[2026-02-16 10:39:32,387: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:32,387: WARNING/MainProcess]  
+[2026-02-16 10:39:32,387: WARNING/MainProcess] 2026_WBSED_994973_1
+[2026-02-16 10:39:32,388: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:32,388: WARNING/MainProcess]  
+[2026-02-16 10:39:32,388: WARNING/MainProcess] 2026_ZPHD_1002191_1
+[2026-02-16 10:39:32,389: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:32,389: WARNING/MainProcess]  
+[2026-02-16 10:39:32,390: WARNING/MainProcess] 2026_WBSED_995448_1
+[2026-02-16 10:39:32,390: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:32,391: WARNING/MainProcess]  
+[2026-02-16 10:39:32,391: WARNING/MainProcess] 2026_WBSED_995031_1
+[2026-02-16 10:39:32,392: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:32,392: WARNING/MainProcess]  
+[2026-02-16 10:39:32,392: WARNING/MainProcess] 2026_WBSED_1001289_1
+[2026-02-16 10:39:32,394: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:32,394: WARNING/MainProcess]  
+[2026-02-16 10:39:32,394: WARNING/MainProcess] 2026_WBSED_995095_1
+[2026-02-16 10:39:32,395: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:32,395: WARNING/MainProcess]  
+[2026-02-16 10:39:32,395: WARNING/MainProcess] 2026_MAD_1001756_1
+[2026-02-16 10:39:32,396: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:32,396: WARNING/MainProcess]  
+[2026-02-16 10:39:32,397: WARNING/MainProcess] 2026_WBPDC_997765_1
+[2026-02-16 10:39:32,398: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:32,398: WARNING/MainProcess]  
+[2026-02-16 10:39:32,398: WARNING/MainProcess] 2026_NKDA_1000902_1
+[2026-02-16 10:39:32,399: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:32,399: WARNING/MainProcess]  
+[2026-02-16 10:39:32,400: WARNING/MainProcess] 2026_WBSED_994783_1
+[2026-02-16 10:39:32,401: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:32,401: WARNING/MainProcess]  
+[2026-02-16 10:39:32,401: WARNING/MainProcess] 2026_WBSED_994847_1
+[2026-02-16 10:39:32,402: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:32,402: WARNING/MainProcess]  
+[2026-02-16 10:39:32,403: WARNING/MainProcess] 2026_WRDD_999653_3
+[2026-02-16 10:39:32,403: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:32,403: WARNING/MainProcess]  
+[2026-02-16 10:39:32,404: WARNING/MainProcess] 2026_WRDD_999653_6
+[2026-02-16 10:39:32,404: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:32,405: WARNING/MainProcess]  
+[2026-02-16 10:39:32,405: WARNING/MainProcess] 2026_WBSED_992455_1
+[2026-02-16 10:39:32,406: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:32,406: WARNING/MainProcess]  
+[2026-02-16 10:39:32,406: WARNING/MainProcess] 2026_WBSED_992524_1
+[2026-02-16 10:39:32,407: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:32,408: WARNING/MainProcess]  
+[2026-02-16 10:39:32,408: WARNING/MainProcess] 2026_PRD_996413_1
+[2026-02-16 10:39:34,276: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:34,277: WARNING/MainProcess]  
+[2026-02-16 10:39:34,277: WARNING/MainProcess] 2026_PRD_996575_1
+[2026-02-16 10:39:34,278: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:34,278: WARNING/MainProcess]  
+[2026-02-16 10:39:34,278: WARNING/MainProcess] 2026_WBSED_989942_1
+[2026-02-16 10:39:34,279: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:34,279: WARNING/MainProcess]  
+[2026-02-16 10:39:34,279: WARNING/MainProcess] 2026_WBSED_989363_1
+[2026-02-16 10:39:34,280: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:34,280: WARNING/MainProcess]  
+[2026-02-16 10:39:34,280: WARNING/MainProcess] 2026_WBSED_992495_1
+[2026-02-16 10:39:34,281: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:34,281: WARNING/MainProcess]  
+[2026-02-16 10:39:34,281: WARNING/MainProcess] 2026_WBMSC_990317_1
+[2026-02-16 10:39:34,282: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:34,282: WARNING/MainProcess]  
+[2026-02-16 10:39:34,282: WARNING/MainProcess] 2026_WBPWD_991149_1
+[2026-02-16 10:39:34,283: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:34,283: WARNING/MainProcess]  
+[2026-02-16 10:39:34,284: WARNING/MainProcess] 2026_WBPDC_986893_1
+[2026-02-16 10:39:34,307: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:39:46,626: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:46,626: WARNING/MainProcess]  
+[2026-02-16 10:39:46,626: WARNING/MainProcess] 2026_MAD_1001756_1
+[2026-02-16 10:39:46,627: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:46,627: WARNING/MainProcess]  
+[2026-02-16 10:39:46,627: WARNING/MainProcess] 2026_WRDD_999653_3
+[2026-02-16 10:39:46,637: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:39:51,819: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:51,820: WARNING/MainProcess]  
+[2026-02-16 10:39:51,820: WARNING/MainProcess] 2026_WRDD_1003868_7
+[2026-02-16 10:39:51,828: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:39:55,868: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:55,868: WARNING/MainProcess]  
+[2026-02-16 10:39:55,868: WARNING/MainProcess] 2026_ZPHD_1006970_18
+[2026-02-16 10:39:55,869: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:55,869: WARNING/MainProcess]  
+[2026-02-16 10:39:55,869: WARNING/MainProcess] 2026_WBSED_1000759_3
+[2026-02-16 10:39:55,869: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:55,870: WARNING/MainProcess]  
+[2026-02-16 10:39:55,870: WARNING/MainProcess] 2026_WBSED_1000759_2
+[2026-02-16 10:39:55,870: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:55,870: WARNING/MainProcess]  
+[2026-02-16 10:39:55,870: WARNING/MainProcess] 2026_WBSED_1000759_1
+[2026-02-16 10:39:55,871: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:55,871: WARNING/MainProcess]  
+[2026-02-16 10:39:55,871: WARNING/MainProcess] 2026_WRDD_1003868_7
+[2026-02-16 10:39:55,871: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:55,871: WARNING/MainProcess]  
+[2026-02-16 10:39:55,871: WARNING/MainProcess] 2026_DM_1004253_1
+[2026-02-16 10:39:55,872: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:55,872: WARNING/MainProcess]  
+[2026-02-16 10:39:55,872: WARNING/MainProcess] 2026_DOFR_1001414_1
+[2026-02-16 10:39:55,872: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:55,872: WARNING/MainProcess]  
+[2026-02-16 10:39:55,872: WARNING/MainProcess] 2026_WBSED_1002697_1
+[2026-02-16 10:39:55,873: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:55,873: WARNING/MainProcess]  
+[2026-02-16 10:39:55,873: WARNING/MainProcess] 2026_ZPHD_1002104_1
+[2026-02-16 10:39:55,873: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:55,874: WARNING/MainProcess]  
+[2026-02-16 10:39:55,874: WARNING/MainProcess] 2026_ZPHD_1002104_3
+[2026-02-16 10:39:55,874: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:55,874: WARNING/MainProcess]  
+[2026-02-16 10:39:55,874: WARNING/MainProcess] 2026_ZPHD_1002104_4
+[2026-02-16 10:39:55,875: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:55,875: WARNING/MainProcess]  
+[2026-02-16 10:39:55,875: WARNING/MainProcess] 2026_ZPHD_1002104_2
+[2026-02-16 10:39:55,875: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:55,875: WARNING/MainProcess]  
+[2026-02-16 10:39:55,875: WARNING/MainProcess] 2026_ZPHD_1002104_5
+[2026-02-16 10:39:55,876: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:55,876: WARNING/MainProcess]  
+[2026-02-16 10:39:55,876: WARNING/MainProcess] 2026_WBPWD_998834_7
+[2026-02-16 10:39:55,876: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:55,876: WARNING/MainProcess]  
+[2026-02-16 10:39:55,876: WARNING/MainProcess] 2026_WBSED_1000335_1
+[2026-02-16 10:39:55,877: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:55,877: WARNING/MainProcess]  
+[2026-02-16 10:39:55,877: WARNING/MainProcess] 2026_PWD_998599_1
+[2026-02-16 10:39:55,877: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:55,878: WARNING/MainProcess]  
+[2026-02-16 10:39:55,878: WARNING/MainProcess] 2026_WRDD_999653_8
+[2026-02-16 10:39:55,878: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:55,878: WARNING/MainProcess]  
+[2026-02-16 10:39:55,878: WARNING/MainProcess] 2025_MAD_967502_6
+[2026-02-16 10:39:55,879: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:55,879: WARNING/MainProcess]  
+[2026-02-16 10:39:55,879: WARNING/MainProcess] 2026_HFW_998411_4
+[2026-02-16 10:39:57,689: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:57,690: WARNING/MainProcess]  
+[2026-02-16 10:39:57,690: WARNING/MainProcess] 2026_WBPWD_996622_1
+[2026-02-16 10:39:57,690: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:57,690: WARNING/MainProcess]  
+[2026-02-16 10:39:57,690: WARNING/MainProcess] 2026_WBPT_992679_1
+[2026-02-16 10:39:57,691: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:39:57,691: WARNING/MainProcess]  
+[2026-02-16 10:39:57,691: WARNING/MainProcess] 2025_PHED_948052_2
+[2026-02-16 10:39:57,702: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:40:04,577: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:40:09,924: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:40:13,857: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:40:13,857: WARNING/MainProcess]  
+[2026-02-16 10:40:13,858: WARNING/MainProcess] 2026_WBSED_997522_1
+[2026-02-16 10:40:13,858: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:40:13,858: WARNING/MainProcess]  
+[2026-02-16 10:40:13,858: WARNING/MainProcess] 2026_WBSED_1000824_1
+[2026-02-16 10:40:13,859: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:40:13,859: WARNING/MainProcess]  
+[2026-02-16 10:40:13,859: WARNING/MainProcess] 2026_WBSED_1000695_2
+[2026-02-16 10:40:13,859: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:40:13,859: WARNING/MainProcess]  
+[2026-02-16 10:40:13,859: WARNING/MainProcess] 2026_WBSED_1004211_1
+[2026-02-16 10:40:13,860: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:40:13,860: WARNING/MainProcess]  
+[2026-02-16 10:40:13,860: WARNING/MainProcess] 2026_WBSED_996135_1
+[2026-02-16 10:40:13,860: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:40:13,860: WARNING/MainProcess]  
+[2026-02-16 10:40:13,861: WARNING/MainProcess] 2026_WBSED_995448_1
+[2026-02-16 10:40:13,861: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:40:13,861: WARNING/MainProcess]  
+[2026-02-16 10:40:13,861: WARNING/MainProcess] 2026_WBSED_1000512_1
+[2026-02-16 10:40:13,861: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:40:13,862: WARNING/MainProcess]  
+[2026-02-16 10:40:13,862: WARNING/MainProcess] 2026_WBSED_999998_1
+[2026-02-16 10:40:13,862: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:40:13,862: WARNING/MainProcess]  
+[2026-02-16 10:40:13,862: WARNING/MainProcess] 2026_SETCL_996437_1
+[2026-02-16 10:40:13,863: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:40:13,863: WARNING/MainProcess]  
+[2026-02-16 10:40:13,863: WARNING/MainProcess] 2026_WBSED_992455_1
+[2026-02-16 10:40:13,863: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:40:13,863: WARNING/MainProcess]  
+[2026-02-16 10:40:13,863: WARNING/MainProcess] 2026_WBSED_989363_1
+[2026-02-16 10:40:13,864: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:40:13,864: WARNING/MainProcess]  
+[2026-02-16 10:40:13,864: WARNING/MainProcess] 2026_WBSED_992495_1
+[2026-02-16 10:40:13,864: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:40:13,864: WARNING/MainProcess]  
+[2026-02-16 10:40:13,865: WARNING/MainProcess] 2026_WBSED_987842_1
+[2026-02-16 10:40:13,865: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:40:13,865: WARNING/MainProcess]  
+[2026-02-16 10:40:13,865: WARNING/MainProcess] 2026_WBPDC_990270_1
+[2026-02-16 10:40:13,879: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:40:29,200: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:40:34,891: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:40:38,565: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:40:42,217: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:40:46,312: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:40:50,542: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:40:54,854: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:40:58,521: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:41:02,168: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:41:17,543: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:41:21,674: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:41:26,758: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:41:30,886: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:41:34,990: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:41:38,869: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:41:43,033: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:41:46,664: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:41:50,279: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:42:01,989: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:01,990: WARNING/MainProcess]  
+[2026-02-16 10:42:01,990: WARNING/MainProcess] 2025_UAD_441778_3
+[2026-02-16 10:42:01,990: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:01,990: WARNING/MainProcess]  
+[2026-02-16 10:42:01,990: WARNING/MainProcess] 2026_MKVVC_481627_1
+[2026-02-16 10:42:01,991: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:01,991: WARNING/MainProcess]  
+[2026-02-16 10:42:01,991: WARNING/MainProcess] 2026_PKVVC_481111_1
+[2026-02-16 10:42:01,991: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:01,992: WARNING/MainProcess]  
+[2026-02-16 10:42:01,992: WARNING/MainProcess] 2026_PKVVC_481149_1
+[2026-02-16 10:42:01,992: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:01,992: WARNING/MainProcess]  
+[2026-02-16 10:42:01,992: WARNING/MainProcess] 2026_PKVVC_479862_1
+[2026-02-16 10:42:01,993: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:01,993: WARNING/MainProcess]  
+[2026-02-16 10:42:01,993: WARNING/MainProcess] 2026_PKVVC_480196_1
+[2026-02-16 10:42:01,993: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:01,993: WARNING/MainProcess]  
+[2026-02-16 10:42:01,993: WARNING/MainProcess] 2026_PKVVC_479603_1
+[2026-02-16 10:42:01,994: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:01,994: WARNING/MainProcess]  
+[2026-02-16 10:42:01,994: WARNING/MainProcess] 2026_UAD_479582_1
+[2026-02-16 10:42:01,994: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:01,995: WARNING/MainProcess]  
+[2026-02-16 10:42:01,995: WARNING/MainProcess] 2026_PWDRB_478956_1
+[2026-02-16 10:42:01,995: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:01,995: WARNING/MainProcess]  
+[2026-02-16 10:42:01,995: WARNING/MainProcess] 2026_UAD_478536_1
+[2026-02-16 10:42:01,996: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:01,996: WARNING/MainProcess]  
+[2026-02-16 10:42:01,996: WARNING/MainProcess] 2026_MKVVC_477763_1
+[2026-02-16 10:42:01,996: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:01,996: WARNING/MainProcess]  
+[2026-02-16 10:42:01,997: WARNING/MainProcess] 2026_MKVVC_477784_1
+[2026-02-16 10:42:01,997: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:01,997: WARNING/MainProcess]  
+[2026-02-16 10:42:01,997: WARNING/MainProcess] 2026_MKVVC_477754_1
+[2026-02-16 10:42:02,010: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:42:13,851: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:13,852: WARNING/MainProcess]  
+[2026-02-16 10:42:13,852: WARNING/MainProcess] 2026_CPA_478348_1
+[2026-02-16 10:42:13,852: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:13,853: WARNING/MainProcess]  
+[2026-02-16 10:42:13,853: WARNING/MainProcess] 2026_MKVVC_482328_1
+[2026-02-16 10:42:13,853: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:13,853: WARNING/MainProcess]  
+[2026-02-16 10:42:13,853: WARNING/MainProcess] 2026_MPPGC_476457_1
+[2026-02-16 10:42:13,854: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:13,854: WARNING/MainProcess]  
+[2026-02-16 10:42:13,854: WARNING/MainProcess] 2025_MPPGC_464941_1
+[2026-02-16 10:42:13,854: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:13,854: WARNING/MainProcess]  
+[2026-02-16 10:42:13,854: WARNING/MainProcess] 2025_MPPKV_470937_1
+[2026-02-16 10:42:13,855: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:13,855: WARNING/MainProcess]  
+[2026-02-16 10:42:13,855: WARNING/MainProcess] 2025_MPPKV_470941_1
+[2026-02-16 10:42:13,855: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:13,856: WARNING/MainProcess]  
+[2026-02-16 10:42:13,856: WARNING/MainProcess] 2025_MPPKV_470939_1
+[2026-02-16 10:42:13,856: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:13,856: WARNING/MainProcess]  
+[2026-02-16 10:42:13,856: WARNING/MainProcess] 2025_MPPKV_470938_1
+[2026-02-16 10:42:13,869: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:42:21,227: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:21,227: WARNING/MainProcess]  
+[2026-02-16 10:42:21,228: WARNING/MainProcess] 2026_NVDA_481794_1
+[2026-02-16 10:42:21,228: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:21,229: WARNING/MainProcess]  
+[2026-02-16 10:42:21,229: WARNING/MainProcess] 2026_CPA_478340_1
+[2026-02-16 10:42:21,229: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:21,229: WARNING/MainProcess]  
+[2026-02-16 10:42:21,229: WARNING/MainProcess] 2026_MPPGC_474361_1
+[2026-02-16 10:42:21,230: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:21,230: WARNING/MainProcess]  
+[2026-02-16 10:42:21,230: WARNING/MainProcess] 2026_MPFD_481314_1
+[2026-02-16 10:42:21,230: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:21,230: WARNING/MainProcess]  
+[2026-02-16 10:42:21,231: WARNING/MainProcess] 2026_UAD_480808_1
+[2026-02-16 10:42:21,231: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:21,231: WARNING/MainProcess]  
+[2026-02-16 10:42:21,231: WARNING/MainProcess] 2026_MPSAM_477301_1
+[2026-02-16 10:42:21,231: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:21,232: WARNING/MainProcess]  
+[2026-02-16 10:42:21,232: WARNING/MainProcess] 2025_MPPGC_454505_1
+[2026-02-16 10:42:21,232: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:21,232: WARNING/MainProcess]  
+[2026-02-16 10:42:21,232: WARNING/MainProcess] 2026_PKVVC_479660_1
+[2026-02-16 10:42:21,233: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:21,233: WARNING/MainProcess]  
+[2026-02-16 10:42:21,233: WARNING/MainProcess] 2026_MPSAM_480293_1
+[2026-02-16 10:42:21,233: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:21,233: WARNING/MainProcess]  
+[2026-02-16 10:42:21,234: WARNING/MainProcess] 2026_MPPTC_479557_1
+[2026-02-16 10:42:21,234: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:21,234: WARNING/MainProcess]  
+[2026-02-16 10:42:21,234: WARNING/MainProcess] 2026_PKVVC_479594_1
+[2026-02-16 10:42:21,235: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:21,235: WARNING/MainProcess]  
+[2026-02-16 10:42:21,235: WARNING/MainProcess] 2026_UAD_478235_1
+[2026-02-16 10:42:21,235: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:21,235: WARNING/MainProcess]  
+[2026-02-16 10:42:21,235: WARNING/MainProcess] 2026_UAD_478164_1
+[2026-02-16 10:42:21,236: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:21,236: WARNING/MainProcess]  
+[2026-02-16 10:42:21,236: WARNING/MainProcess] 2026_PKVVC_474575_1
+[2026-02-16 10:42:21,236: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:21,236: WARNING/MainProcess]  
+[2026-02-16 10:42:21,237: WARNING/MainProcess] 2025_MPPGC_425938_2
+[2026-02-16 10:42:21,255: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:42:26,300: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:26,300: WARNING/MainProcess]  
+[2026-02-16 10:42:26,301: WARNING/MainProcess] 2026_MPPGC_474361_1
+[2026-02-16 10:42:26,301: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:26,301: WARNING/MainProcess]  
+[2026-02-16 10:42:26,301: WARNING/MainProcess] 2025_MPPGC_454505_1
+[2026-02-16 10:42:26,302: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:26,302: WARNING/MainProcess]  
+[2026-02-16 10:42:26,302: WARNING/MainProcess] 2025_MPPGC_425938_2
+[2026-02-16 10:42:26,353: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:42:31,524: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:42:35,904: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:35,904: WARNING/MainProcess]  
+[2026-02-16 10:42:35,904: WARNING/MainProcess] 2026_UAD_481918_1
+[2026-02-16 10:42:35,905: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:35,906: WARNING/MainProcess]  
+[2026-02-16 10:42:35,906: WARNING/MainProcess] 2026_PWDRB_480490_1
+[2026-02-16 10:42:35,907: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:35,907: WARNING/MainProcess]  
+[2026-02-16 10:42:35,907: WARNING/MainProcess] 2026_MPHC_479296_1
+[2026-02-16 10:42:35,908: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:35,908: WARNING/MainProcess]  
+[2026-02-16 10:42:35,908: WARNING/MainProcess] 2026_UAD_477042_1
+[2026-02-16 10:42:35,923: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:42:39,760: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:42:45,053: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:42:49,295: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:49,295: WARNING/MainProcess]  
+[2026-02-16 10:42:49,295: WARNING/MainProcess] 2026_PKVVC_482676_1
+[2026-02-16 10:42:49,296: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:49,296: WARNING/MainProcess]  
+[2026-02-16 10:42:49,296: WARNING/MainProcess] 2026_CPA_478355_1
+[2026-02-16 10:42:49,297: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:49,297: WARNING/MainProcess]  
+[2026-02-16 10:42:49,297: WARNING/MainProcess] 2026_CPA_478352_1
+[2026-02-16 10:42:49,298: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:49,298: WARNING/MainProcess]  
+[2026-02-16 10:42:49,298: WARNING/MainProcess] 2026_PKVVC_482173_1
+[2026-02-16 10:42:49,299: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:49,299: WARNING/MainProcess]  
+[2026-02-16 10:42:49,299: WARNING/MainProcess] 2026_MKVVC_482328_1
+[2026-02-16 10:42:49,300: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:49,300: WARNING/MainProcess]  
+[2026-02-16 10:42:49,300: WARNING/MainProcess] 2026_PKVVC_481111_1
+[2026-02-16 10:42:49,301: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:49,301: WARNING/MainProcess]  
+[2026-02-16 10:42:49,301: WARNING/MainProcess] 2026_MPSAM_477301_1
+[2026-02-16 10:42:49,301: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:49,301: WARNING/MainProcess]  
+[2026-02-16 10:42:49,301: WARNING/MainProcess] 2026_PKVVC_479862_1
+[2026-02-16 10:42:49,302: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:49,302: WARNING/MainProcess]  
+[2026-02-16 10:42:49,302: WARNING/MainProcess] 2026_PKVVC_479996_1
+[2026-02-16 10:42:49,302: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:49,302: WARNING/MainProcess]  
+[2026-02-16 10:42:49,302: WARNING/MainProcess] 2026_MPPKV_480163_1
+[2026-02-16 10:42:49,303: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:49,303: WARNING/MainProcess]  
+[2026-02-16 10:42:49,303: WARNING/MainProcess] 2026_PKVVC_479155_1
+[2026-02-16 10:42:49,303: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:49,304: WARNING/MainProcess]  
+[2026-02-16 10:42:49,304: WARNING/MainProcess] 2025_UAD_455760_2
+[2026-02-16 10:42:49,304: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:49,304: WARNING/MainProcess]  
+[2026-02-16 10:42:49,304: WARNING/MainProcess] 2026_PKVVC_479300_1
+[2026-02-16 10:42:49,305: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:49,305: WARNING/MainProcess]  
+[2026-02-16 10:42:49,305: WARNING/MainProcess] 2026_PWDRB_478956_1
+[2026-02-16 10:42:49,305: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:49,305: WARNING/MainProcess]  
+[2026-02-16 10:42:49,305: WARNING/MainProcess] 2026_MPPTC_475819_1
+[2026-02-16 10:42:49,306: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:42:49,306: WARNING/MainProcess]  
+[2026-02-16 10:42:49,306: WARNING/MainProcess] 2025_MPPKV_470941_1
+[2026-02-16 10:42:49,319: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:43:04,568: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:43:08,349: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:43:12,556: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:43:16,801: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:43:20,564: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:43:24,220: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:43:27,904: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:43:32,097: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:43:35,863: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:43:48,642: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:48,643: WARNING/MainProcess]  
+[2026-02-16 10:43:48,643: WARNING/MainProcess] 2026_POWER_159882_1
+[2026-02-16 10:43:48,643: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:48,643: WARNING/MainProcess]  
+[2026-02-16 10:43:48,643: WARNING/MainProcess] 2026_POWER_159252_1
+[2026-02-16 10:43:48,644: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:48,644: WARNING/MainProcess]  
+[2026-02-16 10:43:48,644: WARNING/MainProcess] 2026_POWER_159229_1
+[2026-02-16 10:43:48,644: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:48,645: WARNING/MainProcess]  
+[2026-02-16 10:43:48,645: WARNING/MainProcess] 2026_POWER_158848_1
+[2026-02-16 10:43:48,645: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:48,645: WARNING/MainProcess]  
+[2026-02-16 10:43:48,645: WARNING/MainProcess] 2026_POWER_158716_1
+[2026-02-16 10:43:48,646: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:48,646: WARNING/MainProcess]  
+[2026-02-16 10:43:48,646: WARNING/MainProcess] 2026_POWER_158701_1
+[2026-02-16 10:43:48,646: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:48,646: WARNING/MainProcess]  
+[2026-02-16 10:43:48,646: WARNING/MainProcess] 2026_POWER_158747_1
+[2026-02-16 10:43:48,647: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:48,647: WARNING/MainProcess]  
+[2026-02-16 10:43:48,647: WARNING/MainProcess] 2026_POWER_158776_1
+[2026-02-16 10:43:48,647: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:48,648: WARNING/MainProcess]  
+[2026-02-16 10:43:48,648: WARNING/MainProcess] 2026_POWER_158726_1
+[2026-02-16 10:43:48,648: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:48,648: WARNING/MainProcess]  
+[2026-02-16 10:43:48,648: WARNING/MainProcess] 2026_POWER_158734_1
+[2026-02-16 10:43:48,649: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:48,649: WARNING/MainProcess]  
+[2026-02-16 10:43:48,649: WARNING/MainProcess] 2026_POWER_158739_1
+[2026-02-16 10:43:48,649: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:48,649: WARNING/MainProcess]  
+[2026-02-16 10:43:48,649: WARNING/MainProcess] 2026_POWER_158574_1
+[2026-02-16 10:43:48,650: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:48,650: WARNING/MainProcess]  
+[2026-02-16 10:43:48,650: WARNING/MainProcess] 2026_POWER_158567_1
+[2026-02-16 10:43:48,650: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:48,650: WARNING/MainProcess]  
+[2026-02-16 10:43:48,651: WARNING/MainProcess] 2026_POWER_158535_1
+[2026-02-16 10:43:48,651: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:48,651: WARNING/MainProcess]  
+[2026-02-16 10:43:48,651: WARNING/MainProcess] 2026_POWER_158314_1
+[2026-02-16 10:43:48,651: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:48,652: WARNING/MainProcess]  
+[2026-02-16 10:43:48,652: WARNING/MainProcess] 2026_POWER_158335_1
+[2026-02-16 10:43:48,652: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:48,652: WARNING/MainProcess]  
+[2026-02-16 10:43:48,652: WARNING/MainProcess] 2026_POWER_157995_1
+[2026-02-16 10:43:48,653: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:48,653: WARNING/MainProcess]  
+[2026-02-16 10:43:48,653: WARNING/MainProcess] 2026_POWER_158002_1
+[2026-02-16 10:43:48,653: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:48,653: WARNING/MainProcess]  
+[2026-02-16 10:43:48,653: WARNING/MainProcess] 2026_POWER_158229_1
+[2026-02-16 10:43:48,654: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:48,654: WARNING/MainProcess]  
+[2026-02-16 10:43:48,655: WARNING/MainProcess] 2026_POWER_158222_1
+[2026-02-16 10:43:50,273: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:50,274: WARNING/MainProcess]  
+[2026-02-16 10:43:50,274: WARNING/MainProcess] 2026_POWER_158196_1
+[2026-02-16 10:43:50,275: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:50,275: WARNING/MainProcess]  
+[2026-02-16 10:43:50,275: WARNING/MainProcess] 2026_POWER_158222_1
+[2026-02-16 10:43:50,275: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:50,275: WARNING/MainProcess]  
+[2026-02-16 10:43:50,275: WARNING/MainProcess] 2026_POWER_158076_1
+[2026-02-16 10:43:50,276: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:50,276: WARNING/MainProcess]  
+[2026-02-16 10:43:50,276: WARNING/MainProcess] 2026_POWER_157942_1
+[2026-02-16 10:43:50,286: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:43:54,360: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:54,360: WARNING/MainProcess]  
+[2026-02-16 10:43:54,360: WARNING/MainProcess] 2026_POWER_159940_1
+[2026-02-16 10:43:54,361: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:54,361: WARNING/MainProcess]  
+[2026-02-16 10:43:54,361: WARNING/MainProcess] 2026_POWER_159280_1
+[2026-02-16 10:43:54,362: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:54,362: WARNING/MainProcess]  
+[2026-02-16 10:43:54,362: WARNING/MainProcess] 2026_DLG_159078_51
+[2026-02-16 10:43:54,363: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:54,363: WARNING/MainProcess]  
+[2026-02-16 10:43:54,364: WARNING/MainProcess] 2026_POWER_159006_1
+[2026-02-16 10:43:54,364: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:54,364: WARNING/MainProcess]  
+[2026-02-16 10:43:54,365: WARNING/MainProcess] 2025_POWER_156683_1
+[2026-02-16 10:43:54,416: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:43:59,317: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:59,317: WARNING/MainProcess]  
+[2026-02-16 10:43:59,318: WARNING/MainProcess] 2026_POWER_158005_2
+[2026-02-16 10:43:59,318: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:59,318: WARNING/MainProcess]  
+[2026-02-16 10:43:59,318: WARNING/MainProcess] 2026_POWER_158006_2
+[2026-02-16 10:43:59,319: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:59,319: WARNING/MainProcess]  
+[2026-02-16 10:43:59,319: WARNING/MainProcess] 2026_POWER_159882_1
+[2026-02-16 10:43:59,319: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:59,319: WARNING/MainProcess]  
+[2026-02-16 10:43:59,320: WARNING/MainProcess] 2026_POWER_159886_1
+[2026-02-16 10:43:59,320: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:59,320: WARNING/MainProcess]  
+[2026-02-16 10:43:59,320: WARNING/MainProcess] 2026_POWER_159154_1
+[2026-02-16 10:43:59,321: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:59,321: WARNING/MainProcess]  
+[2026-02-16 10:43:59,321: WARNING/MainProcess] 2026_POWER_158980_1
+[2026-02-16 10:43:59,321: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:59,321: WARNING/MainProcess]  
+[2026-02-16 10:43:59,321: WARNING/MainProcess] 2026_POWER_158986_1
+[2026-02-16 10:43:59,322: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:59,322: WARNING/MainProcess]  
+[2026-02-16 10:43:59,322: WARNING/MainProcess] 2026_POWER_158856_1
+[2026-02-16 10:43:59,322: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:59,322: WARNING/MainProcess]  
+[2026-02-16 10:43:59,322: WARNING/MainProcess] 2026_POWER_158776_1
+[2026-02-16 10:43:59,323: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:59,323: WARNING/MainProcess]  
+[2026-02-16 10:43:59,323: WARNING/MainProcess] 2026_POWER_158701_1
+[2026-02-16 10:43:59,323: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:59,324: WARNING/MainProcess]  
+[2026-02-16 10:43:59,324: WARNING/MainProcess] 2026_POWER_158605_1
+[2026-02-16 10:43:59,324: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:59,324: WARNING/MainProcess]  
+[2026-02-16 10:43:59,324: WARNING/MainProcess] 2026_POWER_158558_1
+[2026-02-16 10:43:59,325: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:59,325: WARNING/MainProcess]  
+[2026-02-16 10:43:59,325: WARNING/MainProcess] 2026_POWER_158604_1
+[2026-02-16 10:43:59,326: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:59,326: WARNING/MainProcess]  
+[2026-02-16 10:43:59,326: WARNING/MainProcess] 2026_POWER_158542_1
+[2026-02-16 10:43:59,326: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:59,326: WARNING/MainProcess]  
+[2026-02-16 10:43:59,326: WARNING/MainProcess] 2026_POWER_158314_1
+[2026-02-16 10:43:59,327: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:59,327: WARNING/MainProcess]  
+[2026-02-16 10:43:59,327: WARNING/MainProcess] 2026_POWER_158335_1
+[2026-02-16 10:43:59,327: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:59,328: WARNING/MainProcess]  
+[2026-02-16 10:43:59,328: WARNING/MainProcess] 2026_POWER_158002_1
+[2026-02-16 10:43:59,328: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:59,328: WARNING/MainProcess]  
+[2026-02-16 10:43:59,328: WARNING/MainProcess] 2026_POWER_157995_1
+[2026-02-16 10:43:59,329: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:43:59,329: WARNING/MainProcess]  
+[2026-02-16 10:43:59,329: WARNING/MainProcess] 2026_POWER_158219_1
+[2026-02-16 10:44:00,941: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:00,942: WARNING/MainProcess]  
+[2026-02-16 10:44:00,942: WARNING/MainProcess] 2026_POWER_158213_1
+[2026-02-16 10:44:00,942: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:00,942: WARNING/MainProcess]  
+[2026-02-16 10:44:00,942: WARNING/MainProcess] 2026_POWER_158149_1
+[2026-02-16 10:44:00,943: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:00,943: WARNING/MainProcess]  
+[2026-02-16 10:44:00,943: WARNING/MainProcess] 2026_POWER_158229_1
+[2026-02-16 10:44:00,943: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:00,944: WARNING/MainProcess]  
+[2026-02-16 10:44:00,944: WARNING/MainProcess] 2026_POWER_158222_1
+[2026-02-16 10:44:00,944: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:00,944: WARNING/MainProcess]  
+[2026-02-16 10:44:00,944: WARNING/MainProcess] 2026_POWER_158003_1
+[2026-02-16 10:44:00,945: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:00,945: WARNING/MainProcess]  
+[2026-02-16 10:44:00,945: WARNING/MainProcess] 2026_POWER_157999_1
+[2026-02-16 10:44:00,945: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:00,945: WARNING/MainProcess]  
+[2026-02-16 10:44:00,945: WARNING/MainProcess] 2026_POWER_157998_1
+[2026-02-16 10:44:00,946: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:00,946: WARNING/MainProcess]  
+[2026-02-16 10:44:00,946: WARNING/MainProcess] 2026_POWER_158133_1
+[2026-02-16 10:44:00,946: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:00,946: WARNING/MainProcess]  
+[2026-02-16 10:44:00,947: WARNING/MainProcess] 2026_POWER_157997_1
+[2026-02-16 10:44:00,947: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:00,947: WARNING/MainProcess]  
+[2026-02-16 10:44:00,947: WARNING/MainProcess] 2026_POWER_158126_1
+[2026-02-16 10:44:00,947: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:00,948: WARNING/MainProcess]  
+[2026-02-16 10:44:00,948: WARNING/MainProcess] 2026_POWER_158130_1
+[2026-02-16 10:44:00,948: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:00,948: WARNING/MainProcess]  
+[2026-02-16 10:44:00,948: WARNING/MainProcess] 2026_POWER_158129_1
+[2026-02-16 10:44:00,949: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:00,949: WARNING/MainProcess]  
+[2026-02-16 10:44:00,949: WARNING/MainProcess] 2026_POWER_158059_1
+[2026-02-16 10:44:00,949: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:00,949: WARNING/MainProcess]  
+[2026-02-16 10:44:00,949: WARNING/MainProcess] 2026_POWER_158073_1
+[2026-02-16 10:44:00,950: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:00,950: WARNING/MainProcess]  
+[2026-02-16 10:44:00,950: WARNING/MainProcess] 2026_POWER_158071_2
+[2026-02-16 10:44:00,950: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:00,951: WARNING/MainProcess]  
+[2026-02-16 10:44:00,951: WARNING/MainProcess] 2026_POWER_158076_1
+[2026-02-16 10:44:00,951: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:00,951: WARNING/MainProcess]  
+[2026-02-16 10:44:00,952: WARNING/MainProcess] 2026_POWER_157942_1
+[2026-02-16 10:44:00,952: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:00,952: WARNING/MainProcess]  
+[2026-02-16 10:44:00,952: WARNING/MainProcess] 2026_POWER_157613_1
+[2026-02-16 10:44:00,952: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:00,953: WARNING/MainProcess]  
+[2026-02-16 10:44:00,953: WARNING/MainProcess] 2025_POWER_156692_1
+[2026-02-16 10:44:02,557: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:02,557: WARNING/MainProcess]  
+[2026-02-16 10:44:02,557: WARNING/MainProcess] 2025_POWER_155326_1
+[2026-02-16 10:44:02,567: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:44:13,620: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:13,621: WARNING/MainProcess]  
+[2026-02-16 10:44:13,621: WARNING/MainProcess] 2026_POWER_158229_1
+[2026-02-16 10:44:13,621: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:13,621: WARNING/MainProcess]  
+[2026-02-16 10:44:13,621: WARNING/MainProcess] 2026_POWER_158222_1
+[2026-02-16 10:44:13,622: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:13,622: WARNING/MainProcess]  
+[2026-02-16 10:44:13,622: WARNING/MainProcess] 2026_POWER_158003_1
+[2026-02-16 10:44:13,623: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:13,623: WARNING/MainProcess]  
+[2026-02-16 10:44:13,623: WARNING/MainProcess] 2026_POWER_157999_1
+[2026-02-16 10:44:13,623: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:13,623: WARNING/MainProcess]  
+[2026-02-16 10:44:13,624: WARNING/MainProcess] 2026_POWER_157998_1
+[2026-02-16 10:44:13,624: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:13,624: WARNING/MainProcess]  
+[2026-02-16 10:44:13,624: WARNING/MainProcess] 2026_POWER_158129_1
+[2026-02-16 10:44:13,624: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:13,625: WARNING/MainProcess]  
+[2026-02-16 10:44:13,625: WARNING/MainProcess] 2026_POWER_157997_1
+[2026-02-16 10:44:13,626: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:13,626: WARNING/MainProcess]  
+[2026-02-16 10:44:13,626: WARNING/MainProcess] 2026_POWER_158126_1
+[2026-02-16 10:44:13,626: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:13,626: WARNING/MainProcess]  
+[2026-02-16 10:44:13,627: WARNING/MainProcess] 2026_POWER_158133_1
+[2026-02-16 10:44:13,627: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:13,627: WARNING/MainProcess]  
+[2026-02-16 10:44:13,627: WARNING/MainProcess] 2026_POWER_158130_1
+[2026-02-16 10:44:13,628: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:13,628: WARNING/MainProcess]  
+[2026-02-16 10:44:13,628: WARNING/MainProcess] 2026_POWER_158059_1
+[2026-02-16 10:44:13,628: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:13,629: WARNING/MainProcess]  
+[2026-02-16 10:44:13,629: WARNING/MainProcess] 2026_POWER_158071_2
+[2026-02-16 10:44:13,629: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:13,629: WARNING/MainProcess]  
+[2026-02-16 10:44:13,629: WARNING/MainProcess] 2026_POWER_158073_1
+[2026-02-16 10:44:13,630: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:13,630: WARNING/MainProcess]  
+[2026-02-16 10:44:13,630: WARNING/MainProcess] 2026_POWER_158038_1
+[2026-02-16 10:44:13,630: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:13,631: WARNING/MainProcess]  
+[2026-02-16 10:44:13,631: WARNING/MainProcess] 2026_POWER_157942_1
+[2026-02-16 10:44:13,631: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:13,631: WARNING/MainProcess]  
+[2026-02-16 10:44:13,631: WARNING/MainProcess] 2025_POWER_156692_1
+[2026-02-16 10:44:13,647: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:44:17,645: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:44:22,663: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:22,664: WARNING/MainProcess]  
+[2026-02-16 10:44:22,664: WARNING/MainProcess] 2026_DLG_160110_10
+[2026-02-16 10:44:22,664: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:22,664: WARNING/MainProcess]  
+[2026-02-16 10:44:22,664: WARNING/MainProcess] 2026_DHA_159784_12
+[2026-02-16 10:44:22,665: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:22,665: WARNING/MainProcess]  
+[2026-02-16 10:44:22,665: WARNING/MainProcess] 2026_WR_159736_1
+[2026-02-16 10:44:22,665: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:22,666: WARNING/MainProcess]  
+[2026-02-16 10:44:22,666: WARNING/MainProcess] 2026_DLG_159078_61
+[2026-02-16 10:44:22,666: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:22,666: WARNING/MainProcess]  
+[2026-02-16 10:44:22,666: WARNING/MainProcess] 2026_POWER_157085_1
+[2026-02-16 10:44:22,667: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:22,667: WARNING/MainProcess]  
+[2026-02-16 10:44:22,667: WARNING/MainProcess] 2025_WR_143285_4
+[2026-02-16 10:44:22,667: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:22,667: WARNING/MainProcess]  
+[2026-02-16 10:44:22,668: WARNING/MainProcess] 2025_WR_143285_6
+[2026-02-16 10:44:22,668: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:22,668: WARNING/MainProcess]  
+[2026-02-16 10:44:22,668: WARNING/MainProcess] 2025_WR_143285_5
+[2026-02-16 10:44:22,669: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:22,669: WARNING/MainProcess]  
+[2026-02-16 10:44:22,669: WARNING/MainProcess] 2025_WR_155458_2
+[2026-02-16 10:44:22,669: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:22,670: WARNING/MainProcess]  
+[2026-02-16 10:44:22,670: WARNING/MainProcess] 2025_WR_155458_4
+[2026-02-16 10:44:22,681: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:44:29,258: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:44:33,395: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:44:38,413: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:44:50,092: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:50,092: WARNING/MainProcess]  
+[2026-02-16 10:44:50,092: WARNING/MainProcess] 2026_APDCL_50895_1
+[2026-02-16 10:44:50,111: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:44:54,340: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:44:54,341: WARNING/MainProcess]  
+[2026-02-16 10:44:54,341: WARNING/MainProcess] 2026_PWBNH_51057_1
+[2026-02-16 10:44:54,360: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:44:58,523: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:45:02,218: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:45:06,442: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:45:10,243: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:45:14,467: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:45:18,397: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:45:22,821: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:45:22,821: WARNING/MainProcess]  
+[2026-02-16 10:45:22,821: WARNING/MainProcess] 2026_APDCL_51030_1
+[2026-02-16 10:45:22,821: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:45:22,821: WARNING/MainProcess]  
+[2026-02-16 10:45:22,821: WARNING/MainProcess] 2026_APDCL_50895_1
+[2026-02-16 10:45:22,822: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:45:22,822: WARNING/MainProcess]  
+[2026-02-16 10:45:22,822: WARNING/MainProcess] 2026_APDCL_50522_1
+[2026-02-16 10:45:22,823: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:45:22,823: WARNING/MainProcess]  
+[2026-02-16 10:45:22,823: WARNING/MainProcess] 2026_AEGCL_50360_1
+[2026-02-16 10:45:22,824: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:45:22,824: WARNING/MainProcess]  
+[2026-02-16 10:45:22,824: WARNING/MainProcess] 2026_AEGCL_50380_1
+[2026-02-16 10:45:22,824: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:45:22,824: WARNING/MainProcess]  
+[2026-02-16 10:45:22,825: WARNING/MainProcess] 2026_AEGCL_50385_1
+[2026-02-16 10:45:22,825: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:45:22,825: WARNING/MainProcess]  
+[2026-02-16 10:45:22,825: WARNING/MainProcess] 2025_AEGCL_49669_1
+[2026-02-16 10:45:22,839: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:45:31,071: WARNING/MainProcess] Error for Andaman and Nicobar | 11KV: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=144.0.7559.133)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7b7eef3d5
+	0x7ff7b7eef430
+	0x7ff7b7c910bd
+	0x7ff7b7c8dbe4
+	0x7ff7b7c7e071
+	0x7ff7b7c7ff5f
+	0x7ff7b7c7e611
+	0x7ff7b7c7dddb
+	0x7ff7b7c7da91
+	0x7ff7b7c7b6c1
+	0x7ff7b7c7be22
+	0x7ff7b7c95366
+	0x7ff7b7d3ab34
+	0x7ff7b7d1589a
+	0x7ff7b7d39d08
+	0x7ff7b7cdcb0c
+	0x7ff7b7cdda53
+	0x7ff7b81cb470
+	0x7ff7b81c586d
+	0x7ff7b81e621a
+	0x7ff7b7f0b235
+	0x7ff7b7f13a5c
+	0x7ff7b7ef8844
+	0x7ff7b7ef89f6
+	0x7ff7b7edeb87
+	0x7ffef6217374
+	0x7ffef647cc91
+[2026-02-16 10:45:31,924: WARNING/MainProcess] Error for Andaman and Nicobar | CONDUCTOR: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=144.0.7559.133)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7b7eef3d5
+	0x7ff7b7eef430
+	0x7ff7b7c910bd
+	0x7ff7b7c8dbe4
+	0x7ff7b7c7e071
+	0x7ff7b7c7ff5f
+	0x7ff7b7c7e611
+	0x7ff7b7c7dddb
+	0x7ff7b7c7da91
+	0x7ff7b7c7b6c1
+	0x7ff7b7c7be22
+	0x7ff7b7c95366
+	0x7ff7b7d3ab34
+	0x7ff7b7d1589a
+	0x7ff7b7d39d08
+	0x7ff7b7cdcb0c
+	0x7ff7b7cdda53
+	0x7ff7b81cb470
+	0x7ff7b81c586d
+	0x7ff7b81e621a
+	0x7ff7b7f0b235
+	0x7ff7b7f13a5c
+	0x7ff7b7ef8844
+	0x7ff7b7ef89f6
+	0x7ff7b7edeb87
+	0x7ffef6217374
+	0x7ffef647cc91
+[2026-02-16 10:45:32,743: WARNING/MainProcess] Error for Andaman and Nicobar | CABLE: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=144.0.7559.133)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7b7eef3d5
+	0x7ff7b7eef430
+	0x7ff7b7c910bd
+	0x7ff7b7c8dbe4
+	0x7ff7b7c7e071
+	0x7ff7b7c7ff5f
+	0x7ff7b7c7e611
+	0x7ff7b7c7dddb
+	0x7ff7b7c7da91
+	0x7ff7b7c7b6c1
+	0x7ff7b7c7be22
+	0x7ff7b7c95366
+	0x7ff7b7d3ab34
+	0x7ff7b7d1589a
+	0x7ff7b7d39d08
+	0x7ff7b7cdcb0c
+	0x7ff7b7cdda53
+	0x7ff7b81cb470
+	0x7ff7b81c586d
+	0x7ff7b81e621a
+	0x7ff7b7f0b235
+	0x7ff7b7f13a5c
+	0x7ff7b7ef8844
+	0x7ff7b7ef89f6
+	0x7ff7b7edeb87
+	0x7ffef6217374
+	0x7ffef647cc91
+[2026-02-16 10:45:34,734: WARNING/MainProcess] Error for Andaman and Nicobar | CABLES: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=144.0.7559.133)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7b7eef3d5
+	0x7ff7b7eef430
+	0x7ff7b7c910bd
+	0x7ff7b7c8dbe4
+	0x7ff7b7c7e071
+	0x7ff7b7c7ff5f
+	0x7ff7b7c7e611
+	0x7ff7b7c7dddb
+	0x7ff7b7c7da91
+	0x7ff7b7c7b6c1
+	0x7ff7b7c7be22
+	0x7ff7b7c95366
+	0x7ff7b7d3ab34
+	0x7ff7b7d1589a
+	0x7ff7b7d39d08
+	0x7ff7b7cdcb0c
+	0x7ff7b7cdda53
+	0x7ff7b81cb470
+	0x7ff7b81c586d
+	0x7ff7b81e621a
+	0x7ff7b7f0b235
+	0x7ff7b7f13a5c
+	0x7ff7b7ef8844
+	0x7ff7b7ef89f6
+	0x7ff7b7edeb87
+	0x7ffef6217374
+	0x7ffef647cc91
+[2026-02-16 10:45:35,589: WARNING/MainProcess] Error for Andaman and Nicobar | WIRES: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=144.0.7559.133)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7b7eef3d5
+	0x7ff7b7eef430
+	0x7ff7b7c910bd
+	0x7ff7b7c8dbe4
+	0x7ff7b7c7e071
+	0x7ff7b7c7ff5f
+	0x7ff7b7c7e611
+	0x7ff7b7c7dddb
+	0x7ff7b7c7da91
+	0x7ff7b7c7b6c1
+	0x7ff7b7c7be22
+	0x7ff7b7c95366
+	0x7ff7b7d3ab34
+	0x7ff7b7d1589a
+	0x7ff7b7d39d08
+	0x7ff7b7cdcb0c
+	0x7ff7b7cdda53
+	0x7ff7b81cb470
+	0x7ff7b81c586d
+	0x7ff7b81e621a
+	0x7ff7b7f0b235
+	0x7ff7b7f13a5c
+	0x7ff7b7ef8844
+	0x7ff7b7ef89f6
+	0x7ff7b7edeb87
+	0x7ffef6217374
+	0x7ffef647cc91
+[2026-02-16 10:45:36,460: WARNING/MainProcess] Error for Andaman and Nicobar | WIRE: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=144.0.7559.133)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7b7eef3d5
+	0x7ff7b7eef430
+	0x7ff7b7c910bd
+	0x7ff7b7c8dbe4
+	0x7ff7b7c7e071
+	0x7ff7b7c7ff5f
+	0x7ff7b7c7e611
+	0x7ff7b7c7dddb
+	0x7ff7b7c7da91
+	0x7ff7b7c7b6c1
+	0x7ff7b7c7be22
+	0x7ff7b7c95366
+	0x7ff7b7d3ab34
+	0x7ff7b7d1589a
+	0x7ff7b7d39d08
+	0x7ff7b7cdcb0c
+	0x7ff7b7cdda53
+	0x7ff7b81cb470
+	0x7ff7b81c586d
+	0x7ff7b81e621a
+	0x7ff7b7f0b235
+	0x7ff7b7f13a5c
+	0x7ff7b7ef8844
+	0x7ff7b7ef89f6
+	0x7ff7b7edeb87
+	0x7ffef6217374
+	0x7ffef647cc91
+[2026-02-16 10:45:36,745: WARNING/MainProcess] Error for Andaman and Nicobar | INSULATED CONDUCTOR: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=144.0.7559.133)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7b7eef3d5
+	0x7ff7b7eef430
+	0x7ff7b7c910bd
+	0x7ff7b7c8dbe4
+	0x7ff7b7c7e071
+	0x7ff7b7c7ff5f
+	0x7ff7b7c7e611
+	0x7ff7b7c7dddb
+	0x7ff7b7c7da91
+	0x7ff7b7c7b6c1
+	0x7ff7b7c7be22
+	0x7ff7b7c95366
+	0x7ff7b7d3ab34
+	0x7ff7b7d1589a
+	0x7ff7b7d39d08
+	0x7ff7b7cdcb0c
+	0x7ff7b7cdda53
+	0x7ff7b81cb470
+	0x7ff7b81c586d
+	0x7ff7b81e621a
+	0x7ff7b7f0b235
+	0x7ff7b7f13a5c
+	0x7ff7b7ef8844
+	0x7ff7b7ef89f6
+	0x7ff7b7edeb87
+	0x7ffef6217374
+	0x7ffef647cc91
+[2026-02-16 10:45:37,519: WARNING/MainProcess] Error for Andaman and Nicobar | XLPE CONDUCTOR: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=144.0.7559.133)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7b7eef3d5
+	0x7ff7b7eef430
+	0x7ff7b7c910bd
+	0x7ff7b7c8dbe4
+	0x7ff7b7c7e071
+	0x7ff7b7c7ff5f
+	0x7ff7b7c7e611
+	0x7ff7b7c7dddb
+	0x7ff7b7c7da91
+	0x7ff7b7c7b6c1
+	0x7ff7b7c7be22
+	0x7ff7b7c95366
+	0x7ff7b7d3ab34
+	0x7ff7b7d1589a
+	0x7ff7b7d39d08
+	0x7ff7b7cdcb0c
+	0x7ff7b7cdda53
+	0x7ff7b81cb470
+	0x7ff7b81c586d
+	0x7ff7b81e621a
+	0x7ff7b7f0b235
+	0x7ff7b7f13a5c
+	0x7ff7b7ef8844
+	0x7ff7b7ef89f6
+	0x7ff7b7edeb87
+	0x7ffef6217374
+	0x7ffef647cc91
+[2026-02-16 10:45:38,318: WARNING/MainProcess] Error for Andaman and Nicobar | 33KV: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=144.0.7559.133)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7b7eef3d5
+	0x7ff7b7eef430
+	0x7ff7b7c910bd
+	0x7ff7b7c8dbe4
+	0x7ff7b7c7e071
+	0x7ff7b7c7ff5f
+	0x7ff7b7c7e611
+	0x7ff7b7c7dddb
+	0x7ff7b7c7da91
+	0x7ff7b7c7b6c1
+	0x7ff7b7c7be22
+	0x7ff7b7c95366
+	0x7ff7b7d3ab34
+	0x7ff7b7d1589a
+	0x7ff7b7d39d08
+	0x7ff7b7cdcb0c
+	0x7ff7b7cdda53
+	0x7ff7b81cb470
+	0x7ff7b81c586d
+	0x7ff7b81e621a
+	0x7ff7b7f0b235
+	0x7ff7b7f13a5c
+	0x7ff7b7ef8844
+	0x7ff7b7ef89f6
+	0x7ff7b7edeb87
+	0x7ffef6217374
+	0x7ffef647cc91
+[2026-02-16 10:45:50,836: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:45:50,836: WARNING/MainProcess]  
+[2026-02-16 10:45:50,836: WARNING/MainProcess] 2026_IIScM_264262_1
+[2026-02-16 10:45:50,845: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:45:54,660: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:45:54,661: WARNING/MainProcess]  
+[2026-02-16 10:45:54,661: WARNING/MainProcess] 2026_JPL_266996_1
+[2026-02-16 10:45:54,661: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:45:54,661: WARNING/MainProcess]  
+[2026-02-16 10:45:54,661: WARNING/MainProcess] 2026_BSNL_266845_1
+[2026-02-16 10:45:54,662: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:45:54,662: WARNING/MainProcess]  
+[2026-02-16 10:45:54,662: WARNING/MainProcess] 2026_DVC_264626_1
+[2026-02-16 10:45:54,662: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:45:54,663: WARNING/MainProcess]  
+[2026-02-16 10:45:54,663: WARNING/MainProcess] 2025_IITM_261176_1
+[2026-02-16 10:45:54,673: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:45:58,511: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:45:58,512: WARNING/MainProcess]  
+[2026-02-16 10:45:58,512: WARNING/MainProcess] 2026_DMRC_266427_1
+[2026-02-16 10:45:58,512: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:45:58,512: WARNING/MainProcess]  
+[2026-02-16 10:45:58,512: WARNING/MainProcess] 2026_CSIR_266922_1
+[2026-02-16 10:45:58,513: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:45:58,513: WARNING/MainProcess]  
+[2026-02-16 10:45:58,513: WARNING/MainProcess] 2026_CEL_264871_3
+[2026-02-16 10:45:58,513: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:45:58,514: WARNING/MainProcess]  
+[2026-02-16 10:45:58,514: WARNING/MainProcess] 2026_AAI_266799_1
+[2026-02-16 10:45:58,514: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:45:58,514: WARNING/MainProcess]  
+[2026-02-16 10:45:58,514: WARNING/MainProcess] 2026_BSNL_266845_1
+[2026-02-16 10:45:58,515: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:45:58,515: WARNING/MainProcess]  
+[2026-02-16 10:45:58,515: WARNING/MainProcess] 2026_UCIL_266546_1
+[2026-02-16 10:45:58,515: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:45:58,515: WARNING/MainProcess]  
+[2026-02-16 10:45:58,515: WARNING/MainProcess] 2026_BVFCL_266577_1
+[2026-02-16 10:45:58,516: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:45:58,516: WARNING/MainProcess]  
+[2026-02-16 10:45:58,516: WARNING/MainProcess] 2026_BSNL_266447_1
+[2026-02-16 10:45:58,516: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:45:58,517: WARNING/MainProcess]  
+[2026-02-16 10:45:58,517: WARNING/MainProcess] 2026_BSNL_266343_1
+[2026-02-16 10:45:58,517: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:45:58,517: WARNING/MainProcess]  
+[2026-02-16 10:45:58,517: WARNING/MainProcess] 2026_DMRC_265663_1
+[2026-02-16 10:45:58,518: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:45:58,518: WARNING/MainProcess]  
+[2026-02-16 10:45:58,518: WARNING/MainProcess] 2026_NCRTC_264911_1
+[2026-02-16 10:45:58,518: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:45:58,518: WARNING/MainProcess]  
+[2026-02-16 10:45:58,518: WARNING/MainProcess] 2026_BSNL_266140_1
+[2026-02-16 10:45:58,519: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:45:58,519: WARNING/MainProcess]  
+[2026-02-16 10:45:58,519: WARNING/MainProcess] 2026_CSIR_265990_1
+[2026-02-16 10:45:58,519: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:45:58,519: WARNING/MainProcess]  
+[2026-02-16 10:45:58,519: WARNING/MainProcess] 2026_JPL_265988_1
+[2026-02-16 10:45:58,520: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:45:58,520: WARNING/MainProcess]  
+[2026-02-16 10:45:58,520: WARNING/MainProcess] 2025_AVNL_253805_2
+[2026-02-16 10:45:58,521: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:45:58,521: WARNING/MainProcess]  
+[2026-02-16 10:45:58,521: WARNING/MainProcess] 2026_BSNL_264734_1
+[2026-02-16 10:45:58,521: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:45:58,522: WARNING/MainProcess]  
+[2026-02-16 10:45:58,522: WARNING/MainProcess] 2026_NCRTC_264269_1
+[2026-02-16 10:46:00,092: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:46:00,092: WARNING/MainProcess]  
+[2026-02-16 10:46:00,092: WARNING/MainProcess] 2026_IIScM_264262_1
+[2026-02-16 10:46:00,093: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:46:00,093: WARNING/MainProcess]  
+[2026-02-16 10:46:00,093: WARNING/MainProcess] 2026_NHAI_263361_1
+[2026-02-16 10:46:00,094: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:46:00,094: WARNING/MainProcess]  
+[2026-02-16 10:46:00,094: WARNING/MainProcess] 2025_TCIL_260149_1
+[2026-02-16 10:46:00,105: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:46:10,147: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:46:10,148: WARNING/MainProcess]  
+[2026-02-16 10:46:10,148: WARNING/MainProcess] 2026_CSIR_266922_1
+[2026-02-16 10:46:10,148: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:46:10,148: WARNING/MainProcess]  
+[2026-02-16 10:46:10,148: WARNING/MainProcess] 2026_NCRTC_264911_1
+[2026-02-16 10:46:10,149: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:46:10,149: WARNING/MainProcess]  
+[2026-02-16 10:46:10,149: WARNING/MainProcess] 2025_AVNL_253805_2
+[2026-02-16 10:46:10,161: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:46:14,189: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:46:20,747: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:46:20,748: WARNING/MainProcess]  
+[2026-02-16 10:46:20,748: WARNING/MainProcess] 2026_CEL_264871_3
+[2026-02-16 10:46:20,748: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:46:20,749: WARNING/MainProcess]  
+[2026-02-16 10:46:20,749: WARNING/MainProcess] 2026_NHAI_266629_1
+[2026-02-16 10:46:20,749: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:46:20,749: WARNING/MainProcess]  
+[2026-02-16 10:46:20,749: WARNING/MainProcess] 2025_CSIR_239242_2
+[2026-02-16 10:46:20,750: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:46:20,750: WARNING/MainProcess]  
+[2026-02-16 10:46:20,750: WARNING/MainProcess] 2026_BSNL_266155_1
+[2026-02-16 10:46:20,751: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:46:20,751: WARNING/MainProcess]  
+[2026-02-16 10:46:20,751: WARNING/MainProcess] 2025_MIL_260984_2
+[2026-02-16 10:46:20,751: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:46:20,751: WARNING/MainProcess]  
+[2026-02-16 10:46:20,752: WARNING/MainProcess] 2026_IOL_265591_1
+[2026-02-16 10:46:20,752: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:46:20,752: WARNING/MainProcess]  
+[2026-02-16 10:46:20,752: WARNING/MainProcess] 2026_MIL_264509_1
+[2026-02-16 10:46:20,753: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:46:20,753: WARNING/MainProcess]  
+[2026-02-16 10:46:20,753: WARNING/MainProcess] 2026_MIL_262538_2
+[2026-02-16 10:46:20,811: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:46:24,583: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:46:24,584: WARNING/MainProcess]  
+[2026-02-16 10:46:24,584: WARNING/MainProcess] 2026_JPL_266996_1
+[2026-02-16 10:46:24,594: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:46:28,367: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:46:32,119: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:46:32,121: WARNING/MainProcess]  
+[2026-02-16 10:46:32,121: WARNING/MainProcess] 2026_JPL_266996_1
+[2026-02-16 10:46:32,121: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:46:32,121: WARNING/MainProcess]  
+[2026-02-16 10:46:32,121: WARNING/MainProcess] 2026_DMRC_265663_1
+[2026-02-16 10:46:32,122: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:46:32,122: WARNING/MainProcess]  
+[2026-02-16 10:46:32,122: WARNING/MainProcess] 2026_UCIL_265258_1
+[2026-02-16 10:46:32,122: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:46:32,122: WARNING/MainProcess]  
+[2026-02-16 10:46:32,122: WARNING/MainProcess] 2026_DVC_262693_1
+[2026-02-16 10:46:32,132: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:46:44,564: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:46:44,564: WARNING/MainProcess]  
+[2026-02-16 10:46:44,564: WARNING/MainProcess] 2026_PDD_299675_1
+[2026-02-16 10:46:44,573: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:46:48,275: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:46:48,275: WARNING/MainProcess]  
+[2026-02-16 10:46:48,275: WARNING/MainProcess] 2026_PDD_302641_1
+[2026-02-16 10:46:48,276: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:46:48,276: WARNING/MainProcess]  
+[2026-02-16 10:46:48,276: WARNING/MainProcess] 2026_PDD_302398_1
+[2026-02-16 10:46:48,286: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:46:51,990: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:46:51,990: WARNING/MainProcess]  
+[2026-02-16 10:46:51,990: WARNING/MainProcess] 2026_HAUDD_303149_3
+[2026-02-16 10:46:51,990: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:46:51,990: WARNING/MainProcess]  
+[2026-02-16 10:46:51,990: WARNING/MainProcess] 2026_HAUDD_303149_1
+[2026-02-16 10:46:51,991: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:46:51,991: WARNING/MainProcess]  
+[2026-02-16 10:46:51,991: WARNING/MainProcess] 2026_HAUDD_303149_2
+[2026-02-16 10:46:51,991: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:46:51,992: WARNING/MainProcess]  
+[2026-02-16 10:46:51,992: WARNING/MainProcess] 2026_PHE_302742_1
+[2026-02-16 10:46:51,992: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:46:51,992: WARNING/MainProcess]  
+[2026-02-16 10:46:51,992: WARNING/MainProcess] 2026_PHE_302742_2
+[2026-02-16 10:46:51,993: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:46:51,993: WARNING/MainProcess]  
+[2026-02-16 10:46:51,993: WARNING/MainProcess] 2026_PDD_302638_1
+[2026-02-16 10:46:51,993: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:46:51,993: WARNING/MainProcess]  
+[2026-02-16 10:46:51,993: WARNING/MainProcess] 2026_PDD_302398_1
+[2026-02-16 10:46:51,994: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:46:51,995: WARNING/MainProcess]  
+[2026-02-16 10:46:51,995: WARNING/MainProcess] 2025_SMVSB_297103_1
+[2026-02-16 10:46:52,006: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:47:03,555: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:03,555: WARNING/MainProcess]  
+[2026-02-16 10:47:03,556: WARNING/MainProcess] 2026_HAUDD_303149_2
+[2026-02-16 10:47:03,556: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:03,556: WARNING/MainProcess]  
+[2026-02-16 10:47:03,556: WARNING/MainProcess] 2026_HAUDD_303149_3
+[2026-02-16 10:47:03,557: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:03,557: WARNING/MainProcess]  
+[2026-02-16 10:47:03,557: WARNING/MainProcess] 2026_HAUDD_303149_1
+[2026-02-16 10:47:03,567: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:47:08,506: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:08,506: WARNING/MainProcess]  
+[2026-02-16 10:47:08,506: WARNING/MainProcess] 2025_PDD_298977_2
+[2026-02-16 10:47:08,516: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:47:12,944: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:12,944: WARNING/MainProcess]  
+[2026-02-16 10:47:12,944: WARNING/MainProcess] 2025_PDD_298977_2
+[2026-02-16 10:47:12,946: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:12,946: WARNING/MainProcess]  
+[2026-02-16 10:47:12,946: WARNING/MainProcess] 2026_IFC_303089_1
+[2026-02-16 10:47:12,947: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:12,947: WARNING/MainProcess]  
+[2026-02-16 10:47:12,947: WARNING/MainProcess] 2026_IFC_303021_1
+[2026-02-16 10:47:12,948: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:12,948: WARNING/MainProcess]  
+[2026-02-16 10:47:12,948: WARNING/MainProcess] 2026_PDD_302638_1
+[2026-02-16 10:47:12,949: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:12,949: WARNING/MainProcess]  
+[2026-02-16 10:47:12,949: WARNING/MainProcess] 2026_PWDJK_302572_9
+[2026-02-16 10:47:12,949: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:12,949: WARNING/MainProcess]  
+[2026-02-16 10:47:12,949: WARNING/MainProcess] 2026_PWDJK_302513_1
+[2026-02-16 10:47:12,950: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:12,950: WARNING/MainProcess]  
+[2026-02-16 10:47:12,950: WARNING/MainProcess] 2026_PWDJK_302513_2
+[2026-02-16 10:47:12,950: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:12,950: WARNING/MainProcess]  
+[2026-02-16 10:47:12,951: WARNING/MainProcess] 2026_PWDJK_302473_2
+[2026-02-16 10:47:12,951: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:12,951: WARNING/MainProcess]  
+[2026-02-16 10:47:12,951: WARNING/MainProcess] 2026_PWDJK_302473_1
+[2026-02-16 10:47:12,952: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:12,952: WARNING/MainProcess]  
+[2026-02-16 10:47:12,952: WARNING/MainProcess] 2026_PWDJK_302495_1
+[2026-02-16 10:47:12,952: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:12,952: WARNING/MainProcess]  
+[2026-02-16 10:47:12,952: WARNING/MainProcess] 2026_PDD_302375_1
+[2026-02-16 10:47:12,966: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:47:20,072: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:47:23,780: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:47:27,511: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:27,512: WARNING/MainProcess]  
+[2026-02-16 10:47:27,512: WARNING/MainProcess] 2026_PDD_303024_1
+[2026-02-16 10:47:27,512: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:27,512: WARNING/MainProcess]  
+[2026-02-16 10:47:27,512: WARNING/MainProcess] 2026_PDD_302638_1
+[2026-02-16 10:47:27,513: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:27,513: WARNING/MainProcess]  
+[2026-02-16 10:47:27,513: WARNING/MainProcess] 2026_PDD_302387_1
+[2026-02-16 10:47:27,513: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:27,514: WARNING/MainProcess]  
+[2026-02-16 10:47:27,514: WARNING/MainProcess] 2026_SPDC_301902_1
+[2026-02-16 10:47:27,564: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:47:40,368: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:40,368: WARNING/MainProcess]  
+[2026-02-16 10:47:40,368: WARNING/MainProcess] 2026_KSEB_836132_1
+[2026-02-16 10:47:40,368: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:40,369: WARNING/MainProcess]  
+[2026-02-16 10:47:40,369: WARNING/MainProcess] 2026_KSEB_836242_1
+[2026-02-16 10:47:40,369: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:40,369: WARNING/MainProcess]  
+[2026-02-16 10:47:40,369: WARNING/MainProcess] 2026_KSEB_836216_1
+[2026-02-16 10:47:40,370: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:40,370: WARNING/MainProcess]  
+[2026-02-16 10:47:40,370: WARNING/MainProcess] 2026_KSEB_834355_1
+[2026-02-16 10:47:40,370: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:40,370: WARNING/MainProcess]  
+[2026-02-16 10:47:40,371: WARNING/MainProcess] 2026_KSEB_834199_1
+[2026-02-16 10:47:40,371: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:40,371: WARNING/MainProcess]  
+[2026-02-16 10:47:40,371: WARNING/MainProcess] 2026_KSEB_834144_1
+[2026-02-16 10:47:40,371: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:40,372: WARNING/MainProcess]  
+[2026-02-16 10:47:40,372: WARNING/MainProcess] 2026_KSEB_834066_1
+[2026-02-16 10:47:40,372: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:40,372: WARNING/MainProcess]  
+[2026-02-16 10:47:40,372: WARNING/MainProcess] 2026_KSEB_834129_1
+[2026-02-16 10:47:40,373: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:40,373: WARNING/MainProcess]  
+[2026-02-16 10:47:40,373: WARNING/MainProcess] 2026_KSEB_832620_1
+[2026-02-16 10:47:40,373: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:40,373: WARNING/MainProcess]  
+[2026-02-16 10:47:40,373: WARNING/MainProcess] 2026_KSEB_833583_1
+[2026-02-16 10:47:40,374: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:40,374: WARNING/MainProcess]  
+[2026-02-16 10:47:40,374: WARNING/MainProcess] 2026_KSEB_833534_1
+[2026-02-16 10:47:40,374: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:40,375: WARNING/MainProcess]  
+[2026-02-16 10:47:40,375: WARNING/MainProcess] 2026_KSEB_833388_1
+[2026-02-16 10:47:40,375: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:40,375: WARNING/MainProcess]  
+[2026-02-16 10:47:40,375: WARNING/MainProcess] 2026_KSEB_833359_1
+[2026-02-16 10:47:40,376: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:40,376: WARNING/MainProcess]  
+[2026-02-16 10:47:40,376: WARNING/MainProcess] 2026_KSEB_833247_1
+[2026-02-16 10:47:40,376: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:40,376: WARNING/MainProcess]  
+[2026-02-16 10:47:40,376: WARNING/MainProcess] 2026_KSEB_833229_1
+[2026-02-16 10:47:40,377: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:40,377: WARNING/MainProcess]  
+[2026-02-16 10:47:40,377: WARNING/MainProcess] 2026_KSEB_833112_1
+[2026-02-16 10:47:40,392: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:47:46,778: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:46,778: WARNING/MainProcess]  
+[2026-02-16 10:47:46,778: WARNING/MainProcess] 2026_KSEB_836242_1
+[2026-02-16 10:47:46,779: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:46,779: WARNING/MainProcess]  
+[2026-02-16 10:47:46,779: WARNING/MainProcess] 2026_KSEB_836132_1
+[2026-02-16 10:47:46,784: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:46,784: WARNING/MainProcess]  
+[2026-02-16 10:47:46,784: WARNING/MainProcess] 2026_KSEB_834355_1
+[2026-02-16 10:47:49,594: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:49,594: WARNING/MainProcess]  
+[2026-02-16 10:47:49,594: WARNING/MainProcess] 2026_KSEB_834144_1
+[2026-02-16 10:47:49,596: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:49,596: WARNING/MainProcess]  
+[2026-02-16 10:47:49,596: WARNING/MainProcess] 2026_KSEB_832620_1
+[2026-02-16 10:47:49,596: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:49,596: WARNING/MainProcess]  
+[2026-02-16 10:47:49,597: WARNING/MainProcess] 2026_KSEB_833534_1
+[2026-02-16 10:47:49,597: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:49,597: WARNING/MainProcess]  
+[2026-02-16 10:47:49,597: WARNING/MainProcess] 2026_KSEB_833229_1
+[2026-02-16 10:47:49,598: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:47:49,598: WARNING/MainProcess]  
+[2026-02-16 10:47:49,598: WARNING/MainProcess] 2026_KSEB_833112_1
+[2026-02-16 10:47:49,619: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:49:06,935: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:49:06,935: WARNING/MainProcess]  
+[2026-02-16 10:49:06,935: WARNING/MainProcess] 2026_KSEB_834129_1
+[2026-02-16 10:49:06,936: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:49:06,936: WARNING/MainProcess]  
+[2026-02-16 10:49:06,936: WARNING/MainProcess] 2026_KSEB_833583_1
+[2026-02-16 10:49:06,937: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:49:06,937: WARNING/MainProcess]  
+[2026-02-16 10:49:06,937: WARNING/MainProcess] 2026_KSEB_833359_1
+[2026-02-16 10:49:06,953: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:49:53,839: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:49:53,839: WARNING/MainProcess]  
+[2026-02-16 10:49:53,840: WARNING/MainProcess] 2026_KMML_834771_1
+[2026-02-16 10:49:53,859: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:49:58,408: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:50:02,157: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:50:26,883: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:50:30,673: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:50:34,408: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:50:34,409: WARNING/MainProcess]  
+[2026-02-16 10:50:34,409: WARNING/MainProcess] 2026_KSEB_836289_1
+[2026-02-16 10:50:34,410: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:50:34,410: WARNING/MainProcess]  
+[2026-02-16 10:50:34,410: WARNING/MainProcess] 2026_KSEB_835758_1
+[2026-02-16 10:50:34,411: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:50:34,412: WARNING/MainProcess]  
+[2026-02-16 10:50:34,412: WARNING/MainProcess] 2026_KSEB_834207_1
+[2026-02-16 10:50:34,438: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:50:55,632: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:50:59,407: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:51:05,316: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:51:16,861: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:51:16,861: WARNING/MainProcess]  
+[2026-02-16 10:51:16,862: WARNING/MainProcess] 2026_JSEB_110231_1
+[2026-02-16 10:51:16,880: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:51:20,605: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:51:24,325: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:51:28,036: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:51:32,333: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:51:36,037: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:51:48,339: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:51:52,120: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:52:31,764: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:52:31,764: WARNING/MainProcess]  
+[2026-02-16 10:52:31,764: WARNING/MainProcess] 2026_UPCL4_91657_1
+[2026-02-16 10:52:31,764: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:52:31,764: WARNING/MainProcess]  
+[2026-02-16 10:52:31,765: WARNING/MainProcess] 2026_UPCL4_91653_1
+[2026-02-16 10:52:31,777: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:52:41,211: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:52:45,033: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:52:48,691: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:52:52,917: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:52:57,259: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:53:01,785: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:53:24,367: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:53:28,412: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:53:32,232: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:53:44,158: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:53:44,158: WARNING/MainProcess]  
+[2026-02-16 10:53:44,158: WARNING/MainProcess] 2026_NTPC_104926_1
+[2026-02-16 10:53:44,284: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:53:48,519: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:53:53,002: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:53:59,397: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:54:03,811: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:54:08,265: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:54:25,423: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:54:29,764: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:54:34,138: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:54:45,000: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:54:45,000: WARNING/MainProcess]  
+[2026-02-16 10:54:45,000: WARNING/MainProcess] 2026_REFHQ_188549_1
+[2026-02-16 10:54:45,019: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:54:49,540: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:54:53,367: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:54:57,368: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:55:01,161: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:55:04,937: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:55:16,680: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:56:05,879: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:56:27,971: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:56:27,971: WARNING/MainProcess]  
+[2026-02-16 10:56:27,971: WARNING/MainProcess] 2026_BCCL_353078_1
+[2026-02-16 10:56:27,975: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:56:27,975: WARNING/MainProcess]  
+[2026-02-16 10:56:27,975: WARNING/MainProcess] 2026_CCL_352875_1
+[2026-02-16 10:56:29,597: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:57:43,933: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:57:43,934: WARNING/MainProcess]  
+[2026-02-16 10:57:43,934: WARNING/MainProcess] 2026_CCL_353096_3
+[2026-02-16 10:57:43,935: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:57:43,935: WARNING/MainProcess]  
+[2026-02-16 10:57:43,935: WARNING/MainProcess] 2026_ECL_352989_1
+[2026-02-16 10:57:43,936: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:57:43,936: WARNING/MainProcess]  
+[2026-02-16 10:57:43,936: WARNING/MainProcess] 2026_NCL_352894_1
+[2026-02-16 10:57:43,937: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:57:43,937: WARNING/MainProcess]  
+[2026-02-16 10:57:43,937: WARNING/MainProcess] 2026_CCL_352887_1
+[2026-02-16 10:57:43,938: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:57:43,938: WARNING/MainProcess]  
+[2026-02-16 10:57:43,939: WARNING/MainProcess] 2026_BCCL_352625_1
+[2026-02-16 10:57:43,939: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:57:43,939: WARNING/MainProcess]  
+[2026-02-16 10:57:43,940: WARNING/MainProcess] 2026_CCL_352419_1
+[2026-02-16 10:57:43,940: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:57:43,941: WARNING/MainProcess]  
+[2026-02-16 10:57:43,941: WARNING/MainProcess] 2026_SECL_352249_1
+[2026-02-16 10:57:43,965: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:57:47,679: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:57:54,030: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:57:54,030: WARNING/MainProcess]  
+[2026-02-16 10:57:54,031: WARNING/MainProcess] 2026_CCL_353187_1
+[2026-02-16 10:57:54,032: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:57:54,032: WARNING/MainProcess]  
+[2026-02-16 10:57:54,032: WARNING/MainProcess] 2026_ECL_352979_1
+[2026-02-16 10:57:54,034: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:57:54,035: WARNING/MainProcess]  
+[2026-02-16 10:57:54,035: WARNING/MainProcess] 2026_ECL_352337_1
+[2026-02-16 10:57:54,057: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:58:11,061: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:58:14,735: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:58:18,992: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:58:18,992: WARNING/MainProcess]  
+[2026-02-16 10:58:18,992: WARNING/MainProcess] 2026_CCL_353125_1
+[2026-02-16 10:58:18,993: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:58:18,993: WARNING/MainProcess]  
+[2026-02-16 10:58:18,993: WARNING/MainProcess] 2026_MCL_352921_1
+[2026-02-16 10:58:19,015: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:58:41,905: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:58:48,260: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:58:57,729: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:59:18,773: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 10:59:18,773: WARNING/MainProcess]  
+[2026-02-16 10:59:18,773: WARNING/MainProcess] 2026_BHEL_58190_1
+[2026-02-16 10:59:18,791: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:59:22,538: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:59:26,845: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:59:43,736: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:59:47,594: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 10:59:51,452: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:00:03,487: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:00:37,900: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:00:44,425: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:01:14,704: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:01:14,704: WARNING/MainProcess]  
+[2026-02-16 11:01:14,704: WARNING/MainProcess] 2026_PVVNL_1112018_1
+[2026-02-16 11:01:14,723: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:01:18,637: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:01:23,534: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:01:41,026: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:01:44,912: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:01:49,800: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:01:49,800: WARNING/MainProcess]  
+[2026-02-16 11:01:49,800: WARNING/MainProcess] 2026_PVVNV_1110741_1
+[2026-02-16 11:01:49,802: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:01:49,802: WARNING/MainProcess]  
+[2026-02-16 11:01:49,802: WARNING/MainProcess] 2026_YEIDA_1108743_13
+[2026-02-16 11:01:49,826: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:02:25,354: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:02:57,092: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:03:04,519: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:03:26,975: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:03:31,358: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:03:35,388: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:03:35,389: WARNING/MainProcess]  
+[2026-02-16 11:03:35,389: WARNING/MainProcess] 2026_HRY_500540_1
+[2026-02-16 11:03:35,417: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:04:15,795: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:04:19,630: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:04:24,046: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:04:24,047: WARNING/MainProcess]  
+[2026-02-16 11:04:24,047: WARNING/MainProcess] 2025_HBC_475282_1
+[2026-02-16 11:04:24,049: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:04:24,050: WARNING/MainProcess]  
+[2026-02-16 11:04:24,050: WARNING/MainProcess] 2025_HBC_466347_1
+[2026-02-16 11:04:24,073: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:05:02,749: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:05:09,832: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:05:17,628: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:05:50,954: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:05:50,954: WARNING/MainProcess]  
+[2026-02-16 11:05:50,954: WARNING/MainProcess] 2026_RTMNU_1277226_6
+[2026-02-16 11:05:50,955: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:05:50,955: WARNING/MainProcess]  
+[2026-02-16 11:05:50,955: WARNING/MainProcess] 2026_MIDC_1273947_1
+[2026-02-16 11:05:50,957: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:05:50,957: WARNING/MainProcess]  
+[2026-02-16 11:05:50,957: WARNING/MainProcess] 2026_MMRDA_1273451_1
+[2026-02-16 11:05:50,977: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:05:54,783: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:05:59,303: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:06:21,192: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:06:25,714: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:06:29,551: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:06:41,196: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:06:54,684: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:07:01,041: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:07:10,034: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:07:13,856: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:07:17,569: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:07:50,417: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:07:54,720: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:07:58,998: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:07:58,998: WARNING/MainProcess]  
+[2026-02-16 11:07:58,999: WARNING/MainProcess] 2026_HPSEB_128483_1
+[2026-02-16 11:07:58,999: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:07:58,999: WARNING/MainProcess]  
+[2026-02-16 11:07:59,000: WARNING/MainProcess] 2026_HPSEB_128288_1
+[2026-02-16 11:07:59,019: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:08:14,148: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:08:28,874: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:09:31,038: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:09:31,039: WARNING/MainProcess]  
+[2026-02-16 11:09:31,039: WARNING/MainProcess] 2026_MES_752081_1
+[2026-02-16 11:09:32,970: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:09:32,970: WARNING/MainProcess]  
+[2026-02-16 11:09:32,971: WARNING/MainProcess] 2026_MES_751622_1
+[2026-02-16 11:09:32,971: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:09:32,971: WARNING/MainProcess]  
+[2026-02-16 11:09:32,972: WARNING/MainProcess] 2026_MES_751610_1
+[2026-02-16 11:09:32,972: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:09:32,972: WARNING/MainProcess]  
+[2026-02-16 11:09:32,973: WARNING/MainProcess] 2026_MES_751601_1
+[2026-02-16 11:09:32,976: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:09:32,976: WARNING/MainProcess]  
+[2026-02-16 11:09:32,977: WARNING/MainProcess] 2026_MES_751283_1
+[2026-02-16 11:09:34,647: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:09:34,647: WARNING/MainProcess]  
+[2026-02-16 11:09:34,647: WARNING/MainProcess] 2026_MES_751283_1
+[2026-02-16 11:09:34,651: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:09:34,651: WARNING/MainProcess]  
+[2026-02-16 11:09:34,651: WARNING/MainProcess] 2025_MES_746041_2
+[2026-02-16 11:09:34,655: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:09:34,655: WARNING/MainProcess]  
+[2026-02-16 11:09:34,655: WARNING/MainProcess] 2026_MES_750927_1
+[2026-02-16 11:09:36,326: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:09:36,326: WARNING/MainProcess]  
+[2026-02-16 11:09:36,326: WARNING/MainProcess] 2026_MES_750538_1
+[2026-02-16 11:09:36,330: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:09:36,330: WARNING/MainProcess]  
+[2026-02-16 11:09:36,330: WARNING/MainProcess] 2026_MES_750386_1
+[2026-02-16 11:09:39,849: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:09:39,849: WARNING/MainProcess]  
+[2026-02-16 11:09:39,849: WARNING/MainProcess] 2026_MES_749107_1
+[2026-02-16 11:09:41,598: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:14:53,014: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:14:53,015: WARNING/MainProcess]  
+[2026-02-16 11:14:53,015: WARNING/MainProcess] 2026_MES_749365_1
+[2026-02-16 11:14:53,016: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:14:53,016: WARNING/MainProcess]  
+[2026-02-16 11:14:53,016: WARNING/MainProcess] 2026_MES_748083_1
+[2026-02-16 11:14:53,017: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:14:53,017: WARNING/MainProcess]  
+[2026-02-16 11:14:53,017: WARNING/MainProcess] 2026_MES_749338_1
+[2026-02-16 11:14:53,018: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:14:53,018: WARNING/MainProcess]  
+[2026-02-16 11:14:53,018: WARNING/MainProcess] 2026_MES_749344_1
+[2026-02-16 11:14:53,019: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:14:53,019: WARNING/MainProcess]  
+[2026-02-16 11:14:53,019: WARNING/MainProcess] 2026_MES_749246_1
+[2026-02-16 11:14:53,020: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:14:53,020: WARNING/MainProcess]  
+[2026-02-16 11:14:53,020: WARNING/MainProcess] 2025_MES_741519_2
+[2026-02-16 11:14:53,021: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:14:53,021: WARNING/MainProcess]  
+[2026-02-16 11:14:53,022: WARNING/MainProcess] 2026_MES_748892_1
+[2026-02-16 11:14:53,022: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:14:53,022: WARNING/MainProcess]  
+[2026-02-16 11:14:53,023: WARNING/MainProcess] 2026_MES_747440_1
+[2026-02-16 11:14:53,044: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:14:56,976: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:15:03,372: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:15:03,372: WARNING/MainProcess]  
+[2026-02-16 11:15:03,372: WARNING/MainProcess] 2026_MES_751076_1
+[2026-02-16 11:15:03,374: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:15:03,374: WARNING/MainProcess]  
+[2026-02-16 11:15:03,374: WARNING/MainProcess] 2026_MES_751053_1
+[2026-02-16 11:15:03,403: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:15:49,656: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:15:53,508: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:15:57,590: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:16:09,688: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:16:38,769: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:16:42,533: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:16:42,533: WARNING/MainProcess]  
+[2026-02-16 11:16:42,533: WARNING/MainProcess] 2026_EICCL_125704_2
+[2026-02-16 11:16:42,554: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:16:54,234: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:16:54,234: WARNING/MainProcess]  
+[2026-02-16 11:16:54,234: WARNING/MainProcess] 2026_ORULB_125607_1
+[2026-02-16 11:16:54,235: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:16:54,235: WARNING/MainProcess]  
+[2026-02-16 11:16:54,236: WARNING/MainProcess] 2026_OMFED_125583_1
+[2026-02-16 11:16:54,256: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:16:58,715: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:17:03,194: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:17:07,740: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:17:12,116: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:17:15,844: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:17:15,844: WARNING/MainProcess]  
+[2026-02-16 11:17:15,845: WARNING/MainProcess] 2026_EICCL_125704_1
+[2026-02-16 11:17:15,845: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:17:15,846: WARNING/MainProcess]  
+[2026-02-16 11:17:15,846: WARNING/MainProcess] 2026_EICCL_125668_1
+[2026-02-16 11:17:15,866: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:55:57,499: WARNING/MainProcess] Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+[2026-02-16 11:56:07,087: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:56:57,993: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:56:57,994: WARNING/MainProcess]  
+[2026-02-16 11:56:57,994: WARNING/MainProcess] 2026_KSEB_836132_1
+[2026-02-16 11:56:57,995: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:56:57,995: WARNING/MainProcess]  
+[2026-02-16 11:56:57,995: WARNING/MainProcess] 2026_KSEB_836242_1
+[2026-02-16 11:56:58,001: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:56:58,001: WARNING/MainProcess]  
+[2026-02-16 11:56:58,001: WARNING/MainProcess] 2026_KSEB_834355_1
+[2026-02-16 11:56:59,849: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:56:59,849: WARNING/MainProcess]  
+[2026-02-16 11:56:59,850: WARNING/MainProcess] 2026_KSEB_834144_1
+[2026-02-16 11:56:59,852: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:56:59,852: WARNING/MainProcess]  
+[2026-02-16 11:56:59,853: WARNING/MainProcess] 2026_KSEB_832620_1
+[2026-02-16 11:56:59,853: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:56:59,853: WARNING/MainProcess]  
+[2026-02-16 11:56:59,854: WARNING/MainProcess] 2026_KSEB_833534_1
+[2026-02-16 11:56:59,854: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:56:59,854: WARNING/MainProcess]  
+[2026-02-16 11:56:59,855: WARNING/MainProcess] 2026_KSEB_833229_1
+[2026-02-16 11:56:59,855: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:56:59,855: WARNING/MainProcess]  
+[2026-02-16 11:56:59,856: WARNING/MainProcess] 2026_KSEB_833112_1
+[2026-02-16 11:56:59,887: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:58:22,079: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:58:22,079: WARNING/MainProcess]  
+[2026-02-16 11:58:22,079: WARNING/MainProcess] 2026_KSEB_834129_1
+[2026-02-16 11:58:22,080: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:58:22,080: WARNING/MainProcess]  
+[2026-02-16 11:58:22,081: WARNING/MainProcess] 2026_KSEB_833583_1
+[2026-02-16 11:58:22,082: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:58:22,082: WARNING/MainProcess]  
+[2026-02-16 11:58:22,082: WARNING/MainProcess] 2026_KSEB_833359_1
+[2026-02-16 11:58:22,113: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:59:05,492: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:59:05,492: WARNING/MainProcess]  
+[2026-02-16 11:59:05,492: WARNING/MainProcess] 2026_KMML_834771_1
+[2026-02-16 11:59:05,512: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:59:10,327: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:59:14,139: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:59:36,464: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:59:40,401: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 11:59:44,210: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:59:44,210: WARNING/MainProcess]  
+[2026-02-16 11:59:44,210: WARNING/MainProcess] 2026_KSEB_836289_1
+[2026-02-16 11:59:44,211: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:59:44,211: WARNING/MainProcess]  
+[2026-02-16 11:59:44,212: WARNING/MainProcess] 2026_KSEB_835758_1
+[2026-02-16 11:59:44,213: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 11:59:44,213: WARNING/MainProcess]  
+[2026-02-16 11:59:44,213: WARNING/MainProcess] 2026_KSEB_834207_1
+[2026-02-16 11:59:44,237: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 12:37:41,258: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 12:38:31,373: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 12:38:31,374: WARNING/MainProcess]  
+[2026-02-16 12:38:31,374: WARNING/MainProcess] 2026_KSEB_836132_1
+[2026-02-16 12:38:31,374: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 12:38:31,374: WARNING/MainProcess]  
+[2026-02-16 12:38:31,374: WARNING/MainProcess] 2026_KSEB_836242_1
+[2026-02-16 12:38:31,378: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 12:38:31,378: WARNING/MainProcess]  
+[2026-02-16 12:38:31,378: WARNING/MainProcess] 2026_KSEB_834355_1
+[2026-02-16 12:38:33,134: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 12:38:33,135: WARNING/MainProcess]  
+[2026-02-16 12:38:33,135: WARNING/MainProcess] 2026_KSEB_834144_1
+[2026-02-16 12:38:33,136: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 12:38:33,136: WARNING/MainProcess]  
+[2026-02-16 12:38:33,137: WARNING/MainProcess] 2026_KSEB_832620_1
+[2026-02-16 12:38:33,137: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 12:38:33,137: WARNING/MainProcess]  
+[2026-02-16 12:38:33,137: WARNING/MainProcess] 2026_KSEB_833534_1
+[2026-02-16 12:38:33,137: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 12:38:33,137: WARNING/MainProcess]  
+[2026-02-16 12:38:33,137: WARNING/MainProcess] 2026_KSEB_833229_1
+[2026-02-16 12:38:33,138: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 12:38:33,138: WARNING/MainProcess]  
+[2026-02-16 12:38:33,138: WARNING/MainProcess] 2026_KSEB_833112_1
+[2026-02-16 12:38:33,154: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 12:39:52,492: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 12:39:52,492: WARNING/MainProcess]  
+[2026-02-16 12:39:52,493: WARNING/MainProcess] 2026_KSEB_834129_1
+[2026-02-16 12:39:52,493: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 12:39:52,493: WARNING/MainProcess]  
+[2026-02-16 12:39:52,494: WARNING/MainProcess] 2026_KSEB_833583_1
+[2026-02-16 12:39:52,495: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 12:39:52,495: WARNING/MainProcess]  
+[2026-02-16 12:39:52,495: WARNING/MainProcess] 2026_KSEB_833359_1
+[2026-02-16 12:39:52,511: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 12:40:43,056: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 12:40:43,056: WARNING/MainProcess]  
+[2026-02-16 12:40:43,057: WARNING/MainProcess] 2026_KMML_834771_1
+[2026-02-16 12:40:43,067: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 12:40:47,156: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 12:40:50,956: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 12:41:13,043: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 12:41:16,823: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 12:41:21,403: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 12:41:21,404: WARNING/MainProcess]  
+[2026-02-16 12:41:21,404: WARNING/MainProcess] 2026_KSEB_836289_1
+[2026-02-16 12:41:21,405: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 12:41:21,405: WARNING/MainProcess]  
+[2026-02-16 12:41:21,405: WARNING/MainProcess] 2026_KSEB_835758_1
+[2026-02-16 12:41:21,406: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 12:41:21,406: WARNING/MainProcess]  
+[2026-02-16 12:41:21,407: WARNING/MainProcess] 2026_KSEB_834207_1
+[2026-02-16 12:41:21,420: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 13:28:32,067: WARNING/MainProcess] Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+[2026-02-16 13:28:42,515: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 13:29:32,390: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 13:29:32,390: WARNING/MainProcess]  
+[2026-02-16 13:29:32,390: WARNING/MainProcess] 2026_KSEB_836242_1
+[2026-02-16 13:29:32,391: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 13:29:32,392: WARNING/MainProcess]  
+[2026-02-16 13:29:32,392: WARNING/MainProcess] 2026_KSEB_836132_1
+[2026-02-16 13:29:32,398: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 13:29:32,398: WARNING/MainProcess]  
+[2026-02-16 13:29:32,398: WARNING/MainProcess] 2026_KSEB_834355_1
+[2026-02-16 13:29:34,187: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 13:29:34,187: WARNING/MainProcess]  
+[2026-02-16 13:29:34,187: WARNING/MainProcess] 2026_KSEB_834144_1
+[2026-02-16 13:29:34,190: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 13:29:34,191: WARNING/MainProcess]  
+[2026-02-16 13:29:34,191: WARNING/MainProcess] 2026_KSEB_832620_1
+[2026-02-16 13:29:34,192: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 13:29:34,192: WARNING/MainProcess]  
+[2026-02-16 13:29:34,192: WARNING/MainProcess] 2026_KSEB_833534_1
+[2026-02-16 13:29:34,193: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 13:29:34,193: WARNING/MainProcess]  
+[2026-02-16 13:29:34,193: WARNING/MainProcess] 2026_KSEB_833112_1
+[2026-02-16 13:29:34,194: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 13:29:34,194: WARNING/MainProcess]  
+[2026-02-16 13:29:34,194: WARNING/MainProcess] 2026_KSEB_833229_1
+[2026-02-16 13:29:34,225: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 13:30:54,408: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 13:30:54,408: WARNING/MainProcess]  
+[2026-02-16 13:30:54,408: WARNING/MainProcess] 2026_KSEB_834129_1
+[2026-02-16 13:30:54,409: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 13:30:54,410: WARNING/MainProcess]  
+[2026-02-16 13:30:54,410: WARNING/MainProcess] 2026_KSEB_833583_1
+[2026-02-16 13:30:54,411: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 13:30:54,411: WARNING/MainProcess]  
+[2026-02-16 13:30:54,411: WARNING/MainProcess] 2026_KSEB_833359_1
+[2026-02-16 13:30:54,442: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 13:31:38,594: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 13:31:38,594: WARNING/MainProcess]  
+[2026-02-16 13:31:38,594: WARNING/MainProcess] 2026_KMML_834771_1
+[2026-02-16 13:31:38,614: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 13:31:42,415: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 13:31:46,315: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 13:32:08,654: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 13:32:12,448: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 13:32:16,236: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 13:32:16,236: WARNING/MainProcess]  
+[2026-02-16 13:32:16,236: WARNING/MainProcess] 2026_KSEB_836289_1
+[2026-02-16 13:32:16,237: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 13:32:16,237: WARNING/MainProcess]  
+[2026-02-16 13:32:16,238: WARNING/MainProcess] 2026_KSEB_835758_1
+[2026-02-16 13:32:16,239: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 13:32:16,239: WARNING/MainProcess]  
+[2026-02-16 13:32:16,239: WARNING/MainProcess] 2026_KSEB_834207_1
+[2026-02-16 13:32:16,263: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 13:34:21,703: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 13:35:03,816: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 13:35:03,816: WARNING/MainProcess]  
+[2026-02-16 13:35:03,816: WARNING/MainProcess] 2026_KSEB_836132_1
+[2026-02-16 13:35:03,817: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 13:35:03,818: WARNING/MainProcess]  
+[2026-02-16 13:35:03,818: WARNING/MainProcess] 2026_KSEB_836242_1
+[2026-02-16 13:35:05,652: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 13:35:05,652: WARNING/MainProcess]  
+[2026-02-16 13:35:05,653: WARNING/MainProcess] 2026_KSEB_834144_1
+[2026-02-16 13:35:05,655: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 13:35:05,655: WARNING/MainProcess]  
+[2026-02-16 13:35:05,656: WARNING/MainProcess] 2026_KSEB_832620_1
+[2026-02-16 13:35:05,656: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 13:35:05,656: WARNING/MainProcess]  
+[2026-02-16 13:35:05,657: WARNING/MainProcess] 2026_KSEB_833534_1
+[2026-02-16 13:35:05,657: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 13:35:05,658: WARNING/MainProcess]  
+[2026-02-16 13:35:05,658: WARNING/MainProcess] 2026_KSEB_833112_1
+[2026-02-16 13:35:05,658: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 13:35:05,659: WARNING/MainProcess]  
+[2026-02-16 13:35:05,659: WARNING/MainProcess] 2026_KSEB_833229_1
+[2026-02-16 13:35:05,690: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 13:36:20,313: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 13:36:20,313: WARNING/MainProcess]  
+[2026-02-16 13:36:20,313: WARNING/MainProcess] 2026_KSEB_833583_1
+[2026-02-16 13:36:20,344: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 13:36:50,396: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 13:36:50,396: WARNING/MainProcess]  
+[2026-02-16 13:36:50,396: WARNING/MainProcess] 2026_KMML_834771_1
+[2026-02-16 13:36:50,417: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 13:36:55,050: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 13:36:58,852: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 13:37:16,760: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 13:37:21,737: WARNING/MainProcess] No Next Page Link Found
+[2026-02-16 13:37:26,682: WARNING/MainProcess] ⏭️ Skipping existing tender:
+[2026-02-16 13:37:26,683: WARNING/MainProcess]  
+[2026-02-16 13:37:26,683: WARNING/MainProcess] 2026_KSEB_835758_1
+[2026-02-16 13:37:26,710: WARNING/MainProcess] No Next Page Link Found

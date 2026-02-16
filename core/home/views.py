@@ -320,7 +320,6 @@ def get_tenders(request):
 
     tender_filter = Q()
     final_exclude = Q()
-
     for req in client_reqs:
         state = req["state_name"]
 

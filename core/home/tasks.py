@@ -19,6 +19,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import StaleElementReferenceException
 from .models import TenderResults
 from django.contrib.auth.models import User
+
 # import logging
 # logger = logging.getLogger("home.tasks")
 

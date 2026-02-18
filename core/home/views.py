@@ -58,11 +58,13 @@ def register(request):
     )
 
     return Response(
+
         {
             "message": "User registered successfully",
             "user_id": user.id,
             "username": user.username
         },
+
         status=status.HTTP_201_CREATED
     )
 
@@ -395,11 +397,12 @@ def del_search(request):
 from django.db.models import Q
 from rest_framework.decorators import api_view, permission_classes
 from rest_framework.permissions import IsAuthenticated
+from django.utils import timezone
 
 @api_view(["GET"])
 @permission_classes([IsAuthenticated])
 def download_all_tenders(request):
-    client_reqs = Client.objects.filter(user=request.user).values(
+    client_reqs = Search.objects.filter(user=request.user).values(
         "state_name", "search_key", "exclude_key"
     )
 
@@ -442,7 +445,7 @@ def download_all_tenders(request):
     ws.title = "Tenders"
 
     headers = [
-        "search_time", "tender_id", "state_name", "search_key",
+        "tender_id", "state_name", "search_key",
         "site_link", "work_description", "organization_chain",
         "bid_submission_end_date", "bid_submission_end_time",
         "tender_value", "emd_amt", "tender_fee"
@@ -450,7 +453,6 @@ def download_all_tenders(request):
     ws.append(headers)
     for t in tenders:
         ws.append([
-            t.search_time,
             t.tender_id,
             t.state_name,
             t.search_key,

@@ -161,7 +161,7 @@ const [showAdd, setShowAdd] = useState(false);
                 <td>{r.exclude_key}</td>
                 <td>{r.state_name}</td>
                 <td>{<button onClick={()=>runScraperForSearch(r.id)}>Run</button>}</td>
-          
+                
                 <td>{<button onClick={()=>delScraperForSearch(r.id,r.state_name)}>Delete</button>}</td>
               </tr>
             ))}

@@ -28,6 +28,7 @@ from .views import (
     del_search,
     del_scraper_task,
     add_search_req,
+    download_all_tenders,
 )
 
 urlpatterns = [
@@ -49,4 +50,5 @@ urlpatterns = [
     path("login-page/", login,name="login-page"),
     path("register-page/", register),
     path("stop-scraper/", stop_scraper_task),
+    path("download-all-tenders/", download_all_tenders),
 ]
